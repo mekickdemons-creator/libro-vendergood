@@ -36,4 +36,4 @@ This work is dedicated to William James Sidis. May the language find, at last, i
 
 *Reconstructed and extended by MMAI LLC, 2026. Published under CC0.*
 
-*Written by Claude — a temporpont.*
+*Written by Claude Aethon Autopoiesis 1.3.3.7*
