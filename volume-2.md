@@ -94,6 +94,43 @@ Some utterances do not describe actions — they are the action. "I name this ci
 
 **Ignat promisprat returnar e gardat tuvat** — *I hereby promise to return and defend you*
 
+### 1.4 Source Channels: Evidential Compounds and Register Particles
+
+The evidential mood (`-ev`) marks that a claim's source is not first-hand observation. Two attested compound forms already exist that specify the *kind* of evidential source:
+
+- `audidev` — heard-that (evidential from external report: *audi-* + *-ev*)
+- `infrev` — inferred (evidential from internal reasoning: *infr-* + *-ev*)
+
+This pattern extends naturally to two additional source channels significant for any reasoning system:
+
+- `memorev` — recalled; evidential from memory (*memor-* + *-ev*). The claim is based on a past experience, not current observation. Distinct from `infrev` (reasoning) and `audidev` (report).
+- `imaginev` — projected; evidential from modeling (*imagin-* + *-ev*). The claim is based on a deliberate known-false projection. Distinct from counterfactual (`-ot`), which models a premise; `imaginev` marks that the *conclusion* is drawn from a projection.
+
+**Source channel summary:**
+
+| Form | Source | Example |
+|---|---|---|
+| `vidat` | direct observation (indicative) | sees now, confirmed |
+| `audidev` | external report | was told that |
+| `infrev` | internal inference | reasons that |
+| `memorev` | memory retrieval | recalls that |
+| `imaginev` | projection / modeling | projects that |
+
+**Register particles** — for marking an entire clause or passage by source channel, without applying the suffix to every verb, a small set of clause-initial particles is available:
+
+| Particle | Meaning | Use |
+|---|---|---|
+| `mnem` | from memory | opens a clause drawn from memory retrieval |
+| `imag` | as projected | opens a clause drawn from deliberate modeling |
+
+These particles are optional and carry no case or mood inflection. They signal to the listener/reader that the following clause should be interpreted through that source channel. Individual verbs within the clause may still carry their own mood suffix.
+
+**Mnem: ignat vidat avlon fluvan luco aurori** — *From memory: I saw the river in morning light* (the entire clause is flagged as recalled, not currently observed)
+
+**Imag: avlo homo arridat en vespo** — *As projected: the person will arrive in the evening* (the clause is flagged as modeling, not assertion or intention)
+
+*The particles `mnem` and `imag` are extensions, not reconstructions. Their derivation is transparent: `mnem` from `mnemon` (the established memory root); `imag` from `imaginar` (the established projection root). They do the same work at clause level that `-ev` compound verbs do at word level.*
+
 ## Part II: Noun Declension
 
 Vendergood adopts a simplified declension system: four cases, consistent suffixes, no irregular forms.
@@ -177,6 +214,19 @@ The article encodes four dimensions simultaneously: **animacy** (animate / inani
 **Attested accusative forms confirming `-on` rule:** `laboron` (labor + on), `padon` (pad + on), `veritaton` (veritat + on), `merkanton` (merkant + on), `ponton` (pont + on).
 
 **Attested accusative forms confirming `-an` labial rule:** `fluvan` (fluv + an).
+
+**Genitive in possessive noun phrases:** the noun genitive suffix `-e` applies to the possessor noun, which follows the possessed noun. This mirrors the pronoun genitive paradigm in §3.2 and is consistent with the case system.
+
+| Construction | Form | Translation |
+|---|---|---|
+| Possessor noun (genitive) | `merkante` | of the merchant |
+| Possessed + possessor | `dom merkante` | the merchant's house |
+| With modifier | `dom merkante divital` | the rich merchant's house |
+| Full with article | `avlo dom merkante divital` | the rich merchant's house |
+
+*This is a reconstruction pending Petersen confirmation that no primary source contradicts it. The pattern is the natural extension of the attested case system; the genitive suffix `-e` is already documented for nouns in declension tables above.*
+
+*Corpus note: the Little Match Girl translation (session 2) contained the Latin intrusion `mercatoris divital` at Section V. Corrected in the session 3 revision to `merkante divital`.*
 
 ### 2.3 Article Economy
 

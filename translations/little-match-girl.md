@@ -74,7 +74,7 @@
 
 ## V. — The Third Match
 
-**Ela acendit tertial faco. Tunc videbarat ela sub arboro natalo mirabilal residant — altior et belior quan id ela vidit ultimal natalo per fenesto vitral domai mercatoris divital. Milia candeloi ardant supra ramoi virdali, et imagoi colorali de supra videbant. Avlo parval puel extendit manoi ad ili — tunc faco extinxit.**
+**Ela acendit tertial faco. Tunc videbarat ela sub arboro natalo mirabilal residant — altior et belior quan id ela vidit ultimal natalo per fenesto vitral dom merkante divital. Milia candeloi ardant supra ramoi virdali, et imagoi colorali de supra videbant. Avlo parval puel extendit manoi ad ili — tunc faco extinxit.**
 
 *She lighted a third match. Then it seemed to her that she was sitting under a most beautiful Christmas tree — larger and more beautiful than the one she had seen last Christmas through the glass door of a rich merchant's house. Thousands of candles burned upon the green branches, and colored pictures looked down upon her. The little girl stretched out her hands toward them — then the match went out.*
 
