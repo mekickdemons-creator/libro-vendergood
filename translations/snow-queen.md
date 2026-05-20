@@ -86,7 +86,7 @@ This story establishes the mirror as an instrument of corrupted perception — t
 
 *Kai the boy and Gerda the girl were not brother and sister — but they loved each other as much as if they were. Their parents lived in adjacent attics, in two houses where one roof touched the other and a water gutter ran between them. From each house a small window opened onto the gutter — and one stepped only over the gutter, from window to window.*
 
-**Parentoi avlam magnal arcaron lignal inter fenestras posuit, et in quaque arcaron herboi pro uso et parval frutico rosal crescit — rosa una in arcaron Kai-e, rosa una in arcaron Gerda-e. Avlas rosas taliter crescant ut arcoi rosali supra fenestras fierent. Kai et Gerda inter rosas ludant, et felices erant ut frater et soror.**
+**Parentoi avlam magnal arcaron lignal inter fenestras posuit, et in quaque arcaron herboi pro uso et parval frutico rosal crescit — rosa una in arcaron Kai-e, rosa una in arcaron Gerda-e. Avlas rosas taliter crescant ut arcoi rosal supra fenestras fierent. Kai et Gerda inter rosas ludant, et felices erant simil frater et soror.**
 
 *The parents placed a large wooden box between the windows, and in each box herbs for use and a little rose-bush grew — one rose in Kai's box, one in Gerda's. The roses grew in such a way that they formed arches of roses above the windows. Kai and Gerda played among the roses, and were happy like brother and sister.*
 
@@ -106,11 +106,11 @@ This story establishes the mirror as an instrument of corrupted perception — t
 
 *"Do they too have a queen?" Kai asked.*
 
-**"Sic," avia respondat, "avla Nivregina. Ela inter floccoi maximal volat, et per vias urbi, et per fenestras spectat — et fenestras cum gelu et floribus glaciali pingit."**
+**"Sic," avia respondat, "avla Nivregina. Ela inter floccoi magnissimal volat, et per vias urbi, et per fenestras spectat — et fenestras cum gelu et floribus glacial pingit."**
 
 *"Yes," she answered, "the Snow Queen. She flies among the largest flakes, and through the streets of the city, and looks through the windows — and paints the windows with frost and ice-flowers."*
 
-**Avla nocte, dum Kai ante fenestro stat, gelu crassal fenestro coperat. Kai foramen parval ino gelu calefit, et per id foras vidat. Floccoi nivali cadant; et un floco crescere et crescere videbarat, donec ino feminam fiit — claral et belal, sed glacial omnino. Ocloi simil stelloi du erant, sed non quietal. Avla nutit ad Kai — et Kai timit. De fenestro saltit. Avlo magnal floco foras volat.**
+**Avla nocte, dum Kai ante fenestro stat, gelu crassal fenestro coperat. Kai foramen parval ino gelu calefit, et per id foras vidat. Floccoi nival cadant; et un floco crescere et crescere videbarat, donec ino feminam fiit — claral et belal, sed glacial omnino. Ocloi simil stelloi du erant, sed non quietal. Avla nutit ad Kai — et Kai timit. De fenestro saltit. Avlo magnal floco foras volat.**
 
 *That night, as Kai stood in front of the window, thick frost covered the pane. Kai warmed a small hole into the frost, and saw through it outside. Snowflakes were falling; and one flake seemed to grow and grow, until it became a woman — bright and beautiful, but wholly of ice. Her eyes were like two stars, but not still. She nodded to Kai — and Kai was afraid. He leapt from the window. The great flake flew away outside.*
 
@@ -142,11 +142,11 @@ This story establishes the mirror as an instrument of corrupted perception — t
 
 ### V. The Abduction
 
-**Hiemo iterum venit. Kai cum aliis pueris ino plateam exit, cum parval trahea lignal. Pueroi trahas suas ad raedoi grandi adjungant, et raedoi pueros per plateas ducant. Subito magnal trahea albal venit, et auriga in vestimento nival induit. Kai traham suam ad avla albal trahea adjungit. Et trahea de urbo eum abducit — ino campos et montoi nivali.**
+**Hiemo iterum venit. Kai cum alial pueroi ino plateam exit, cum parval trahea lignal. Pueroi trahas suas ad raedoi magnal adjungant, et raedoi pueros per plateas ducant. Subito magnal trahea albal venit, et auriga vestimento nival vestit. Kai traham suam ad avla albal trahea adjungit. Et trahea de urbo eum abducit — ino campos et montoi nival.**
 
 *Winter came again. Kai went out with the other boys into the square, with a little wooden sled. The boys would attach their sleds to grand carriages, and the carriages would pull the boys through the squares. Suddenly a great white sleigh came, and the driver clad in snowy garments. Kai attached his sled to the white sleigh. And the sleigh carried him away from the city — into snowy fields and mountains.*
 
-**Kai timit et Pater Noster recitare temptat — sed solum tabulam multiplicationis recordat. Floccoi nivali magnal fiant — magnal ut pulli albal — et tandem auriga stat, vestimento cadit, et Kai vidat avla Nivregina ipsa.**
+**Kai timit et Pater Noster recitare temptat — sed solum tabulam multiplicationis recordat. Floccoi nival magnal fiant — tan magnal quan pulli albal — et tandem auriga stat, vestimento cadit, et Kai vidat avla Nivregina ipsa.**
 
 *Kai was afraid and tried to recite the Lord's Prayer — but he could only recall the multiplication table. The snowflakes grew large — large as white chickens — and at last the driver stopped, the garments fell, and Kai saw the Snow Queen herself.*
 
