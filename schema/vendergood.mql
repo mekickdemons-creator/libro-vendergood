@@ -1,12 +1,13 @@
-// Vendergood Emdros Schema — v0.1 (draft, pending Petersen review)
+// Vendergood Emdros Schema — v0.3
 //
 // Object model for the Vendergood corpus.
 // Backend: SQLite3.
 //
-// Design choices flagged for Petersen (see petersen/2026-05-19-schema.md):
-//   - Compounds represented as flat Word features (root_1, root_2) rather than
-//     nested Compound objects. Simpler queries; loses nesting if phrase-level
-//     compound structure is ever needed.
+// Design decisions (session 3, final):
+//   - Compounds represented as flat Word features (root_1, root_2, root_3) rather
+//     than nested Compound objects. Sufficient at this scale; nested objects add
+//     complexity without benefit for "find words sharing root X" queries.
+//     root_3 added for triple compounds (Vol II §4.2, e.g. imaginiteralt).
 //   - Sentence monads are sequential integers; each Word is one monad.
 //     Sentence spans a range over its words.
 
@@ -25,19 +26,26 @@ WITH SINGLE MONAD OBJECTS
   // Lemma: the citation/root form
   lemma : STRING DEFAULT "" ;
 
-  // For simple roots: root_1 = the root, root_2 = ""
-  // For compounds: root_1 = primary root (last in the compound),
-  //                root_2 = modifying root (first in the compound)
-  // Additional roots (triple compounds) handled by extending to root_3 if needed.
+  // For simple roots: root_1 = the root, root_2 = root_3 = ""
+  // For two-root compounds: root_1 = primary (last), root_2 = modifier (first)
+  // For three-root compounds: root_1 = primary, root_2 = inner modifier,
+  //                           root_3 = outer modifier
+  // e.g. imaginiteralt: root_1="iter", root_2="imag", root_3="" ... wait:
+  //   imagin (outer) + iter (inner) + alt-suffix — root_1="iter", root_2="imagin"
+  // e.g. temporpontoper: root_1="oper", root_2="pont", root_3="tempor"
   root_1 : STRING DEFAULT "" ;
   root_2 : STRING DEFAULT "" ;
+  root_3 : STRING DEFAULT "" ;
 
   // Grammatical category: noun_animate, noun_inanimate, verb, adjective, pronoun,
   //                        numeral, particle, conjunction
   category : STRING DEFAULT "" ;
 
-  // Mood suffix (verbs only): at, ev, ut, ant, opt, deon, abi, hab, alt, cf, imp, ar
-  // Matches the 12-mood system in volume-2.md + infinitive (ar)
+  // Mood suffix (verbs only): at, ev, it, ot, ut, vit, ant, alt, a, an, ust, prat, ar
+  // Matches the 12-mood system in Vol II §1.1 + infinitive (ar)
+  // at=indicative, ev=evidential, it=subjunctive, ot=counterfactual, ut=potential,
+  // vit=optative, ant=intentive, alt=habitual, a=imperative, an=imperative-absolute,
+  // ust=strongeable, prat=performative, ar=infinitive
   mood_suffix : STRING DEFAULT "" ;
 
   // Past tense marker: present or past
@@ -54,6 +62,10 @@ WITH SINGLE MONAD OBJECTS
 
   // Article stem carried by this word's article (if any): avlo/avla/ablo/abla etc.
   article_stem : STRING DEFAULT "" ;
+
+  // Voice: active or passive
+  // Passive forms use the -ur/-urit suffix (e.g. tollurit = was taken)
+  voice : STRING DEFAULT "active" ;
 
   // Source addition file: e.g. "temporpont", "alterfin"
   source : STRING DEFAULT "" ;
