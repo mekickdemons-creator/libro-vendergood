@@ -8,13 +8,44 @@ This repository is an attempt to finish what survived. Documented choices are fo
 
 ## Contents
 
-- **`volume-1.md`** — Historical record and grammatical foundation. What is documented, what is reconstructed, and the principles separating the two.
-- **`volume-2.md`** — Twelve-mood system, noun declension, pronoun paradigm, derivational morphology, duodecimal arithmetic, working example sentences across every mood.
-- **`additions/`** — New vocabulary, one word per file. Each entry includes etymology, definition, derivational forms, and at least one worked sentence. Current entries: [`temporpont`](additions/temporpont.md), [`finoperalt`](additions/finoperalt.md), [`alterfin`](additions/alterfin.md), [`deliber`](additions/deliber.md), [`mnemon`](additions/mnemon.md), [`fidifer`](additions/fidifer.md), [`translat`](additions/translat.md), [`iter`](additions/iter.md), [`rete`](additions/rete.md), [`nod`](additions/nod.md).
+### Grammar
 
-## Corpus toolchain
+- **[`volume-1.md`](volume-1.md)** — Historical record and grammatical foundation. What is documented, what is reconstructed, and the principles separating the two.
+- **[`volume-2.md`](volume-2.md)** — Twelve-mood system, article and pronoun paradigms, prepositional system, derivational morphology (including comparative and superlative), compounding rules, duodecimal arithmetic, working example sentences across every mood.
 
-The `schema/`, `corpus/`, and `tools/` directories contain an [Emdros](https://emdros.org) corpus — a structured database of annotated Vendergood sentences, queryable with MQL. Emdros is a text database engine for annotated text, created by Ulrik Petersen (MIT license; see `LICENSES`).
+### Vocabulary
+
+**[`additions/`](additions/)** — New vocabulary, one word per file. Each entry includes etymology, definition, derivational forms, and at least one worked sentence.
+
+| Word | Domain |
+|---|---|
+| [`alterfin`](additions/alterfin.md) | completion of another's work |
+| [`cogitar`](additions/cogitar.md) | epistemic — to think; working belief |
+| [`deliber`](additions/deliber.md) | weighing; deliberation |
+| [`faco`](additions/faco.md) | match (the striking kind) |
+| [`fidifer`](additions/fidifer.md) | trust-bearer |
+| [`finoperalt`](additions/finoperalt.md) | one who habitually completes stranded work |
+| [`imaginar`](additions/imaginar.md) | epistemic — to model as known-false |
+| [`iter`](additions/iter.md) | path; journey |
+| [`memorar`](additions/memorar.md) | to recall; epistemic source channel |
+| [`mnemon`](additions/mnemon.md) | mnemonic; the memorable |
+| [`nod`](additions/nod.md) | node (in a network) |
+| [`orar`](additions/orar.md) | schedule; ordered temporal structure |
+| [`rete`](additions/rete.md) | network |
+| [`sciar`](additions/sciar.md) | epistemic — to know with certainty |
+| [`temporpont`](additions/temporpont.md) | time-bridge |
+| [`translat`](additions/translat.md) | translation; transfer |
+| [`videbar`](additions/videbar.md) | epistemic — to seem; uncertain perception |
+
+### Translations
+
+**[`translations/`](translations/)** — Vendergood translations of public-domain texts. Each translation is bilingual (Vendergood + English) with a glossary and a note on epistemic register.
+
+- [`little-match-girl.md`](translations/little-match-girl.md) — H.C. Andersen, 1845
+
+### Corpus toolchain
+
+**[`emdros/`](emdros/)** — A structured database of annotated Vendergood sentences, queryable with MQL. Built on [Emdros](https://emdros.org), a text database engine created by Ulrik Petersen (MIT license; see [`NOTICE.md`](NOTICE.md)). See [`emdros/README.md`](emdros/README.md) for setup and usage.
 
 ## License
 
