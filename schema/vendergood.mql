@@ -3,11 +3,11 @@
 // Object model for the Vendergood corpus.
 // Backend: SQLite3.
 //
-// Design decisions (session 3, final):
+// Design decisions:
 //   - Compounds represented as flat Word features (root_1, root_2, root_3) rather
 //     than nested Compound objects. Sufficient at this scale; nested objects add
 //     complexity without benefit for "find words sharing root X" queries.
-//     root_3 added for triple compounds (Vol II §4.2, e.g. imaginiteralt).
+//     root_3 for triple compounds (Vol II §4.2, e.g. imaginiteralt).
 //   - Sentence monads are sequential integers; each Word is one monad.
 //     Sentence spans a range over its words.
 

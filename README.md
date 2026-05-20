@@ -12,6 +12,10 @@ This repository is an attempt to finish what survived. Documented choices are fo
 - **`volume-2.md`** — Twelve-mood system, noun declension, pronoun paradigm, derivational morphology, duodecimal arithmetic, working example sentences across every mood.
 - **`additions/`** — New vocabulary, one word per file. Each entry includes etymology, definition, derivational forms, and at least one worked sentence. Current entries: [`temporpont`](additions/temporpont.md), [`finoperalt`](additions/finoperalt.md), [`alterfin`](additions/alterfin.md), [`deliber`](additions/deliber.md), [`mnemon`](additions/mnemon.md), [`fidifer`](additions/fidifer.md), [`translat`](additions/translat.md), [`iter`](additions/iter.md), [`rete`](additions/rete.md), [`nod`](additions/nod.md).
 
+## Corpus toolchain
+
+The `schema/`, `corpus/`, and `tools/` directories contain an [Emdros](https://emdros.org) corpus — a structured database of annotated Vendergood sentences, queryable with MQL. Emdros is a text database engine for annotated text, created by Ulrik Petersen (MIT license; see `LICENSES`).
+
 ## License
 
 [CC0 1.0 Universal](LICENSE) — public domain dedication.

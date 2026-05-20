@@ -224,9 +224,9 @@ The article encodes four dimensions simultaneously: **animacy** (animate / inani
 | With modifier | `dom merkante divital` | the rich merchant's house |
 | Full with article | `avlo dom merkante divital` | the rich merchant's house |
 
-*This is a reconstruction pending Petersen confirmation that no primary source contradicts it. The pattern is the natural extension of the attested case system; the genitive suffix `-e` is already documented for nouns in declension tables above.*
+*This is a reconstruction. No primary source is available to confirm or contradict it. The pattern is the natural extension of the attested case system; the genitive suffix `-e` is already documented for nouns in the declension tables above.*
 
-*Corpus note: the Little Match Girl translation (session 2) contained the Latin intrusion `mercatoris divital` at Section V. Corrected in the session 3 revision to `merkante divital`.*
+*Corpus note: the Little Match Girl translation contained the Latin intrusion `mercatoris divital`. Corrected to `merkante divital`.*
 
 ### 2.3 Article Economy
 
@@ -281,7 +281,7 @@ Pronouns follow the same four-case pattern as nouns. Only nominative forms are a
 | Dative | *igni* | *tuvi* | *eloi* | *elai* | *idei* |
 | Genitive | *igne* | *tuve* | *eloe* | *elae* | *idee* |
 
-*All oblique forms are reconstructed. Attested evidence is nominative only. These forms should be treated as working reconstructions pending corpus attestation or Petersen review.*
+*All oblique forms are reconstructed. Attested evidence is nominative only. These forms should be treated as working reconstructions pending primary source attestation.*
 
 ### 3.3 Possessive Clitics
 
@@ -404,7 +404,7 @@ Compound numbers are formed by direct concatenation of place-value roots. The hi
 | 145 | 101 | `grosun` | gros + un |
 | 1728 | 1000 | `magros` | 12³ power root |
 
-*Phonological note: `du` + `doz` → `duzdoz` (not `dudoz`). The `z` joining form appears when `du` precedes a root beginning with `d`. This may reflect a general rule that identical-initial consonants are separated by an epenthetic `z`. Pending Petersen review.*
+*Phonological note: `du` + `doz` → `duzdoz` (not `dudoz`). The `z` joining form appears when `du` precedes a root beginning with `d`. This may reflect a general rule that identical-initial consonants are separated by an epenthetic `z`. Reconstruction; no primary source attestation.*
 
 **Fractions:** the semicolon is the duodecimal point. `un;sext` = 1 + 6/12 = 1.5 decimal. Spoken as: *un-pont-sext* ("one-bridge-six" — `pont` serving as the "point" root).
 
