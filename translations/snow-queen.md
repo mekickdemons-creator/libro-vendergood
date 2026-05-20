@@ -82,7 +82,7 @@ This story establishes the mirror as an instrument of corrupted perception — t
 
 *In the big city, where there were so many houses and people that not everyone could have a garden, most people contented themselves with flowers in pots. But two poor little children lived there, who had a garden somewhat larger than a flower pot.*
 
-**Avlo puer Kai et avla puella Gerda non frater et soror erant — sed se invicem amat tan multal quan si sic erant. Parentoi eorum in mansardoi adjacental vivant, in domoi du ubi tegumento uno tangat alterum et canalo aquatical inter currit. De quaque domo parval fenestro aperabat ino canalum — et quis solum supra canalo stepat de fenestro ad fenestro.**
+**Avlo puer Kai et avla puella Gerda non frater et soror erant — sed se invicem amat tan multal quan si sic estot. Parentoi eorum in mansardoi adjacental vivant, in domoi du ubi tegumento uno tangat alterum et canalo aquatical inter currit. De quaque domo parval fenestro aperabat ino canalum — et quis solum supra canalo stepat de fenestro ad fenestro.**
 
 *Kai the boy and Gerda the girl were not brother and sister — but they loved each other as much as if they were. Their parents lived in adjacent attics, in two houses where one roof touched the other and a water gutter ran between them. From each house a small window opened onto the gutter — and one stepped only over the gutter, from window to window.*
 

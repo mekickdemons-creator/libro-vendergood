@@ -42,7 +42,7 @@
 
 ---
 
-**Ela invenit angulo quan aedo prodit parval — et ela residit, pedoi elai trahant sub se. Ela frigior et frigior esit, sed ela ausar non domo iter, nam ela vendit non facoi, et non merit un denaro: avlo patr elai certal verberat; et frigo esit in domo etiam, nam ili habitit tecto solum, et avlo vent ululit, etiam quan foramoi magnal stopurit stramento et panno.**
+**Ela invenit angulo quan aedo prodit parval — et ela residit, pedoi elai trahant sub se. Ela frigior et frigior esit, sed ela ausar non domo iter, nam ela vendit non facoi, et non merit un denaro: avlo patr elai certal verberot; et frigo esit in domo etiam, nam ili habitit tecto solum, et avlo vent ululit, etiam quan foramoi magnal stopurit stramento et panno.**
 
 *She found a corner where one house jutted out a little — and she sat herself down, drawing her little feet under her. She grew colder and colder, but she did not dare to go home, for she had not sold any matches, nor earned a single coin: her father would certainly beat her; besides, it was cold at home too, for they had only the roof to cover them, and the wind howled, even though the largest holes had been stuffed with straw and rags.*
 
@@ -141,4 +141,4 @@ Two passages have been revised to apply the mood system documented in Vol II §1
 
 **Applied — Section VI, "take me with you":** `Tollur me tecum` (present passive — the passive voice does not express a command) revised to `Tolla me tecum` (imperative `-a`). The girl is commanding her grandmother, not describing herself being taken. Note: `tecum` remains a Latin intrusion pending a Vendergood genitive construction for animate nouns.
 
-**Pending — Section II, corner passage:** the deontic necessity underlying the match-selling obligation (`ela ausar non domo iter, nam ela vendit non facoi`) is present in the English but unmarked in the Vendergood. Applying the strongeable mood (`-ust`) or imperative absolute (`-an`) to the selling obligation requires a principled methodology for encoding implied obligation. Deferred to the next revision pass.
+**Applied — Section II, corner passage:** the deontic necessity underlying the match-selling obligation is now encoded structurally. The line `avlo patr elai certal verberat` (would beat — counterfactual in English) is revised to `verberot` (counterfactual `-ot`). Per the methodology in Vol II §1.4, this is Strategy A (counterfactual consequence only) combined with Strategy C (`ausar non` for the psychological state). The implied obligation — that she should have sold matches — is carried by the counterfactual consequence rather than marked explicitly with `-ust`, preserving the implicit register of the source.

@@ -94,7 +94,69 @@ Some utterances do not describe actions — they are the action. "I name this ci
 
 **Ignat promisprat returnar e gardat tuvat** — *I hereby promise to return and defend you*
 
-### 1.4 Source Channels: Evidential Compounds and Register Particles
+### 1.4 Deontic Methodology
+
+The three deontic moods — imperative `-a`, imperative absolute `-an`, and strongeable `-ust` — encode different sources and intensities of obligation. Choosing among them is a question of *who is doing the requiring, with what force, and on what kind of action*.
+
+**Imperative `-a` — direct command, refusable**
+
+A command addressed by one speaker to another. The addressee can refuse; refusal is a meaningful response. Used for requests, instructions, mild commands.
+
+- `Tolla me tecum` — *Take me with you* (addressed; the hearer could decline)
+- `Veni cum igne` — *Come with me*
+
+**Imperative absolute `-an` — unconditional, refusal excluded**
+
+The action is required by the structure of the situation; refusal is not a meaningful response. Used for moral imperatives, physical laws, metaphysical necessity. Not addressed to anyone in particular — the imperative is the structure speaking.
+
+- `Returnan ivlo dom ad veretat` — *The house must be returned to the truth*
+- `Non occidan` — *Thou shalt not kill* (the prohibition is structural, not a command from one party to another)
+
+**Strongeable `-ust` — compelled action; the actor is not free**
+
+Describes an action the actor performs under compulsion — circumstance, force, necessity. The actor is the subject, but the choice is not theirs. Distinguishes from indicative (which would describe free action) and from imperative (which would address them).
+
+- `Ela vendar-ust facoi` — *She must sell matches* (compulsion of circumstance; she has no free choice)
+- `Tradust en agora` — *Trades in the agora under compulsion*
+
+**Implied obligation: encoding without explicit modal**
+
+When the source text implies obligation through consequence rather than stating it ("if she doesn't, X will happen"), Vendergood encodes this through one of three strategies. The choice depends on what the passage is *foregrounding*.
+
+*Strategy A — Counterfactual consequence only.* Leave the antecedent indicative; mark the consequence with `-ot` (counterfactual). The implied obligation is read structurally from the would-be consequence.
+
+- `Ela non vendit facoi: avlo patr elai certal verberot` — *She had not sold matches: her father would certainly beat her*
+
+The reader infers: she should have sold matches. The obligation is not marked, but the counterfactual carries it. **This is the default for translating implicit-obligation source text — it preserves the implicit register.**
+
+*Strategy B — Explicit obligation plus counterfactual consequence.* Mark the obligation with `-ust` and the consequence with `-ot`. Use when the obligation itself is the focus of the passage.
+
+- `Ela vendar-ust facoi sed non vendit; avlo patr elai certal verberot` — *She must sell matches but did not; her father would certainly beat her*
+
+*Strategy C — Daring / not-daring as the psychological focus.* For passages where the subject's fear or courage is the focus, not the obligation itself, use the dedicated verb `ausar` (to dare). This marks the psychological state (fear of consequence) rather than the obligation that grounds it.
+
+- `Ela ausar non domo iter` — *She did not dare go home*
+
+`ausar` and `-ot` compose freely: `ausar non` + counterfactual consequence captures both the psychological state and the implied obligation.
+
+**Diagnostic for choosing strategy:**
+
+| Source text marks... | Use |
+|---|---|
+| Explicit "must," "ought," "had to" | `-ust` on the obligation verb |
+| Direct command (one speaker to another) | `-a` (refusable) |
+| Moral / structural prohibition or necessity | `-an` (unconditional) |
+| Subject's fear of consequence | `ausar` + indicative |
+| Implication through "otherwise X would..." | `-ot` on consequence; antecedent indicative |
+| Mixed implication + focused obligation | `-ust` on obligation + `-ot` on consequence |
+
+**Worked LMG passage (Section II — corner):**
+
+> `Ela ausar non domo iter, nam ela vendit non facoi, et non merit un denaro: avlo patr elai certal verberot.`
+
+`ausar non` marks her fear (Strategy C). The `vendit non` and `non merit` indicatives report what happened. The `verberot` counterfactual carries the implied obligation (Strategy A): had she sold, had she earned, this beating would not be true. The obligation is structurally encoded without explicit `-ust` — preserving the implicit register of the source.
+
+### 1.5 Source Channels: Evidential Compounds and Register Particles
 
 The evidential mood (`-ev`) marks that a claim's source is not first-hand observation. Two attested compound forms already exist that specify the *kind* of evidential source:
 
