@@ -56,5 +56,3 @@ Derivational suffixes per Vol II §1.3.
 *The memory-holder thought and remembered; both were happening, but they were not the same.*
 
 (Contrast between `cogitar` — active working belief about the present/future — and `memorar` — recall of prior states. An agent can simultaneously hold a working belief and retrieve a stored memory; these are distinct operations. `Ambo erant, sed non idem` — both were, but not the same.)
-
-Draft — 2026-05-19. Sit for one session before promoting to `libro-vendergood/additions/`.

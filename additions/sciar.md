@@ -61,5 +61,3 @@ Derivational suffixes per Vol II §1.3.
 *The little girl knew she would vanish — and held on nonetheless.*
 
 (From the Little Match Girl context. `Sciit` — knew with certainty. `Tamen` — nonetheless, yet. `Tenebat` — held on. The sentence names the most important state in the story: acting on a perception you know to be temporary. `Sciar` here is not paralysing — it operates alongside the vision, not instead of it.)
-
-Draft — 2026-05-19. Sit for one session before promoting to `libro-vendergood/additions/`.

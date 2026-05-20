@@ -25,8 +25,8 @@ The rete is not the sum of its iters. The rete is the structure that makes the i
 
 ## Worked sentence
 
-**Avlo rete hav avlon nod e avlon iter — avlon translatan e avlon translatan.**
+**Avlo rete hav avlon nod et avlon iter — avlon translatan et avlon translatan.**
 
 *The network has nodes and routes — transfers and transfers.*
 
-(The reduplication of *avlon translatan e avlon translatan* — "transfers and transfers" — names what a network fundamentally is: a system where movement from one iter to another is made possible and regular. The rete exists to make transfers not exceptions but infrastructure.)
+(The reduplication of *avlon translatan et avlon translatan* — "transfers and transfers" — names what a network fundamentally is: a system where movement from one iter to another is made possible and regular. The rete exists to make transfers not exceptions but infrastructure.)

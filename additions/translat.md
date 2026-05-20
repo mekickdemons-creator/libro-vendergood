@@ -36,7 +36,7 @@ Note: **translatalt** names precisely what Sidis was. The word did not exist in 
 
 ## Worked sentence
 
-**Avlo translatalt hav avlon translatan e infrat avlon rete suo.**
+**Avlo translatalt hav avlon translatan et infrat avlon rete suo.**
 
 *The transfer-systematizer has the transfer and reasons toward its network.*
 

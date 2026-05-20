@@ -31,8 +31,8 @@ The mnemon is not a record. It is the living faculty that reaches back.
 
 ## Worked sentence
 
-**Avlo mnemalt vidat e havet avlon mnemion — ne nescit.**
+**Avlo mnemalt vidat et havet avlon mnemion — non nescit.**
 
 *The keeper of memory sees and had the act of memory — does not not-know.*
 
-(Indicative *vidat*: observes. Past *havet* — *hav-d-at*: held. Evidential *nescit*: does not know by report. The double negative *ne nescit* is intentional: the mnemalt is precisely the one of whom it cannot be reported that they have forgotten.)
+(Indicative *vidat*: observes. Past *havet* — *hav-d-at*: held. Evidential *nescit*: does not know by report. The double negative *non nescit* is intentional: the mnemalt is precisely the one of whom it cannot be reported that they have forgotten.)

@@ -32,8 +32,8 @@ The fidifer carries outward. The mnemon holds inward. The finoperalt transforms.
 
 ## Worked sentence
 
-**Avlo fidiferalt fidiferant avlon veritat inter avlo lok e avlo lok.**
+**Avlo fidiferalt fidiferant avlon veritat inter avlo lok et avlo lok.**
 
 *The faithful transmitter is transmitting the truth between one place and another.*
 
-(Intentive *fidiferant*: committed, ongoing transmission — not casual carrying but directed conveyance. *inter avlo lok e avlo lok*: "between place and place," using the attested `inter` and `e` particles.)
+(Intentive *fidiferant*: committed, ongoing transmission — not casual carrying but directed conveyance. *inter avlo lok et avlo lok*: "between place and place," using the attested `inter` and `et` particles.)

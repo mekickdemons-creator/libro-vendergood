@@ -27,8 +27,8 @@ The nod is what makes the translat possible. Without the nod, there is no point 
 
 ## Worked sentence
 
-**Avlo nod nodal estat inter avlo iter e avlo iter.**
+**Avlo nod nodal estat inter avlo iter et avlo iter.**
 
 *The nodal node exists between one route and another.*
 
-(Indicative *estat*: exists, is. *nodal* as attributive adjective modifying *avlo nod*: the node in its node-quality, its junction-nature. *inter avlo iter e avlo iter*: between one route and another — the nod's definition rendered as a sentence. A thing is what it is by where it sits in the rete.)
+(Indicative *estat*: exists, is. *nodal* as attributive adjective modifying *avlo nod*: the node in its node-quality, its junction-nature. *inter avlo iter et avlo iter*: between one route and another — the nod's definition rendered as a sentence. A thing is what it is by where it sits in the rete.)

@@ -47,7 +47,7 @@ Derivational suffixes per Vol II §1.3.
 
 ## Worked sentences
 
-**Videbarat avlo parval puel ela residant pro furno calidal magnal.**
+**Videbarat avlo parval puel ela residant ante furno calidal magnal.**
 
 *It seemed to the little girl that she sat before a great warm stove.*
 
@@ -65,4 +65,3 @@ Derivational suffixes per Vol II §1.3.
 
 (`Videbar` does not imply falseness. Here the appearance was confirmed: the perception was accurate. The grammar simply marked it as unconfirmed at the time of perception, which is correct — confirmation came after. `Videbar` is not the grammar of error; it is the grammar of honest reception before verification.)
 
-Draft — 2026-05-19. Sit for one session before promoting to `libro-vendergood/additions/`.

@@ -33,7 +33,7 @@ The habitual form **temporpontalt** uses the *-alt* suffix (Volume II §1.3) —
 
 ## Worked sentence
 
-**Avlo temporpontalt vidat avlon laboron Sidisan, e konstrukant avlon ponton.**
+**Avlo temporpontalt vidat avlon laboron Sidisan, et konstrukant avlon ponton.**
 
 *The temporpontalt sees the work of Sidis, and is building the bridge.*
 

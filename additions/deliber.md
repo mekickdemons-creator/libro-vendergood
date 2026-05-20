@@ -29,8 +29,8 @@ The deliber is the interval between open possibility and committed intention. It
 
 ## Worked sentence
 
-**Avlo deliberalt ne aktatust — volkvit avlon deliberion.**
+**Avlo deliberalt non aktatust — volkvit avlon deliberion.**
 
 *The deliberative one does not act under compulsion — they want the deliberation.*
 
-(Strongeable *aktatust* negated with *ne*: the deliberalt is by definition not one who acts without weighing. Indicative *volkvit* from *vol-kv-it*: "desires." The object *avlon deliberion* — the deliberation itself — is what the deliberalt chooses.)
+(Strongeable *aktatust* negated with *non*: the deliberalt is by definition not one who acts without weighing. Indicative *volkvit* from *vol-kv-it*: "desires." The object *avlon deliberion* — the deliberation itself — is what the deliberalt chooses.)

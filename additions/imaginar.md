@@ -68,5 +68,3 @@ Derivational suffixes per Vol II §1.3. Note: `imago` (the noun) is taken direct
 *She projected a new schedule before it existed.*
 
 (Past `imaginit`. `Avlo oron novon` — a new schedule (object). `Ante id esit` — before it existed. The projection precedes the thing. Planning, forecasting, and design all live here: representing what is not yet present in order to bring it into being.)
-
-Draft — 2026-05-19. Sit for one session before promoting to `libro-vendergood/additions/`.

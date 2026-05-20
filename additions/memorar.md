@@ -64,5 +64,3 @@ Derivational suffixes per Vol II §1.3.
 *She remembered, and seeming began; she knew, and seeming ended.*
 
 (Three verbs in sequence: `memorit` (recalled), `videbar incipit` (uncertain perception began), `sciit` (knew), `videbar finit` (uncertain perception ended). A compressed description of the Little Match Girl's epistemic arc: memory triggers vision; knowledge of the match's end closes it. `Memorar` and `sciar` act as the open and close brackets of `videbar`.)
-
-Draft — 2026-05-19. Sit for one session before promoting to `libro-vendergood/additions/`.

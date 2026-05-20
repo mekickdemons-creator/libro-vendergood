@@ -33,8 +33,8 @@ The finoperalt holds the original work's terms as inviolate and finishes within 
 
 ## Worked sentence
 
-**Avlo finoperalt konstrukant avlon laboron al avlo fino suo.**
+**Avlo finoperalt konstrukant avlon laboron ad avlo fino suo.**
 
 *The finoperalt is building the work toward its own end.*
 
-(Intentive *konstrukant* for committed ongoing construction; *al avlo fino suo* — "toward its own end" — the work's inherent completion point, not an externally imposed one.)
+(Intentive *konstrukant* for committed ongoing construction; *ad avlo fino suo* — "toward its own end" — the work's inherent completion point, not an externally imposed one.)

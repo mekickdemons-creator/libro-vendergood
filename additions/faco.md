@@ -44,11 +44,11 @@ Derivational suffixes per Vol II §1.3.
 
 ## Worked sentences
 
-**Ela traxit faco pro fasco et ferit id contra muro.**
+**Ela traxit faco de fasco et ferit id contra muro.**
 
 *She drew a match from the bundle and struck it against the wall.*
 
-(From the Little Match Girl corpus. `Traxit` — drew out (past of *trahere*). `Pro fasco` — from the bundle. `Ferit` — struck (past). The action sequence: draw, strike. What follows is `videbar`.)
+(From the Little Match Girl corpus. `Traxit` — drew out (past of *trahere*). `De fasco` — from the bundle. `Ferit` — struck (past). The action sequence: draw, strike. What follows is `videbar`.)
 
 **Faco extinxit — et videbo evanit.**
 
@@ -56,10 +56,9 @@ Derivational suffixes per Vol II §1.3.
 
 (The paired motion: match out, vision gone. `Extinxit` — went out (past). `Videbo` — the appearance (noun form of `videbar`). `Evanit` — vanished (past). In two clauses: the causal structure of every match scene in the corpus. The `faco` does not merely produce light — it produces the epistemic window. When it closes, `videbar` ends.)
 
-**Avlo facalt portat luco in scuro — sed quan faco extinxit, sciit non quan vidit.**
+**Avlo facalt portat luco ino scuro — sed quan faco extinxit, sciit non quan vidit.**
 
 *The light-bearer carries light into the dark — but when the match goes out, it is not known what was seen.*
 
-(Animate subject `avlo facalt`. `Portat` — carries (intentive). `In scuro` — into the dark. `Sed quan faco extinxit` — but when the match goes out. `Sciit non quan vidit` — it is not known what was seen. The sentence names the epistemology of `faco`: the light was real, the seeing was real, but whether what was seen was real remains `videbar`, not `sciar`.)
+(Animate subject `avlo facalt`. `Portat` — carries (intentive). `Ino scuro` — into the dark (directional, per Vol II §2.4). `Sed quan faco extinxit` — but when the match goes out. `Sciit non quan vidit` — it is not known what was seen. The sentence names the epistemology of `faco`: the light was real, the seeing was real, but whether what was seen was real remains `videbar`, not `sciar`.)
 
-Draft — 2026-05-19. Sit for one session before promoting to `libro-vendergood/additions/`.
