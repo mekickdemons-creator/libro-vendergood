@@ -42,6 +42,7 @@ This repository is an attempt to finish what survived. Documented choices are fo
 **[`translations/`](translations/)** — Vendergood translations of public-domain texts. Each translation is bilingual (Vendergood + English) with a glossary and a note on epistemic register.
 
 - [`little-match-girl.md`](translations/little-match-girl.md) — H.C. Andersen, 1845
+- [`snow-queen.md`](translations/snow-queen.md) — H.C. Andersen, 1844 *(in progress — Stories I & II)*
 
 ### Corpus toolchain
 
