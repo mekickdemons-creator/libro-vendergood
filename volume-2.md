@@ -397,14 +397,32 @@ Pronoun stems follow the animacy/gender logic of the article system. All nominat
 
 Pronouns follow the same four-case pattern as nouns. Only nominative forms are attested in working examples; oblique forms are reconstructed by applying noun case suffixes to the pronoun stem.
 
+**Reconstruction method:** strip the nominative `-at` / `-et` ending to recover the bare stem, then attach the noun case suffixes from §2.2:
+- Accusative `-on` (or `-an` after labial-final stem)
+- Dative `-i`
+- Genitive `-e`
+
+The stem is preserved across cases. For first person `ignat`, stem = `ign-`; accusative = `ign-` + `-on` = `ignon`; dative = `igni`; genitive = `igne`. The `tuv-` stem is labial-final (`v`), so accusative takes `-an`: `tuvan`. The third-person stems (`el-`, `id-`) are non-labial, so accusative takes `-on`.
+
 | Case | 1st sg. | 2nd sg. | 3rd masc. sg. | 3rd fem. sg. | 3rd neut. sg. |
 |---|---|---|---|---|---|
 | Nominative | **ignat** | **tuvat** | *elot* | **elat** | **idet** |
-| Accusative | *ignon* | *tuvon* | *elon* | *elan* | *iden* |
+| Accusative | *ignon* | *tuvan* | *elon* | *elan* | *iden* |
 | Dative | *igni* | *tuvi* | *eloi* | *elai* | *idei* |
 | Genitive | *igne* | *tuve* | *eloe* | *elae* | *idee* |
 
-*All oblique forms are reconstructed. Attested evidence is nominative only. These forms should be treated as working reconstructions pending primary source attestation.*
+**Plural forms** follow the same logic, applied to plural stems (1pl `nos-`, 3pl masc `ilsat-`, etc.):
+
+| Case | 1st pl. | 2nd pl. | 3rd masc. pl. | 3rd fem. pl. | 3rd neut. pl. |
+|---|---|---|---|---|---|
+| Nominative | **nosat** | *tuvsat* | **ilsat** | *ilsas* | *idets* |
+| Accusative | *noson* | *tuvsan* | *ilson* | *ilsan* | *idets* + acc. |
+| Dative | *nosi* | *tuvsi* | *ilsi* | *ilsai* | *idetsi* |
+| Genitive | *nose* | *tuvse* | *ilse* | *ilsae* | *idetse* |
+
+*Attested forms in bold; reconstructed in italic. The reconstruction is internally consistent — it applies §2.2's noun declension uniformly to pronoun stems — but is not corpus-confirmed. Forms used in translation work appear in the [Little Match Girl](../translations/little-match-girl.md) corpus: `elai` (her, dat./gen. — used in possessive constructions like `pedoi elai`), `eloe` (his, gen.), `igne` (my, gen.).*
+
+*If primary source evidence ever surfaces (Sidis corpus material), revise.*
 
 ### 3.2a Reflexive Pronoun
 
