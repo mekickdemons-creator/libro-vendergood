@@ -135,17 +135,54 @@ The article encodes four dimensions simultaneously: **animacy** (animate / inani
 
 ### 2.2 Worked Declension
 
-Root: **hom** (person) — animate, gender determined by article
+**Noun case suffixes** attach directly to the root. The article carries animacy, gender, definiteness, and number — the noun carries case only.
+
+| Case | Suffix | Notes |
+|---|---|---|
+| Nominative | `-o` | Added to consonant-final roots. Vowel-final roots use zero suffix (root form is the nominative). |
+| Accusative | `-on` | Standard. Becomes `-an` after labial-final roots (v, b, p, m). |
+| Dative | `-i` | Indirect object, recipient. *(reconstructed)* |
+| Genitive | `-e` | Possession, source. *(reconstructed)* |
+| Plural | + `-s` | Appended after the case suffix: `-os` (nom pl), `-ons` (acc pl), `-is` (dat pl), `-es` (gen pl). |
+
+*Note on nominative shorthand: roots ending in `-t` or consonant clusters sometimes appear without the `-o` in working examples (`merkant`, not `merkanto`). This is a speech-shorthand only — the full nominative always carries `-o`. Citation forms use the full form.*
+
+**Worked declension — `hom` (person), animate, singular:**
+
+| Case | Article | Noun | Translation |
+|---|---|---|---|
+| Nominative | avlo | **homo** | the person (subject) |
+| Accusative | avlon | **homon** | the person (direct object) |
+| Dative | *avli* | *homoi* | to/for the person *(reconstructed)* |
+| Genitive | *avle* | *homoe* | of the person *(reconstructed)* |
+
+**Worked declension — `hom` (person), animate, plural:**
+
+| Case | Article | Noun | Translation |
+|---|---|---|---|
+| Nominative | avlos | **homos** | the people (subject) |
+| Accusative | avlons | **homons** | the people (direct object) |
+| Dative | *avlis* | *homois* | to/for the people *(reconstructed)* |
+| Genitive | *avles* | *homoес* | of the people *(reconstructed)* |
+
+**Worked declension — `fluv` (river), animate, singular** — demonstrating labial accusative rule:
+
+| Case | Article | Noun | Translation |
+|---|---|---|---|
+| Nominative | avlo | **fluvo** | the river (subject) |
+| Accusative | avlon | **fluvan** | the river (direct object) — `-an` after labial `v` |
+| Dative | *avli* | *fluvi* | to/for the river *(reconstructed)* |
+| Genitive | *avle* | *fluve* | of the river *(reconstructed)* |
+
+**Attested accusative forms confirming `-on` rule:** `laboron` (labor + on), `padon` (pad + on), `veritaton` (veritat + on), `merkanton` (merkant + on), `ponton` (pont + on).
+
+**Attested accusative forms confirming `-an` labial rule:** `fluvan` (fluv + an).
 
 ## Part III: Pronoun System
 
 Pronouns follow the same case system as nouns. They are derived from Latin and Greek roots, shortened for ease of use.
 
 ### 3.1 Personal Pronouns
-
-*Pronoun nominative forms end in -at, echoing the indicative mood suffix. This is intentional: a pronoun in its base form asserts existence as direct fact. The third person neuter idet uses -et to distinguish neuter from masculine, not to invoke the evidential mood — context disambiguates, and pronouns are never used as verbs.*
-
-### 3.1 Personal Pronouns — Nominative
 
 Pronoun stems follow the animacy/gender logic of the article system. All nominative forms end in `-at` except neuter third person (`-et`).
 
@@ -330,6 +367,21 @@ Every sentence below is constructed from roots and affixes documented in Volumes
 Sidis was aware of Esperanto — Zamenhof published it in 1887, eleven years before Sidis's birth. Contemporaneous accounts described Vendergood as simpler than Esperanto in some respects and harder to pronounce.
 
 ### 7.1 Structural Comparison
+
+| Feature | Vendergood | Esperanto |
+|---|---|---|
+| **Mood system** | 12 moods including evidential (reported/inferred), counterfactual, intentive, habitual | ~5: indicative, conditional, volitive, imperative, infinitive. No evidential; no counterfactual separate from conditional |
+| **Epistemic source marking** | Grammaticalized: every claim is either indicative (observed) or evidential (reported/inferred) | None. "I heard that..." requires an explicit phrase; grammar does not enforce it |
+| **Noun cases** | 4: nominative, accusative, dative, genitive | 2: nominative and accusative (marked with `-n`). Dative/genitive expressed via prepositions |
+| **Article system** | Multi-dimensional: encodes animacy, gender, definiteness, number simultaneously | Single definite article `la` (invariable). No indefinite article |
+| **Gender system** | Marked on article; animate nouns carry gender via their article, not the noun itself | Masculine default; feminine formed by adding suffix `-in-` to root. Gendered nouns are marked on the noun |
+| **Word order** | SVO fixed | Free (accusative `-n` marks the object regardless of position) |
+| **Regularity** | Fully regular; no exceptions | Fully regular; no exceptions |
+| **Compounding** | Root concatenation; primary root comes last (modifiers precede) | Agglutinative concatenation; can combine freely |
+| **Vocabulary sources** | Latin and Greek primarily; some Germanic | Broadly European: Romance, Germanic, Slavic, Greek |
+| **Phonology** | Classical Latin/Greek inventory; harder to pronounce for speakers without Romance background | Designed for cross-language-family ease; 28 phonemes, one value per letter |
+| **Number system** | Base-12 | Base-10 |
+| **Designed for** | Precision of epistemic and volitional state; mathematical regularity | Rapid acquisition across language backgrounds; international auxiliary use |
 
 ### 7.2 Where Each Excels
 
