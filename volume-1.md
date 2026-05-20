@@ -143,6 +143,8 @@ The following core vocabulary is reconstructed from Latin and Greek roots consis
 | `terr` | inanimate | earth, ground | Latin *terra* | *[R]* |
 | `akv` | inanimate | water | Latin *aqua* | *[R]* |
 | `ignis` | inanimate | fire | Latin *ignis* | *[R]* |
+| `fin` | inanimate | end, completion, the inherent terminus of a thing | Latin *finis* | *[R]* |
+| `oper` | inanimate | work, labor, opus | Latin *opus / operis* | *[R]* |
 
 ### 4.2 States and Conditions (Verb Roots)
 
