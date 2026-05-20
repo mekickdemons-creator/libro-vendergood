@@ -404,27 +404,34 @@ Derivational morphology is the engine of Vendergood. A small root vocabulary gen
 
 ### 4.1a Comparative and Superlative
 
-Adjectives form comparatives and superlatives by suffixation. The `-al` adjective suffix is dropped before the comparative/superlative suffix attaches; the resulting form is itself invariant (per §2.1).
+Adjectives form comparatives and superlatives by suffixation on the bare root. The `-al` adjective suffix is dropped and replaced by `-ior` (comparative) or `-issimal` (superlative). The resulting forms are invariant (per §2.1).
 
-| Form | Suffix | Example | Meaning |
+| Form | Suffix | Construction | Result |
 |---|---|---|---|
-| Adjective (base) | `-al` | `belal` | beautiful |
-| Comparative | `-ior` | `belior` | more beautiful |
-| Superlative | `-issimal` | `belissimal` | most beautiful |
+| Adjective (base) | `-al` | root + `-al` | `belal` (beautiful) |
+| Comparative | `-ior` | root + `-ior` | `belior` (more beautiful) |
+| Superlative | `-issimal` | root + `-issimal` | `belissimal` (most beautiful) |
 
 **Worked examples:**
 
-- `frigal` → `frigalior` (colder) → `frigalissimal` (coldest)
-- `altal` → `altior` (higher) → `altissimal` (highest)
-- `lucidal` → `lucidior` (brighter) → `lucidissimal` (brightest)
-- `turpal` → `turpalior` (uglier) → `turpalissimal` (ugliest)
+| Root | Adjective | Comparative | Superlative |
+|---|---|---|---|
+| `bel-` | belal | belior | belissimal |
+| `frig-` | frigal | frigior | frigissimal |
+| `alt-` | altal | altior | altissimal |
+| `lucid-` | lucidal | lucidior | lucidissimal |
+| `turp-` | turpal | turpior | turpissimal |
+| `magn-` | magnal | magnior | magnissimal |
+| `bon-` | bonal | bonior | bonissimal |
+| `mirabil-` | mirabilal | mirabilior | mirabilissimal |
+| `minut-` | minutal | minutior | minutissimal |
 
 **Comparison construction:** the comparand follows `quan` ("than").
 
 - `belior quan stelloi` — more beautiful than the stars
-- `frigalior quan glacio` — colder than ice
+- `frigior quan glacio` — colder than ice
 
-*Phonological note: when the adjective root ends in `-al` after suffix attachment (e.g., `frigal-` retains `-al-` before `-ior`), the form is `frigalior`, not `frigior`. When the root ends in a different vowel or consonant cluster, `-al` is dropped (`altal` → `altior`). The pattern follows Latin precedent: comparison suffixes attach to the comparable stem, not necessarily the citation form.*
+*The rule is uniform: take the root (the form before `-al` is attached) and append `-ior` or `-issimal`. Do not use Latin suppletive comparatives (`major`, `optimus`, `peior`) — Vendergood derives comparison productively from the same root. `magnal` → `magnior`, not `majorior`; `bonal` → `bonissimal`, not `optimal`.*
 
 ### 4.2 Compounding
 

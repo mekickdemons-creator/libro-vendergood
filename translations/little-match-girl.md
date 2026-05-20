@@ -42,7 +42,7 @@
 
 ---
 
-**Ela invenit angulo quan aedo prodit parval — et ela residit, pedoi elai trahant sub se. Ela frigalior et frigalior esit, sed ela ausar non domo iter, nam ela vendit non facoi, et non merit un denaro: avlo patr elai certal verberat; et frigo esit in domo etiam, nam ili habitit tecto solum, et avlo vent ululit, etiam quan foramoi magnal stopurit stramento et panno.**
+**Ela invenit angulo quan aedo prodit parval — et ela residit, pedoi elai trahant sub se. Ela frigior et frigior esit, sed ela ausar non domo iter, nam ela vendit non facoi, et non merit un denaro: avlo patr elai certal verberat; et frigo esit in domo etiam, nam ili habitit tecto solum, et avlo vent ululit, etiam quan foramoi magnal stopurit stramento et panno.**
 
 *She found a corner where one house jutted out a little — and she sat herself down, drawing her little feet under her. She grew colder and colder, but she did not dare to go home, for she had not sold any matches, nor earned a single coin: her father would certainly beat her; besides, it was cold at home too, for they had only the roof to cover them, and the wind howled, even though the largest holes had been stuffed with straw and rags.*
 
@@ -98,7 +98,7 @@
 
 *"Grandmother!" cried the little girl. "Oh — take me with you! I know you will vanish when the match is burned out — you will vanish like the warm stove, the roast goose, and the large beautiful Christmas tree!"*
 
-**Et ela acendit celeriter reliquoi facoi de fasco, nam ela voluerat avlo aviam ibi tenere. Et facoi flamant luco lucidiori quan mediodie. Nunquam ante avlo avia talem magnal et belal esit. Ela avlo parval puel ino brachioi elai tollit, et ambo volant in luco et gaudo supra terro — ubi nec frigo, nec famo, nec doloro esit — nam ili cum Deo erant.**
+**Et ela acendit celeriter reliquoi facoi de fasco, nam ela voluerat avlo aviam ibi tenere. Et facoi flamant luco lucidior quan mediodie. Nunquam ante avlo avia talem magnal et belal esit. Ela avlo parval puel ino brachioi elai tollit, et ambo volant in luco et gaudo supra terro — ubi nec frigo, nec famo, nec doloro esit — nam ili cum Deo erant.**
 
 *And she hastily lit the rest of the matches in the bundle, for she wished to keep her grandmother there. And the matches blazed with a light brighter than noon-day. Never before had the grandmother looked so large and beautiful. She lifted the little girl in her arms, and they both flew in light and in joy far above the earth — where there was neither cold, nor hunger, nor pain — for they were with God.*
 
