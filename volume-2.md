@@ -267,6 +267,7 @@ Vendergood encodes spatial and relational meaning through prepositions rather th
 | `in` | in, on, within | `in angulo residit` — sits in the corner |
 | `supra` | above, on | `supra muro` — on the wall |
 | `sub` | below, under | `sub arboro` — under the tree |
+| `ante` | in front of, before (spatial) | `ante furno residit` — sits in front of the stove |
 | `cum` | with | `cum avia` — with grandmother |
 | `sin` | without | `sin pedo` — without shoes |
 
@@ -279,15 +280,38 @@ Vendergood encodes spatial and relational meaning through prepositions rather th
 | `ex` | out of, from | `ex manibus laberit` — slipped from their hands |
 | `de` | from, down from | `de caelo cadit` — falls from the sky |
 
-**Path / cause / opposition:**
+**Path:**
 
 | Preposition | Meaning | Example |
 |---|---|---|
-| `per` | through, across | `per vio` — through the street |
-| `pro` | because of, for | `pro frigo` — because of cold |
+| `per` | through, across (spatial and metaphorical) | `per vio` — through the street; `per hominem transit` — passes through a person |
+
+**Cause / purpose / benefactive:**
+
+| Preposition | Meaning | Example |
+|---|---|---|
+| `proca` | because of, due to (causal) | `proca frigo gelarit` — froze because of cold |
+| `pro` | for, for the sake of (benefactive) | `pro cuno bonal esit` — would be good for a cradle |
+| `ad` + infinitive | in order to (purpose) | `ad calefar pedoi extendit` — stretched out his feet in order to warm them |
+
+**Opposition:**
+
+| Preposition | Meaning | Example |
+|---|---|---|
 | `contra` | against | `contra muro` — against the wall |
 
 **The `in` / `ino` distinction is load-bearing.** A clause with a directional verb (`intrit`, `volit`, `cadit`, `venit`, `tollit`) followed by bare `in` is ambiguous between "ends up in" and "moves around within." Static `in` and directional `ino` resolve this without depending on context or verb inference. The distinction is required for any reading register that needs to preserve the difference between *being somewhere* and *entering somewhere*.
+
+**The `pro` / `proca` / `ad` distinction is similarly load-bearing.** Latin distinguishes causal `propter`, benefactive `pro`, and purposive `ad` across three forms — Vendergood likewise needs three. A clause like `pro frigo` is ambiguous between "because of cold" (causal) and "for the sake of cold" (benefactive). `proca` (from `pro` + `causa`) explicitly marks the causal reading; `pro` is reserved for benefactive; `ad` + infinitive carries purpose.
+
+### 2.5 Temporal Conjunctions
+
+| Conjunction | Meaning | Example |
+|---|---|---|
+| `quan` | when (sequential) | `quan stello cadit, animo ad caelo it` — when a star falls, a soul goes to heaven |
+| `dum` | while, during (simultaneous) | `dum ela ambulant, nivo cadit` — while she walked, snow fell |
+
+`quan` marks sequential or punctual time; `dum` marks simultaneous duration. The distinction matters when two actions overlap in time rather than follow each other — `dum` asserts they happen together, `quan` asserts one happens at the moment of the other.
 
 ## Part III: Pronoun System
 
@@ -319,6 +343,18 @@ Pronouns follow the same four-case pattern as nouns. Only nominative forms are a
 | Genitive | *igne* | *tuve* | *eloe* | *elae* | *idee* |
 
 *All oblique forms are reconstructed. Attested evidence is nominative only. These forms should be treated as working reconstructions pending primary source attestation.*
+
+### 3.2a Reflexive Pronoun
+
+When the subject and object of a clause refer to the same entity, the reflexive pronoun `se` is used for the third person (any gender, singular or plural). First and second person reflexivity uses the regular oblique pronoun, since ambiguity does not arise (the speaker / addressee is unambiguous).
+
+| Person | Reflexive form | Example |
+|---|---|---|
+| 1sg | `igne` (regular oblique) | `igne lavat` — I wash myself |
+| 2sg | `tuve` (regular oblique) | `tuve lavat` — you wash yourself |
+| 3sg/pl | `se` (dedicated) | `pedoi sub se trahit` — drew her feet under herself |
+
+The third-person `se` is required because the regular third-person oblique (`elae`, `eloe`, `idee`) would otherwise be ambiguous between reflexive and disjoint reference. `pedoi sub ela trahit` could mean "drew her feet under her [some other woman]"; `pedoi sub se trahit` is unambiguously reflexive.
 
 ### 3.3 Possessive Clitics
 
@@ -365,6 +401,30 @@ Derivational morphology is the engine of Vendergood. A small root vocabulary gen
 *Phonological connection: when a suffix begins with a vowel, roots ending in a vowel drop the final vowel before attaching (vowel truncation). When a suffix begins with a consonant, the root connects directly with no epenthetic vowel. Mood suffixes on verbs follow the same rule.*
 
 *Gap note: a simple non-habitual agent suffix ("one who does X," analogous to Latin -tor/-sor) is not yet documented. Until attested, use the habitual form (-alt) or a compound construction. This is a candidate for a future addition entry.*
+
+### 4.1a Comparative and Superlative
+
+Adjectives form comparatives and superlatives by suffixation. The `-al` adjective suffix is dropped before the comparative/superlative suffix attaches; the resulting form is itself invariant (per §2.1).
+
+| Form | Suffix | Example | Meaning |
+|---|---|---|---|
+| Adjective (base) | `-al` | `belal` | beautiful |
+| Comparative | `-ior` | `belior` | more beautiful |
+| Superlative | `-issimal` | `belissimal` | most beautiful |
+
+**Worked examples:**
+
+- `frigal` → `frigalior` (colder) → `frigalissimal` (coldest)
+- `altal` → `altior` (higher) → `altissimal` (highest)
+- `lucidal` → `lucidior` (brighter) → `lucidissimal` (brightest)
+- `turpal` → `turpalior` (uglier) → `turpalissimal` (ugliest)
+
+**Comparison construction:** the comparand follows `quan` ("than").
+
+- `belior quan stelloi` — more beautiful than the stars
+- `frigalior quan glacio` — colder than ice
+
+*Phonological note: when the adjective root ends in `-al` after suffix attachment (e.g., `frigal-` retains `-al-` before `-ior`), the form is `frigalior`, not `frigior`. When the root ends in a different vowel or consonant cluster, `-al` is dropped (`altal` → `altior`). The pattern follows Latin precedent: comparison suffixes attach to the comparable stem, not necessarily the citation form.*
 
 ### 4.2 Compounding
 

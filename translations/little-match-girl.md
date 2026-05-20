@@ -22,7 +22,7 @@
 
 ---
 
-**Ela calcoi habitit quan domo reliquit, sed bono in id? Magnal calcoi erant, avlo matr utit ultimal — et avlo pauperal puel perdit ili currant per vio, pro du raedo volvant vel graval.**
+**Ela calcoi habitit quan domo reliquit, sed bono in id? Magnal calcoi erant, avlo matr utit ultimal — et avlo pauperal puel perdit ili currant per vio, proca du raedo volvant vel graval.**
 
 *She had slippers on when she left home, but what good in that? They were large slippers, which her mother had used last — and the poor little girl lost them scurrying through the street, because of two carriages rolling terribly fast.*
 
@@ -36,13 +36,13 @@
 
 ## II.
 
-**Ela tremant pro frigo et famo repant; avlo parval puel miseral erant. Nivo cadant ino capilo longal flaval elai, pendant in cirri pro colo et humeri elai; sed ela non cogitit id nun. Luco lucant pro omnal fenesto, et odoro gloral torral ansei esit — novano esit, ver — ela memorit id!**
+**Ela tremant proca frigo et famo repant; avlo parval puel miseral erant. Nivo cadant ino capilo longal flaval elai, pendant in cirri pro colo et humeri elai; sed ela non cogitit id nun. Luco lucant de omnal fenesto, et odoro gloral torral ansei esit — novano esit, ver — ela memorit id!**
 
 *She crept along shivering with cold and hunger; the poor little girl was miserable. Snow fell on her long fair hair, hanging in curls about her neck and shoulders; but she did not think of any of that now. Light was shining from every window, and there was a glorious smell of roast goose — it was New Year's eve, truly — she remembered that!*
 
 ---
 
-**Ela invenit angulo quan aedo prodit parval — et ela residit, pedoi elai trahant sub ela. Ela frigalior et frigalior esit, sed ela ausar non domo iter, nam ela vendit non facoi, et non merit un denaro: avlo patr elai certal verberat; et frigo esit in domo etiam, nam ili habitit tecto solum, et avlo vent ululit, etiam quan foramoi magnal stopurit stramento et panno.**
+**Ela invenit angulo quan aedo prodit parval — et ela residit, pedoi elai trahant sub se. Ela frigalior et frigalior esit, sed ela ausar non domo iter, nam ela vendit non facoi, et non merit un denaro: avlo patr elai certal verberat; et frigo esit in domo etiam, nam ili habitit tecto solum, et avlo vent ululit, etiam quan foramoi magnal stopurit stramento et panno.**
 
 *She found a corner where one house jutted out a little — and she sat herself down, drawing her little feet under her. She grew colder and colder, but she did not dare to go home, for she had not sold any matches, nor earned a single coin: her father would certainly beat her; besides, it was cold at home too, for they had only the roof to cover them, and the wind howled, even though the largest holes had been stuffed with straw and rags.*
 
@@ -50,11 +50,11 @@
 
 ## III. — The First Match
 
-**Manoi elai parval pen gelarint pro frigo. Oh — faco potit confar parval. Ela traxit un pro fasco, et ferit id contra muro; quan flamit et ardit! Flamo calidal et lucal esit, simil candelo parval, ela manoi elai tenent supra id. Luco mirabil esit.**
+**Manoi elai parval pen gelarint proca frigo. Oh — faco potit confar parval. Ela traxit un de fasco, et ferit id contra muro; quan flamit et ardit! Flamo calidal et lucal esit, simil candelo parval, ela manoi elai tenent supra id. Luco mirabil esit.**
 
 *Her little hands were almost frozen with cold. Oh — a match might afford a little comfort. She drew one from the bundle, and struck it against the wall; how it blazed and burned! It was a warm, bright flame, like a little candle, as she held her hands over it. It was a wonderful light.*
 
-**Videbarat avlo parval puel ela residant pro furno ferral magnal, aeral pedoi et aeral ornamento habitant. Quan ignis ardit — et calidal mirabil videbarat ut avlo puel pedoi elai etiam extendit ad calefar. Quan confal id esit! — sed flamo extinxit, furno evanit: ela reliquo solum semicombust faci in mano elai habitit.**
+**Videbarat avlo parval puel ela residant ante furno ferral magnal, aeral pedoi et aeral ornamento habitant. Quan ignis ardit — et calidal mirabil videbarat ut avlo puel pedoi elai etiam extendit ad calefar. Quan confal id esit! — sed flamo extinxit, furno evanit: ela reliquo solum semicombust faci in mano elai habitit.**
 
 *It seemed to the little girl that she was sitting before a great iron stove, with brass feet and a brass ornament. How the fire burned — and how wonderfully warm it seemed, so that the child stretched out her feet to warm them too. How comfortable that felt! — but the flame went out, the stove vanished: she had only the remains of the half-burnt match in her hand.*
 
@@ -66,7 +66,7 @@
 
 *She rubbed another match against the wall. It burned clear, and where its light fell upon the wall, it became transparent as a veil. She could see into a room where the table was covered with a beautiful white cloth — and beautiful china stood upon it, and a roast goose stuffed with apples and prunes, steaming and sizzling wonderfully.*
 
-**Et mirabilior etiam — avlo anse saltit pro disco, et vacilant per terro, cultro et furco in pecto elai, ad avlo parval puel. Tunc faco extinxit — et ela vidar potit solum muro crassal frigal ante ela.**
+**Et mirabilior etiam — avlo anse saltit de disco, et vacilant per terro, cultro et furco in pecto elai, ad avlo parval puel. Tunc faco extinxit — et ela vidar potit solum muro crassal frigal ante ela.**
 
 *And more wonderful still — the goose jumped from the dish, and waddled along the floor with a knife and fork in its breast, toward the little girl. Then the match went out — and she could see only the thick cold wall before her.*
 
@@ -98,7 +98,7 @@
 
 *"Grandmother!" cried the little girl. "Oh — take me with you! I know you will vanish when the match is burned out — you will vanish like the warm stove, the roast goose, and the large beautiful Christmas tree!"*
 
-**Et ela acendit celeriter reliquoi facoi pro fasco, nam ela voluerat avlo aviam ibi tenere. Et facoi flamant luco lucidiori quan mediodie. Nunquam ante avlo avia talem magnal et belal esit. Ela avlo parval puel ino brachioi elai tollit, et ambo volant in luco et gaudo supra terro — ubi nec frigo, nec famo, nec doloro esit — nam ili cum Deo erant.**
+**Et ela acendit celeriter reliquoi facoi de fasco, nam ela voluerat avlo aviam ibi tenere. Et facoi flamant luco lucidiori quan mediodie. Nunquam ante avlo avia talem magnal et belal esit. Ela avlo parval puel ino brachioi elai tollit, et ambo volant in luco et gaudo supra terro — ubi nec frigo, nec famo, nec doloro esit — nam ili cum Deo erant.**
 
 *And she hastily lit the rest of the matches in the bundle, for she wished to keep her grandmother there. And the matches blazed with a light brighter than noon-day. Never before had the grandmother looked so large and beautiful. She lifted the little girl in her arms, and they both flew in light and in joy far above the earth — where there was neither cold, nor hunger, nor pain — for they were with God.*
 
