@@ -1,0 +1,82 @@
+// Vendergood Emdros Schema — v0.1 (draft, pending Petersen review)
+//
+// Object model for the Vendergood corpus.
+// Backend: SQLite3.
+//
+// Design choices flagged for Petersen (see petersen/2026-05-19-schema.md):
+//   - Compounds represented as flat Word features (root_1, root_2) rather than
+//     nested Compound objects. Simpler queries; loses nesting if phrase-level
+//     compound structure is ever needed.
+//   - Sentence monads are sequential integers; each Word is one monad.
+//     Sentence spans a range over its words.
+
+CREATE DATABASE 'vendergood' WITH KEY 'vendergood' USING SQLITE3 ;
+
+USE DATABASE 'vendergood' ;
+
+// ── Object types ──────────────────────────────────────────────────────────────
+
+CREATE OBJECT TYPE
+WITH SINGLE MONAD OBJECTS
+[Word
+  // Surface form as it appears in the corpus text
+  surface : STRING DEFAULT "" ;
+
+  // Lemma: the citation/root form
+  lemma : STRING DEFAULT "" ;
+
+  // For simple roots: root_1 = the root, root_2 = ""
+  // For compounds: root_1 = primary root (last in the compound),
+  //                root_2 = modifying root (first in the compound)
+  // Additional roots (triple compounds) handled by extending to root_3 if needed.
+  root_1 : STRING DEFAULT "" ;
+  root_2 : STRING DEFAULT "" ;
+
+  // Grammatical category: noun_animate, noun_inanimate, verb, adjective, pronoun,
+  //                        numeral, particle, conjunction
+  category : STRING DEFAULT "" ;
+
+  // Mood suffix (verbs only): at, ev, ut, ant, opt, deon, abi, hab, alt, cf, imp, ar
+  // Matches the 12-mood system in volume-2.md + infinitive (ar)
+  mood_suffix : STRING DEFAULT "" ;
+
+  // Past tense marker: present or past
+  tense : STRING DEFAULT "present" ;
+
+  // Noun case: nom, acc, dat, gen
+  case : STRING DEFAULT "" ;
+
+  // Number: sg, pl
+  number : STRING DEFAULT "sg" ;
+
+  // Animacy: animate, inanimate (for nouns and articles)
+  animacy : STRING DEFAULT "" ;
+
+  // Article stem carried by this word's article (if any): avlo/avla/ablo/abla etc.
+  article_stem : STRING DEFAULT "" ;
+
+  // Source addition file: e.g. "temporpont", "alterfin"
+  source : STRING DEFAULT "" ;
+
+  // Free-form gloss (English equivalent)
+  gloss : STRING DEFAULT "" ;
+]
+GO
+
+CREATE OBJECT TYPE
+WITH SINGLE RANGE OBJECTS
+HAVING UNIQUE FIRST MONADS
+[Sentence
+  // Which additions file this sentence comes from
+  source : STRING DEFAULT "" ;
+
+  // The sentence as originally written in the addition entry
+  text : STRING DEFAULT "" ;
+
+  // English translation
+  translation : STRING DEFAULT "" ;
+
+  // Mood(s) demonstrated (comma-separated if multiple)
+  moods_demonstrated : STRING DEFAULT "" ;
+]
+GO

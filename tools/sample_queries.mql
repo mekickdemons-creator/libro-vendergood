@@ -1,0 +1,55 @@
+// sample_queries.mql — example MQL queries for the Vendergood corpus
+//
+// Run after the corpus is loaded:
+//   mql -b 3 tools/sample_queries.mql
+//
+// Requires Emdros installed and database initialized via:
+//   mql -b 3 schema/vendergood.mql
+//   python tools/load_corpus.py | mql -b 3
+
+USE DATABASE 'vendergood' ;
+
+// ── 1. All words containing root "pont" (bridge) ──────────────────────────
+// Expected: temporpontalt (x2), ponton
+SELECT ALL OBJECTS WHERE
+[Word root_1 = "pont" OR root_2 = "pont"]
+GO
+
+// ── 2. All words containing root "fin" (end, completion) ─────────────────
+// Expected: finoperalt, alterfinalt, alterfinant, fino, fin
+SELECT ALL OBJECTS WHERE
+[Word root_1 = "fin" OR root_2 = "fin"]
+GO
+
+// ── 3. All animate agent nouns (habitual suffix -alt) ────────────────────
+// Expected: temporpontalt, finoperalt, alterfinalt x2, deliberalt,
+//           mnemalt, fidiferalt, translatalt
+SELECT ALL OBJECTS WHERE
+[Word category = "noun_animate" AND mood_suffix = "alt"]
+GO
+
+// ── 4. All verbs in the intentive mood (-ant): committed ongoing action ──
+// Expected: konstrukant x2, alterfinant x2, fidiferant
+SELECT ALL OBJECTS WHERE
+[Word category = "verb" AND mood_suffix = "ant"]
+GO
+
+// ── 5. All sentences from the transit vocabulary cluster ─────────────────
+// Expected: iter_s1, rete_s1, nod_s1, translat_s1
+SELECT ALL OBJECTS WHERE
+[Sentence source = "iter"
+    OR source = "rete"
+    OR source = "nod"
+    OR source = "translat"]
+GO
+
+// ── 6. Compound words (has both root_1 and root_2 set) ───────────────────
+// Expected: temporpontalt, finoperalt, alterfinalt, alterfinant, fidiferalt, fidiferant
+SELECT ALL OBJECTS WHERE
+[Word root_2 != ""]
+GO
+
+// ── 7. Sentences demonstrating the intentive mood ────────────────────────
+SELECT ALL OBJECTS WHERE
+[Sentence moods_demonstrated ~ "ant"]
+GO
