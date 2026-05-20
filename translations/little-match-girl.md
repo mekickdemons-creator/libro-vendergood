@@ -36,7 +36,7 @@
 
 ## II.
 
-**Ela tremant pro frigo et famo repant; avlo parval puel miseral erant. Nivo cadant in capilo longal flaval elai, pendant in cirri pro colo et humeri elai; sed ela non cogitit id nun. Luco lucant pro omnal fenesto, et odoro gloral torral ansei esit — novano esit, ver — ela memorit id!**
+**Ela tremant pro frigo et famo repant; avlo parval puel miseral erant. Nivo cadant ino capilo longal flaval elai, pendant in cirri pro colo et humeri elai; sed ela non cogitit id nun. Luco lucant pro omnal fenesto, et odoro gloral torral ansei esit — novano esit, ver — ela memorit id!**
 
 *She crept along shivering with cold and hunger; the poor little girl was miserable. Snow fell on her long fair hair, hanging in curls about her neck and shoulders; but she did not think of any of that now. Light was shining from every window, and there was a glorious smell of roast goose — it was New Year's eve, truly — she remembered that!*
 
@@ -62,7 +62,7 @@
 
 ## IV. — The Second Match
 
-**Ela fricit alial faco contra muro. Id lucant lucidal, et ubi luco elai cadit supra muro, id lucidal fiit simil velamo. Ela vidar potit in camero ubi tablo tegurit albal panno belal — et fictiloi belal supra esit, et avlo torral anse, pomoi et prunoi plenal, vaporant et sibilant mirabil.**
+**Ela fricit alial faco contra muro. Id lucant lucidal, et ubi luco elai cadit supra muro, id lucidal fiit simil velamo. Ela vidar potit ino camero ubi tablo tegurit albal panno belal — et fictiloi belal supra esit, et avlo torral anse, pomoi et prunoi plenal, vaporant et sibilant mirabil.**
 
 *She rubbed another match against the wall. It burned clear, and where its light fell upon the wall, it became transparent as a veil. She could see into a room where the table was covered with a beautiful white cloth — and beautiful china stood upon it, and a roast goose stuffed with apples and prunes, steaming and sizzling wonderfully.*
 
@@ -98,7 +98,7 @@
 
 *"Grandmother!" cried the little girl. "Oh — take me with you! I know you will vanish when the match is burned out — you will vanish like the warm stove, the roast goose, and the large beautiful Christmas tree!"*
 
-**Et ela acendit celeriter reliquoi facoi pro fasco, nam ela voluerat avlo aviam ibi tenere. Et facoi flamant luco lucidiori quan mediodie. Nunquam ante avlo avia talem magnal et belal esit. Ela avlo parval puel in brachioi elai tollit, et ambo volant in luco et gaudo supra terro — ubi nec frigo, nec famo, nec doloro esit — nam ili cum Deo erant.**
+**Et ela acendit celeriter reliquoi facoi pro fasco, nam ela voluerat avlo aviam ibi tenere. Et facoi flamant luco lucidiori quan mediodie. Nunquam ante avlo avia talem magnal et belal esit. Ela avlo parval puel ino brachioi elai tollit, et ambo volant in luco et gaudo supra terro — ubi nec frigo, nec famo, nec doloro esit — nam ili cum Deo erant.**
 
 *And she hastily lit the rest of the matches in the bundle, for she wished to keep her grandmother there. And the matches blazed with a light brighter than noon-day. Never before had the grandmother looked so large and beautiful. She lifted the little girl in her arms, and they both flew in light and in joy far above the earth — where there was neither cold, nor hunger, nor pain — for they were with God.*
 
@@ -114,7 +114,7 @@
 
 *The New Year's sun rose and shone upon a little corpse! The child sat there, stiff and cold, holding the matches in her hand, one bundle of which was burnt.*
 
-**"Ela calefar temptabat!" dicant alqui. Nem imaginit quan belal reoi erant qui ela viderat — nec in quan gloro ela cum avlo avia elai intrit, in die novano.**
+**"Ela calefar temptabat!" dicant alqui. Nem imaginit quan belal reoi erant qui ela viderat — nec ino quan gloro ela cum avlo avia elai intrit, in die novano.**
 
 *"She had been trying to warm herself!" said some. No one imagined how beautiful the things were that she had seen — nor into what glory she had entered with her grandmother, on New Year's Day.*
 

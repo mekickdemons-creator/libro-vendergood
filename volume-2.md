@@ -256,6 +256,39 @@ The article carries four dimensions of information — animacy, gender, definite
 
 *The article system as described in §2.1 is the full, unambiguous form appropriate to all contexts. Article economy is a productive shorthand: it does not discard meaning, it shifts the burden of definiteness marking to context and the `-av` suffix. First mention always uses the full form. Subsequent mentions use whichever form is least ambiguous.*
 
+### 2.4 Prepositional System
+
+Vendergood encodes spatial and relational meaning through prepositions rather than productive noun case marking. The system distinguishes static location from directional motion — a distinction Latin carries on the noun (`in caelo` ablative vs. `in caelum` accusative) but which Vendergood, without productive case on the noun, must carry on the preposition itself.
+
+**Static (location, state):**
+
+| Preposition | Meaning | Example |
+|---|---|---|
+| `in` | in, on, within | `in angulo residit` — sits in the corner |
+| `supra` | above, on | `supra muro` — on the wall |
+| `sub` | below, under | `sub arboro` — under the tree |
+| `cum` | with | `cum avia` — with grandmother |
+| `sin` | without | `sin pedo` — without shoes |
+
+**Directional (motion toward, entry):**
+
+| Preposition | Meaning | Example |
+|---|---|---|
+| `ad` | to, toward (destination) | `ad caelo it` — goes to heaven |
+| `ino` | into, entry (Latin *intro*) | `ino gloro intrit` — entered into glory |
+| `ex` | out of, from | `ex manibus laberit` — slipped from their hands |
+| `de` | from, down from | `de caelo cadit` — falls from the sky |
+
+**Path / cause / opposition:**
+
+| Preposition | Meaning | Example |
+|---|---|---|
+| `per` | through, across | `per vio` — through the street |
+| `pro` | because of, for | `pro frigo` — because of cold |
+| `contra` | against | `contra muro` — against the wall |
+
+**The `in` / `ino` distinction is load-bearing.** A clause with a directional verb (`intrit`, `volit`, `cadit`, `venit`, `tollit`) followed by bare `in` is ambiguous between "ends up in" and "moves around within." Static `in` and directional `ino` resolve this without depending on context or verb inference. The distinction is required for any reading register that needs to preserve the difference between *being somewhere* and *entering somewhere*.
+
 ## Part III: Pronoun System
 
 Pronouns follow the same case system as nouns. They are derived from Latin and Greek roots, shortened for ease of use.
