@@ -10,7 +10,7 @@ This repository is an attempt to finish what survived. Documented choices are fo
 
 - **`volume-1.md`** — Historical record and grammatical foundation. What is documented, what is reconstructed, and the principles separating the two.
 - **`volume-2.md`** — Twelve-mood system, noun declension, pronoun paradigm, derivational morphology, duodecimal arithmetic, working example sentences across every mood.
-- **`additions/`** — New vocabulary, one word per file. Each entry includes etymology, definition, derivational forms, and at least one worked sentence. First entry: [`temporpont`](additions/temporpont.md).
+- **`additions/`** — New vocabulary, one word per file. Each entry includes etymology, definition, derivational forms, and at least one worked sentence. Current entries: [`temporpont`](additions/temporpont.md), [`finoperalt`](additions/finoperalt.md), [`deliber`](additions/deliber.md), [`mnemon`](additions/mnemon.md), [`fidifer`](additions/fidifer.md), [`translat`](additions/translat.md), [`iter`](additions/iter.md), [`rete`](additions/rete.md), [`nod`](additions/nod.md).
 
 ## License
 

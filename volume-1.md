@@ -145,6 +145,17 @@ The following core vocabulary is reconstructed from Latin and Greek roots consis
 | `ignis` | inanimate | fire | Latin *ignis* | *[R]* |
 | `fin` | inanimate | end, completion, the inherent terminus of a thing | Latin *finis* | *[R]* |
 | `oper` | inanimate | work, labor, opus | Latin *opus / operis* | *[R]* |
+| `mnem` | inanimate | memory; the faculty of remembering | Greek *μνήμη* (mnēmē) | **[A]** (via *mnemon*) |
+| `iter` | inanimate | route; defined path through a network | Latin *iter* (journey, route) | **[A]** |
+| `rete` | inanimate | network; connected system of nodes and paths | Latin *rete* (net, mesh) | **[A]** |
+| `nod` | inanimate | node; point where paths meet | Latin *nodus* (knot, node) | **[A]** |
+| `translat` | inanimate | transfer; permission to continue a journey across a network boundary | Latin *translatus* (carried across) | **[A]** |
+
+**Bound compositional roots** — these roots do not stand alone as words but combine productively in compounds:
+
+| Root | Meaning | Source | Attested compound |
+|---|---|---|---|
+| `fid` | faith, fidelity; the quality of faithful transmission | Latin *fides* | **fidifer** (faithful carrier) |
 
 ### 4.2 States and Conditions (Verb Roots)
 
@@ -177,6 +188,8 @@ The following core vocabulary is reconstructed from Latin and Greek roots consis
 | `skrib` | write | *skribar* — to write | Latin *scribere* | *[R]* |
 | `leg` | read | *legar* — to read | Latin *legere* | *[R]* |
 | `don` | give | *donar* — to give | Latin *donare* | *[R]* |
+| `fer` | carry, bear, transmit | *ferat* — carries | Latin *ferre* | **[A]** (via *fidifer*) |
+| `deliber` | weigh, deliberate | *deliberat* — deliberates | Latin *deliberare* | **[A]** |
 
 ### 4.3 Function Words
 
