@@ -170,6 +170,10 @@ The article encodes four dimensions simultaneously: **animacy** (animate / inani
 
 **Indefinite article:** not yet attested in working examples. Likely `uno` / `ivno` by analogy with Latin *unum* (one). Marked as a gap pending corpus evidence.
 
+**Adjective agreement:** adjectives in `-al` are **invariant**. Number, gender, animacy, and case are carried by the article and the noun's case ending; the adjective does not repeat that information. `magnal calco` (large slipper) and `magnal calcoi` (large slippers) use the same adjective form. This applies to all `-al` adjectives and their comparative (`-ior`) and superlative (`-issimal`) forms — none of these inflect for number.
+
+*Rationale: this is consistent with the compression principle (no redundant marking) and follows the article-carries-grammatical-information design noted in §2.1. Where Latin would distribute number/gender/case across article + noun + adjective, Vendergood concentrates the information on article and noun only.*
+
 ### 2.2 Worked Declension
 
 **Noun case suffixes** attach directly to the root. The article carries animacy, gender, definiteness, and number — the noun carries case only.
