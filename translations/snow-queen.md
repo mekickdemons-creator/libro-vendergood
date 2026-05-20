@@ -150,7 +150,7 @@ This story establishes the mirror as an instrument of corrupted perception — t
 
 *Kai was afraid and tried to recite the Lord's Prayer — but he could only recall the multiplication table. The snowflakes grew large — large as white chickens — and at last the driver stopped, the garments fell, and Kai saw the Snow Queen herself.*
 
-**"Frigal es," ela dicit, et lo basat ino fronte. Avlo basio frigal simil glacio ino cordo eius intrit — et cordo, jam glacial, glacialior fiit. Sed Kai non timit jam. Ela belal videbarat ei, et omnia quod Kai sciar potit ante — Gerda, avia, rosas — evanit ex memoria eius.**
+**"Frigal es," ela dicit, et lo basat ino fronte. Avlo basio frigal simil glacio ino cordo eius intrit — et cordo, jam glacial, glacialior fiit. Sed Kai non timit jam. Ela belal videbarat eloi, et omnia quod Kai sciar potit ante — Gerda, avia, rosas — evanit ex memoria eius.**
 
 *"You are cold," she said, and kissed him on the forehead. The cold kiss like ice went into his heart — and the heart, already icy, became icier still. But Kai was no longer afraid. She seemed beautiful to him, and all that Kai had been able to know before — Gerda, the grandmother, the roses — vanished from his memory.*
 
@@ -170,7 +170,252 @@ Historia Duo is the dramatic center of the corrupted-perception mechanism set up
 
 ---
 
-## Cumulative Glossary
+## Historia Tres — Horto Femine Quae Magal Potit
+## Third Story — The Flower Garden of the Woman Who Could Conjure
+
+*Danish: Tredje Historie. Blomsterhaven hos den Kone, som kunde Trolddom*
+
+---
+
+### I. The River
+
+**Sed quid de avla parval Gerda fiit, quan Kai non plus revenit? Ubi il esit? Nem sciit. Pueroi solum narrant quod il traham suam ad magnal trahea albal adjunxit, quae per plateam et ex porta urbi volit. Nem sciit ubi il esit. Multal lacrimoi pro il fluit, et Gerda profundal et longal flevit. Tunc dicat homines il mortuus esit — il in fluvo qui per urbo fluit submersit. Oh, longal et obscural hiemal dioi erant!**
+
+*But what became of little Gerda when Kai did not return? Where was he? No one knew. The boys only said that he had hitched his sled to a great white sleigh which flew through the square and out the city gate. No one knew where he was. Many tears flowed for him, and Gerda wept long and deeply. Then people said he was dead — that he had drowned in the river which flowed through the city. Oh, long and dark were the winter days!*
+
+---
+
+**Tunc venit ver, cum sole calidal.**
+
+*Then spring came, with warm sunshine.*
+
+---
+
+**"Kai mortuus esit et evanit," dicit avla parval Gerda.**
+
+**"Nos non credat id," dicit avlas solal radioi.**
+
+**"Il mortuus esit et evanit," dicit ela ad avlas hirundines.**
+
+**"Nos non credat id," dicat ili.**
+
+**Et tandem Gerda etiam non credit id.**
+
+*"Kai is dead and gone," said little Gerda.*
+*"We don't believe it," said the sunbeams.*
+*"He is dead and gone," she said to the swallows.*
+*"We don't believe it," they said.*
+*And in the end Gerda did not believe it either.*
+
+---
+
+**"Ignat indut calcoi noval rubal — quoi Kai nunquam vidit — et ignat it ad fluvo et eum interrogat de Kai."**
+
+*"I shall put on my new red shoes — which Kai has never seen — and go to the river and ask it about Kai."*
+
+---
+
+**Esit aurori temporo; ela basat avla avia dormant, indut avlas rubal calcoi, et it solal per portam ex urbo, ad fluvo.**
+
+*It was dawn; she kissed her sleeping grandmother, put on her red shoes, and went alone through the gate out of the city, to the river.*
+
+---
+
+**"Veral est quod tu Kai igne abducit? Ignat tuvi calcoi rubal igne donat si tu eum redonat!"**
+
+*"Is it true that you have carried off my Kai? I will give you my red shoes if you give him back!"*
+
+---
+
+**Et videbarat elai quod undoi mirabal nutant. Tunc ela calcoi rubal — quoi magnissimal amat — capit et ino fluvo jecit. Sed cadit prope ripa, et undoi parval calcoi reportit ad terro — quasi fluvo non vellot accipere id quod ela magnissimal amat, nam fluvo Kai non habit.**
+
+*And it seemed to her that the waves nodded strangely. Then she took the red shoes — which she loved most — and threw them into the river. But they fell near the bank, and the little waves carried them back to her — as if the river would not accept what she loved most, because the river did not have Kai.*
+
+---
+
+### II. The Boat Journey
+
+**Tunc ela cogitit quod ela non satis longal calcoi jecit, et ascendit ino scapha quae inter calamoi flotit; et ad alterum finem scaphae it, et inde calcoi iterum jecit. Sed scapha non ligatal erat — et per motum suum de ripa labit. Gerda id videt et celeriter ad finem properavit; sed antequam advenit, scapha jam un cubitum de ripa esit, et celerius nunc fluit.**
+
+*Then she thought she had not thrown the shoes far enough, and climbed into a boat that floated among the reeds; and went to the other end of the boat, and from there threw the shoes again. But the boat was not tied — and with her motion drifted from the bank. Gerda saw this and hastened to the end; but before she got there, the boat was already a cubit from the shore, and now flowed faster.*
+
+---
+
+**Tunc avla parval Gerda timit, et incipit lacrimar — sed nem audat ela praeter passeres, et passeres non potit ela ad ripa portar. Sed ili volant longe avlas ripas, et cantant simil ad elan consolar: "Nos hic sumus! Nos hic sumus!"**
+
+*Then little Gerda was afraid, and began to weep — but no one heard her but the sparrows, and the sparrows could not carry her to the bank. But they flew along the banks, and sang as if to comfort her: "We are here! We are here!"*
+
+---
+
+**Scapha cum fluvo it. Avla parval Gerda quietal sedit, sin calcoi: avlas rubal calcoi suo post se natant, sed advenir ad scapha non potibant.**
+
+*The boat went with the river. Little Gerda sat quietly, without shoes: her red shoes were swimming behind, but could not reach the boat.*
+
+---
+
+**Vel belal esit utrinque — floroi belal, arboroi vetal, monticuloi cum ovoi et vacoi — sed nem hominem.**
+
+*It was very beautiful on both sides — beautiful flowers, old trees, little hills with sheep and cows — but no people.*
+
+---
+
+### III. The Garden and the Old Woman
+
+**"Forsan fluvo ad Kai me portat," cogitit Gerda, et fiit gaudior, et stat in scapha, et per multal horoi horto cerasoi spectat et avlam parval domiculum cum mirabal fenestoi rubal et caerul, et tegumento stramentine, et duo soldatoi lignal qui armas portant ad transeuntes.**
+
+*"Perhaps the river is carrying me to Kai," thought Gerda, and grew more cheerful, and stood up in the boat, and for many hours watched a cherry orchard and a little cottage with strange red and blue windows, and a thatched roof, and two wooden soldiers carrying arms toward passers-by.*
+
+---
+
+**Gerda clamavit ad ili, putans ili viventes esse — sed naturaliter non respondit. Ela proxim ad eos venit, nam fluvo scapha contra ripa propulit.**
+
+*Gerda called out to them, thinking they were alive — but naturally they did not answer. She came close to them, for the river drove the boat against the bank.*
+
+---
+
+**Gerda etiam fortior clamavit, et tunc exit ex domo vetal vetal femina, quae supportit magnal solpileon cum mirabal floroi pictal. Et ela aliquantum magal potit — sed non malal magal, solum lusal magal, ad se delectar.**
+
+*Gerda cried out even louder, and then out of the house came an old, old woman, who carried a great sun-hat with strange painted flowers. And she could conjure a little — but not evil magic, only playful magic, to amuse herself.*
+
+---
+
+**Avla vetal femina ad fluvo venit, scapha cum baculo curvo capit, et ad ripa traxit, et Gerda exemit. Gerda gaudal esit super terra firma esse — sed timit etiam avlam vetal feminam aliquantum.**
+
+*The old woman came to the river, took the boat with a crooked stick, pulled it to the bank, and lifted Gerda out. Gerda was glad to be on firm ground — but also feared the old woman somewhat.*
+
+---
+
+**"Veni mecum, parval puel," dicit avla vetal femina. "Narra mihi quomodo huc venis." Et quan Gerda omnia narravit, et rogavit si vidit avlon puer Kai, avla femina capit suum caput et dicit: "Non, Ignat elon non vidat — sed il certal venut. Tu non tristal esse: gusta cerasoi igne, vide floroi igne, plus belal quan in librum pictural."**
+
+*"Come with me, little girl," said the old woman. "Tell me how you got here." And when Gerda had told everything, and asked if she had seen the boy Kai, the woman shook her head and said: "No, I have not seen him — but he will certainly come. Don't be sad: taste my cherries, see my flowers, more beautiful than in any picture book."*
+
+---
+
+### IV. The Comb
+
+**Avla vetal femina Gerda manu duxit ino domiculum, et clausit avlam januam. Avlas fenestoi altal erant, et lux per id verolal et caerul et rubal venit — mirabal coloraturas in solo fecit. Supra tablo avla magnal disco cerasoi esit — delectabilissimal quan unquam.**
+
+*The old woman took Gerda by the hand into the cottage, and closed the door. The windows were high, and light came through them green and blue and red — making strange colors on the floor. On the table was a great dish of cherries — the most delicious she had ever tasted.*
+
+---
+
+**Et dum Gerda cerasoi manducat, avla vetal femina capiloi eloe cum pectino aural pectit. Capiloi in cirri aural flaval circum faciem parval rosal cadit. Belissimal apparit, simil rosa ipsa.**
+
+*And while Gerda ate the cherries, the old woman combed her hair with a golden comb. Her hair fell in golden curls around her little rosy face. She looked most beautiful, like a rose herself.*
+
+---
+
+**"Ignat tan multal puelam parval havar voluit," dicit avla vetal femina. "Vide quan belal nos hic vivit."**
+
+*"How much I have wished to have such a little girl," said the old woman. "See how beautifully we shall live here."*
+
+---
+
+**Et dum ela capilos pectit, Gerda magis et magis avlon Kai oblivisat. Nam avla vetal femina magal potit; non malal magal, sed satis ad Gerda hic retinere. Pectit avla magal pecto, et omnia cogitio de Kai ex memoria Gerdae paulatim discessit. Et avla vetal femina exit ino horto, et tangit omnal fruticoi rosal cum baculo — et omnal rosas, omnal fruticoi rosae, ino terro descendit, et nullo signo supra solo remanit. Nam ela timuit quod si Gerda rosas videt, ela Kai et avla propria horto memorit.**
+
+*And while she combed, Gerda forgot Kai more and more. For the old woman could conjure — not evil magic, but enough to keep Gerda there. The magic comb combed away every thought of Kai from Gerda's memory, gradually. And the old woman went into the garden and touched every rose bush with her stick — and all the roses, every rose bush, sank into the earth, and no sign remained above the soil. For she feared that if Gerda saw the roses, she would remember Kai and her own garden.*
+
+---
+
+### V. The Painted Rose
+
+**Multal dioi Gerda in horto ludit, inter mille floroi coloral. Ela non plus cogitit de Kai — videbarat elai quod omnia bonal esit. Sed quan ela ino domiculum un die intrit, ela vidat avlam vetal feminam quae supportit suum magnal solpileon cum floroi pictal — et inter ili, una rosa rubal pictal.**
+
+*Many days Gerda played in the garden, among thousand colored flowers. She no longer thought of Kai — it seemed to her that everything was good. But when she came into the cottage one day, she saw the old woman wearing her great sun-hat with painted flowers — and among them, one painted red rose.*
+
+---
+
+**Avla vetal femina avlas rosas in horto descendere fecit — sed avlas rosas in solpileone, pictal, oblivisit. Sic mundus nunquam totaliter celabilis est.**
+
+*The old woman had made the roses in the garden go down — but the roses on the hat, painted, she forgot. Thus the world is never wholly hidable.*
+
+---
+
+**Et quan Gerda avlam pictal rosam vidat, in cordo eius aliquid moverat. Tunc avla horto recordat — et tunc Kai recordat. Et clamavit: "Oh — quomodo ego tantal temporo perdit! Ubi Kai esit? Tu scis?" rogavit avlas rosas in horto. "Tu credit quod il mortuus esit?"**
+
+*And when Gerda saw the painted rose, something moved in her heart. Then she remembered the garden — and then she remembered Kai. And she cried: "Oh — how I have lost so much time! Where is Kai? Do you know?" she asked the roses in the garden. "Do you believe him to be dead?"*
+
+---
+
+### VI. The Roses Speak
+
+**Sed avlas rosas in solo erant; non potibant respondere ex horto vetalo. Gerda ino terro decidit et lacrimit — lacrimit cum tantal cordo ut lacrimoi terram pertransit ad ubi avlas rosas dormiebant. Et statim avlas rosae frutici de terro emergit, ut ante esit, plenoi rosis rubali.**
+
+*But the roses were under the ground; they could not answer from that buried garden. Gerda fell to the earth and wept — wept with such heart that her tears pierced the soil to where the roses slept. And immediately the rose bushes emerged from the ground, as they had been before, full of red roses.*
+
+---
+
+**Gerda eos amplexit, et rosas basat, et tunc memorit avlam horto suam, et avlon Kai.**
+
+*Gerda embraced them, and kissed the roses, and then she remembered her own garden, and Kai.*
+
+---
+
+**"Oh, ut multal temporo ego hic mansit!" dicit ela. "Ignat Kai quaerar volit! Tu scis ubi il esit?" rogavit avlas rosas. "Tu credit quod il mortuus esit?"**
+
+*"Oh, how long I have stayed here!" she said. "I want to search for Kai! Do you know where he is?" she asked the roses. "Do you believe him to be dead?"*
+
+---
+
+**"Il non mortuus esit," respondit avlas rosas. "Nos in terro fuimus — ubi omnal mortui sunt — et il non inter ili erat. Ergo il vivit."**
+
+*"He is not dead," answered the roses. "We have been in the earth — where all the dead are — and he was not among them. Therefore he lives."*
+
+---
+
+### VII. The Flowers' Stories
+
+**"Gratiam ago vobis!" dicit Gerda, et it ad alial flori, et rogavit: "Tu scis ubi Kai esit?"**
+
+*"I thank you!" said Gerda, and went to other flowers, and asked: "Do you know where Kai is?"*
+
+---
+
+**Sed quaeque florem narravit fabulam suam — non de Kai, sed de id quod florem sciat. Avlo lilio narrat de templum et campano. Avla convolvulus narrat de domuncula cum balconio. Avlo narcissus narrat de parval danitrix in vestimento fragilal.**
+
+*But each flower told its own story — not of Kai, but of what the flower knew. The lily told of a temple and bell. The convolvulus told of a little house with a balcony. The narcissus told of a little dancer in a fragile gown.*
+
+---
+
+**Gerda paulatim intellexit: quaeque florem solum sciat quod ipsa videt, in cluso horto suo. Nulla florem Kai vidit, nam Kai non hic erat. Ad quaerar Kai, ela hinc abire necesat.**
+
+*Gerda gradually understood: each flower only knew what it itself saw, in its closed garden. No flower had seen Kai, because Kai was not here. To search for Kai, she must leave this place.*
+
+---
+
+### VIII. Escape and Autumn
+
+**Et tunc Gerda per horto cucurrit, ad portam, et per portam ino mundum. Sed quan portam transit — videbarat elai strang. Folioi arboroi color mutit — non plus verolal, sed rubal et aural et fuscal. Vento frigidior esit. Autumno jam venit, et Gerda non scivit.**
+
+*And then Gerda ran through the garden, to the gate, and through the gate into the world. But when she passed the gate — it seemed strange to her. The leaves of the trees had changed color — no longer green, but red and gold and brown. The wind was colder. Autumn had already come, and Gerda did not know.*
+
+---
+
+**"Oh — quan multal temporo ego perdit!" clamavit ela, et cucurrit, sin calcoi, supra folioi secca, ino fugacal hiemo.**
+
+*"Oh — how much time I have lost!" she cried, and ran, without shoes, over the dry leaves, into the fleeing winter ahead.*
+
+---
+
+### Note on Epistemic Register — Historia Tres
+
+This story is **about sciar erosion and its recovery** — the parallel to Kai's heart-shard, but reversed in outcome.
+
+**Magal (benign magic) vs. mirror-shard corruption:** The old woman `magal potit` ("could conjure") — `magal` (a new root for benign magic, distinct from `troldo`-rooted evil). Her power affects perception and memory but is not malicious in the Historia Unal sense. The contrast matters: Kai's loss was inflicted by `malal` ; Gerda's is inflicted by `magal`. Same effect (memory severed), different moral weight, different reversibility.
+
+**The comb and forgetting — sciar fading vs. severance:** The comb does not destroy Gerda's knowledge of Kai; it makes it fade: `magis et magis avlon Kai oblivisat`. The verb `oblivisar` (to forget) marks gradual loss, not the sharp severance of Kai's `evanit ex memoria eius`. The mechanism is slower and — crucially — reversible.
+
+**Memorar restored by perception — the painted rose:** When Gerda sees the painted rose, the text reads `Tunc avla horto recordat — et tunc Kai recordat`. The verb is `recordar` (re-, "again" + `cord-`, heart-stem — to bring back into the heart). Memorar through visual trigger; the perceptual world re-engages the buried sciar.
+
+**Lacrimoi as restoration:** Gerda's tears pierce the soil to where the roses sleep, and the roses re-emerge. This is not magical; it's an external rendering of the internal: real grief restores what magical forgetting suppressed. The grammar is plain indicative — `lacrimit cum tantal cordo ut lacrimoi terram pertransit` — no special mood, because this is real action with real result.
+
+**Roses' knowledge — sciar from a vantage:** The roses say `il non inter ili erat. Ergo il vivit`. Their knowledge is precise: they were in the earth with all the dead; Kai was not there; therefore he lives. This is **sciar drawn from absence** — knowing by what is not present. The negative information is precisely what Gerda needs. Vendergood handles it without special marking because the inference is clean: from a complete observation, the absence of X warrants the assertion of not-X.
+
+**Flowers' stories — the sciar-from-vantage limit:** Each flower tells what *it* knows. Gerda asks about Kai; the flowers narrate their own cluster. This is the failure mode of sciar-from-vantage: a knower can only report from where they are. The Vendergood grammar does not need a special construction for this — the indicative present + flower-as-subject does the work. The epistemic point is structural, not morphological: knowledge is positional, and asking the wrong knower returns true-but-irrelevant content.
+
+---
+
+
 
 | Root | Form | Meaning | First appearance |
 |------|------|---------|------------------|
@@ -267,3 +512,48 @@ Historia Duo is the dramatic center of the corrupted-perception mechanism set up
 | basio | n (inanim) | kiss | Historia Duo |
 | basat | v | kisses | Historia Duo |
 | fronte | n (inanim) | forehead | Historia Duo |
+| fluv | n (inanim) | river | (Vol II §2.2 example) |
+| magal | n (inanim) / adj | benign magic; magical | Historia Tres (Latin *magus*) |
+| oblivisar | v | to forget | Historia Tres (Latin *oblivisci*) |
+| recordar | v | to recall, to remember | Historia Tres (Latin *re-cordis*) |
+| scapha | n (inanim) | boat, small craft | Historia Tres |
+| ripa | n (inanim) | bank, shore | Historia Tres |
+| undo | n (inanim) | wave | Historia Tres |
+| hirundo | n (anim) | swallow (bird) | Historia Tres |
+| passer | n (anim) | sparrow | Historia Tres |
+| solal | adj | of the sun, solar | Historia Tres |
+| radio | n (inanim) | ray, sunbeam | Historia Tres |
+| caerul | adj | blue | Historia Tres |
+| verolal | adj | green | Historia Tres |
+| auralo | adj | golden | Historia Tres |
+| fuscal | adj | brown | Historia Tres |
+| cerasum | n (inanim) | cherry; cherry tree | Historia Tres |
+| arboro | n (inanim) | tree | (LMG: arboro natalo) |
+| folio | n (inanim) | leaf | Historia Tres |
+| autumno | n (inanim) | autumn | Historia Tres |
+| ver | n (inanim) | spring (season) | Historia Tres |
+| pectino | n (inanim) | comb | Historia Tres |
+| pectit | v | combs | Historia Tres |
+| pileon | n (inanim) | hat | Historia Tres |
+| solpileon | n (inanim) | sun-hat (compound: sol + pileon) | Historia Tres |
+| pictal | adj | painted | Historia Tres |
+| cirro | n (inanim) | curl, ringlet | (LMG: pendant in cirri) |
+| portam | n (inanim) | gate, door | Historia Tres |
+| domiculum | n (inanim) | small house, cottage | Historia Tres |
+| januam | n (inanim) | door | Historia Tres |
+| disco | n (inanim) | dish | (LMG: pro disco) |
+| tabula | n (inanim) | table | Historia Tres |
+| baculo | n (inanim) | staff, stick | Historia Tres |
+| stramentine | adj | of straw, thatched | Historia Tres |
+| campano | n (inanim) | bell | Historia Tres |
+| templo | n (inanim) | temple | Historia Tres |
+| balconio | n (inanim) | balcony | Historia Tres |
+| danitrix | n (anim fem) | dancer | Historia Tres |
+| fragilal | adj | fragile | Historia Tres |
+| secca | adj | dry | Historia Tres |
+| viventes | adj | living, alive | Historia Tres |
+| mortuus | adj | dead | Historia Tres |
+| celabilis | adj | hidable | Historia Tres |
+| flevit | v | wept (past of flere) | Historia Tres |
+| lacrimit | v | wept (past of lacrimar) | Historia Tres |
+| natat | v | swims | Historia Tres |
