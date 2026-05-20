@@ -82,7 +82,7 @@
 
 *The Christmas lights rose higher and higher, till they looked like stars in the sky. Then one fell, forming a long trail of fire.*
 
-**"Avlo alquis morant," dicant avlo parval puel — nam avlo avia elai vetal, avlo solum avlo qui ela amasit, et nun mortit, narrit ela quan stello cadit, animo ad caelo it.**
+**"Avlo alquis morev," dicant avlo parval puel — nam avlo avia elai vetal, avlo solum avlo qui ela amasit, et nun mortit, narrit ela quan stello cadit, animo ad caelo it.**
 
 *"Someone is dying," said the little girl — for her old grandmother, the only one who had ever loved her, and who was now dead, had told her that when a star falls, a soul goes to heaven.*
 
@@ -94,7 +94,7 @@
 
 *She drew another match against the wall; it blazed up, and in the red glow stood the old grandmother — clear and shining, kind and lovely.*
 
-**"Avia!" clamit avlo parval puel. "Oh — tollur me tecum! Eg sciit tu evanant quan faco combustit — tu evanant simil furno calidal, avlo torral anse, et arboro natalo magnal belal!"**
+**"Avia!" clamit avlo parval puel. "Oh — tolla me tecum! Eg sciit tu evanant quan faco combustit — tu evanant simil furno calidal, avlo torral anse, et arboro natalo magnal belal!"**
 
 *"Grandmother!" cried the little girl. "Oh — take me with you! I know you will vanish when the match is burned out — you will vanish like the warm stove, the roast goose, and the large beautiful Christmas tree!"*
 
@@ -133,12 +133,12 @@ The gap between `imaginar` (external, the crowd) and `videbar` (internal, the gi
 
 ---
 
-## Note on Mood Suffixes (deferred)
+## Note on Mood Suffixes
 
-The performative mood suffixes (Vol I §5) were not applied in this translation. Three passages are candidates for a future revision pass:
+Two passages have been revised to apply the mood system documented in Vol II §1.1.
 
-- **Section V, "someone is dying"** (`morant`) — the girl infers this from a falling star, not from direct observation. The abductive mood suffix (`-abi`) would mark this correctly: `morant-abi` — *is dying, I infer.*
-- **Section VI, "take me with you"** (`tollur me`) — an imperative, currently rendered as passive present. Needs the imperative mood suffix (`-imp`) once that morphology is established.
-- **Section II, corner passage** — the deontic necessity underlying the match-selling obligation (`-deon`) is present but unmarked throughout.
+**Applied — Section V, "someone is dying":** `morant` (intentive — wrong; implies committed intention to die) revised to `morev` (evidential — inferred from a falling star, per her grandmother's teaching). The evidential suffix marks that the girl is reasoning from a rule she was told, not observing death directly.
 
-Mood suffix application is a first priority for the next translation session.
+**Applied — Section VI, "take me with you":** `Tollur me tecum` (present passive — the passive voice does not express a command) revised to `Tolla me tecum` (imperative `-a`). The girl is commanding her grandmother, not describing herself being taken. Note: `tecum` remains a Latin intrusion pending a Vendergood genitive construction for animate nouns.
+
+**Pending — Section II, corner passage:** the deontic necessity underlying the match-selling obligation (`ela ausar non domo iter, nam ela vendit non facoi`) is present in the English but unmarked in the Vendergood. Applying the strongeable mood (`-ust`) or imperative absolute (`-an`) to the selling obligation requires a principled methodology for encoding implied obligation. Deferred to the next revision pass.

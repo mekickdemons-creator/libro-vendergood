@@ -178,6 +178,30 @@ The article encodes four dimensions simultaneously: **animacy** (animate / inani
 
 **Attested accusative forms confirming `-an` labial rule:** `fluvan` (fluv + an).
 
+### 2.3 Article Economy
+
+The article carries four dimensions of information — animacy, gender, definiteness, and number — and is required when any of these dimensions would otherwise be ambiguous. After a noun has been introduced with its full article, however, subsequent references in the same context may omit the article without loss. The noun alone is then sufficient when the referent is unambiguous.
+
+**First mention (topic introduction):** full article required.
+
+**Avlo merkanto arridat en ivlo agora** — *The merchant arrived in the agora* (first mention; animacy, gender, definiteness all established here)
+
+**Subsequent reference, same context:** article drops.
+
+**Merkant vidat** — *The merchant sees* (definite by established context; article not needed)
+
+**New context, established referent:** the definiteness suffix `-av` marks the noun as definite without repeating the full article. Use when animacy and gender are recoverable from context but definiteness would otherwise be unclear.
+
+**Merkantav arridat de novo** — *The merchant arrived again* (new scene; `-av` marks definiteness without re-specifying animacy or gender)
+
+**Indefinite on first mention:** bare noun (animacy and gender unmarked) or explicit `uno`/`ivno`:
+
+**Merkanto arridat** — *A merchant arrived* (indefinite; no article)
+
+**Uno merkanto arridat** — *A merchant arrived* (explicit indefinite; analogous to Latin *unum*)
+
+*The article system as described in §2.1 is the full, unambiguous form appropriate to all contexts. Article economy is a productive shorthand: it does not discard meaning, it shifts the burden of definiteness marking to context and the `-av` suffix. First mention always uses the full form. Subsequent mentions use whichever form is least ambiguous.*
+
 ## Part III: Pronoun System
 
 Pronouns follow the same case system as nouns. They are derived from Latin and Greek roots, shortened for ease of use.
@@ -209,6 +233,33 @@ Pronouns follow the same four-case pattern as nouns. Only nominative forms are a
 
 *All oblique forms are reconstructed. Attested evidence is nominative only. These forms should be treated as working reconstructions pending corpus attestation or Petersen review.*
 
+### 3.3 Possessive Clitics
+
+The possessive pronoun may be attached as a suffix directly to the possessed noun, reducing a two-token construction to one. Two forms are available:
+
+**Full clitic:** the genitive pronoun form (from §3.2) appended to the noun. The noun's case ending and the pronoun's genitive form combine:
+
+- `capilo elae` → `capiloelae` — her hair (full clitic; genitive `elae` of `elat`)
+- `dom igne` → `domigne` — my house (full clitic; genitive `igne` of `ignat`)
+
+**Short clitic:** a reduced stem form, used where the possessor is unambiguous and brevity is preferred. Derived by taking the pronoun stem and dropping the genitive case ending:
+
+| Person | Pronoun | Genitive | Short clitic | Example |
+|---|---|---|---|---|
+| 1sg | **ignat** | `igne` | `-gn` | `domgn` — my house |
+| 2sg | **tuvat** | `tuve` | `-tuv` | `domtuv` — your house |
+| 3sg masc. | *elot* | `eloe` | `-lo` | `domlo` — his house |
+| 3sg fem. | **elat** | `elae` | `-la` | `domla` — her house |
+| 3sg neut. | **idet** | `idee` | `-id` | `domid` — its house |
+| 1pl | **nosat** | *nose* | `-nos` | `domnos` — our house |
+| 3pl | **ilsat** | *ilse* | `-ils` | `domils` — their house |
+
+*Short clitics marked in italic are reconstructed. The 3sg feminine `-la` is the most frequently attested form, reflecting the corpus. All clitics follow the same formation rule: pronoun stem minus genitive ending.*
+
+**Word order:** the possessive, whether standalone or clitic, follows the noun it modifies. `capilo-la` = her hair; `brachio-la` = her arm. Adjectives intervene between noun and possessive: `capilo longal flaval-la` = her long fair hair (or standalone: `capilo longal flaval elae`).
+
+**Collision note:** the short clitic `-la` is visually similar to the feminine article stem `avla-`. No collision occurs: clitics attach to nouns, never to articles. A noun carrying a clitic does not also carry an article.
+
 ## Part IV: Derivational Morphology
 
 Derivational morphology is the engine of Vendergood. A small root vocabulary generates a large working lexicon without memorization. Every root can be extended by suffix into any grammatical category. The system is completely regular — no exceptions.
@@ -231,6 +282,27 @@ Derivational morphology is the engine of Vendergood. A small root vocabulary gen
 ### 4.2 Compounding
 
 Two or more roots combine directly. The primary root comes last; modifying roots precede it. This mirrors Latin and Greek compounding and produces unambiguous readings.
+
+**Two-root compounds** are the standard case. The modifying root precedes the primary:
+
+- `tempor-pont` → `temporpont` — time-bridge
+- `alter-fin` → `alterfin` — other-completion
+- `fin-oper` → `finoper` — final-work (base of `finoperalt`)
+
+**Three-root compounds** extend the same rule. Roots appear in order from outermost modifier inward to primary: `[modifier-2]-[modifier-1]-[primary]`. The chain reads as nested modification.
+
+- `tempor-pont-oper` → `temporpontoper` — time-bridge-work (the work of bridging across time)
+- `imagin-iter-alt` → `imaginiteralt` — projection-path-agent (one who habitually finds paths through projected space; a planner or pathfinding system)
+- `rete-sci-alt` → `retescialt` — network-knowledge-agent (a system that holds and maintains the knowledge of a network)
+
+*Note on bound forms:* some roots use an extended stem in compounding, by analogy with Latin. The root of `imaginar` is `imag`; in compounds, the bound form `imagin-` is used: `imagin-iter-alt` = `imaginiteralt`, not `imagiteralt`. Attested bound forms are documented in their addition entries.
+
+**Phonological clarity rule:** when root concatenation produces a consonant cluster that obscures syllable boundaries, an epenthetic `-o-` separates the roots. The epenthetic vowel is used at the speaker's discretion; clarity and parsability take precedence over brevity.
+
+- `nod-sci-alt` — `nod` ends in `d`, `sci` begins with `s`: `nodoscialt` (with epenthetic `-o-`) is preferred over `nodscialt`
+- `pont-oper` — `t` + `o`: `pontoper` is clear; no epenthesis needed
+
+**Recommended limit:** three roots. Four or more roots produce compounds that are phonologically unwieldy and semantically opaque. A three-root compound encoding an irreducible concept is productive; beyond that, a phrase or derived noun is cleaner.
 
 ## Part V: The Duodecimal System in Operation
 
@@ -393,7 +465,9 @@ The evidential mood alone gives Vendergood something Esperanto lacks entirely: a
 
 ## Closing Note
 
-At the conclusion of Volume II, Vendergood is a working language with twelve moods, four noun cases, a complete pronoun paradigm, regular derivational morphology, operative duodecimal arithmetic, and working example sentences demonstrating all moods.
+At the conclusion of Volume II, Vendergood is a working language with twelve moods, four noun cases, a complete pronoun paradigm, regular derivational morphology, possessive clitics, article economy rules, three-root compounding, operative duodecimal arithmetic, and working example sentences demonstrating all moods.
+
+The compression mechanisms documented in §2.3, §3.3, and §4.2 share a common design principle: no meaning is sacrificed. Article economy shifts definiteness marking to context and the `-av` suffix. Possessive clitics collapse a two-token construction to one using genitive forms already established in the pronoun paradigm. Three-root compounding extends the existing binary rule without introducing new morphology. The language encodes more per token, not less.
 
 Future work will extend the lexicon and complete the full article system. New vocabulary is added in the `additions/` directory of this repository, one word per file, each entry self-contained.
 
