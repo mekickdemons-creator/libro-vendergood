@@ -7,7 +7,7 @@
 //   mql -b 3 schema/vendergood.mql
 //   python tools/load_corpus.py | mql -b 3
 
-USE DATABASE 'vendergood' ;
+USE DATABASE 'vendergood' GO
 
 // ── 1. All words containing root "pont" (bridge) ──────────────────────────
 // Expected: temporpontalt (x2), ponton
@@ -46,7 +46,7 @@ GO
 // ── 6. Compound words (has both root_1 and root_2 set) ───────────────────
 // Expected: temporpontalt, finoperalt, alterfinalt, alterfinant, fidiferalt, fidiferant
 SELECT ALL OBJECTS WHERE
-[Word root_2 != ""]
+[Word root_2 <>""]
 GO
 
 // ── 7. Sentences demonstrating the intentive mood ────────────────────────

@@ -42,8 +42,8 @@ def test_single_sentence_word_count():
     mql = generate_mql([sent])
 
     # Two Word objects and one Sentence object should be emitted
-    assert mql.count("WITH OBJECT TYPE [Word]") == 2
-    assert mql.count("WITH OBJECT TYPE [Sentence]") == 1
+    assert mql.count("[Word\n") == 2
+    assert mql.count("[Sentence\n") == 1
 
 
 def test_monads_sequential():
@@ -83,7 +83,7 @@ def test_source_field_in_word():
     sent = make_sentence("temporpont", "temporpontalt.", [word])
     mql = generate_mql([sent])
 
-    assert 'source:="temporpont"' in mql
+    assert 'source:="temporpont";' in mql
 
 
 def test_compound_roots():
@@ -93,8 +93,8 @@ def test_compound_roots():
     sent = make_sentence("alterfin", "alterfin.", [word])
     mql = generate_mql([sent])
 
-    assert 'root_1:="fin"' in mql
-    assert 'root_2:="alter"' in mql
+    assert 'root_1:="fin";' in mql
+    assert 'root_2:="alter";' in mql
 
 
 def test_corpus_file_loads():
@@ -111,8 +111,8 @@ def test_corpus_file_loads():
     assert len(sentences) >= 10, f"Expected at least 10 sentences, got {len(sentences)}"
 
     mql = generate_mql(sentences)
-    word_count = mql.count("WITH OBJECT TYPE [Word]")
-    sentence_count = mql.count("WITH OBJECT TYPE [Sentence]")
+    word_count = mql.count("[Word\n")
+    sentence_count = mql.count("[Sentence\n")
 
     assert sentence_count == len(sentences)
     assert word_count > sentence_count  # every sentence has at least one word

@@ -10,9 +10,9 @@
 //   - Sentence monads are sequential integers; each Word is one monad.
 //     Sentence spans a range over its words.
 
-CREATE DATABASE 'vendergood' WITH KEY 'vendergood' USING SQLITE3 ;
+CREATE DATABASE 'vendergood' GO
 
-USE DATABASE 'vendergood' ;
+USE DATABASE 'vendergood' GO
 
 // ── Object types ──────────────────────────────────────────────────────────────
 
