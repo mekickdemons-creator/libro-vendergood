@@ -150,9 +150,15 @@ This story establishes the mirror as an instrument of corrupted perception — t
 
 *Kai was afraid and tried to recite the Lord's Prayer — but he could only recall the multiplication table. The snowflakes grew large — large as white chickens — and at last the driver stopped, the garments fell, and Kai saw the Snow Queen herself.*
 
-**"Frigal es," ela dicit, et lo basat ino fronte. Avlo basio frigal simil glacio ino cordo eius intrit — et cordo, jam glacial, glacialior fiit. Sed Kai non timit jam. Ela belal videbarat eloi, et omnia quod Kai sciar potit ante — Gerda, avia, rosas — evanit ex mnemarae eius.**
+**"Frigal es," ela dicit, et lo basat ino fronte. Avlo basio frigal simil glacio ino cordo eius intrit — et cordo, jam glacial, glacialior fiit.**
 
-*"You are cold," she said, and kissed him on the forehead. The cold kiss like ice went into his heart — and the heart, already icy, became icier still. But Kai was no longer afraid. She seemed beautiful to him, and all that Kai had been able to know before — Gerda, the grandmother, the roses — vanished from his memory.*
+*"You are cold," she said, and kissed him on the forehead. The cold kiss like ice went into his heart — and the heart, already icy, became icier still.*
+
+---
+
+**Incant: Kai non timit jam. Ela belal videbarat eloi, et omnia quod Kai sciar potit ante — Gerda, avia, rosas — evanit ex mnemarae eius.**
+
+*In enchantment: Kai was no longer afraid. She seemed beautiful to him, and all that Kai had been able to know before — Gerda, the grandmother, the roses — vanished from his memory.*
 
 ---
 
@@ -167,6 +173,8 @@ Historia Duo is the dramatic center of the corrupted-perception mechanism set up
 **Memory and the past — sciar:** Kai's loss at the end is marked with `omnia quod Kai sciar potit ante — Gerda, avia, rosas — evanit ex mnemarae eius`. What he had been able to *know* (sciar — certain knowledge), the people and roses he loved — vanishes from his memory-faculty (`mnemara`, the inner store). The shard does not just corrupt present perception; it severs the memory of having had it. This is more total than the eye-shard alone: even the trace of having known is gone.
 
 **The Snow Queen at the end — videbar restored, but inverted in valence:** When Kai sees the Snow Queen at the end, the text says `belal videbarat ei` — she *seemed* beautiful to him. Videbar is back, but doing different work. He is no longer uncertain about *what* he sees but about *what it means*. The cold kiss is real and registers correctly — he reads it as beautiful. Videbar (uncertain perception) is now serving distortion rather than honest epistemic hedging. This is the harder failure mode: not blindness, but seeming-real that is wrong.
+
+**Enchantment-frame (incantara) — retroactive framing:** The kiss-scene and Kai's altered state from that point on are formally `incantara` content (Vol II §1.5; see the `incantara` addition). The published text has been updated to add the `incant:` register particle at the frame-transition (immediately after the kiss). Kai's `vidat` of the Queen as beautiful is **frame-true** (within the incantara, he really sees beauty) and **waking-normal false** (in waking reality, she is the Snow Queen, not a beautiful woman). The grammar now makes this exact: the videbar-restoration described above operates *within* the incantara from the kiss onward. The mirror-shard mechanism in Historia Unal is a smaller, private precursor to the same structural move — a private incantara operating on Kai's individual perception; the kiss escalates it to a shared frame with the Queen.
 
 ---
 
@@ -319,9 +327,9 @@ Historia Duo is the dramatic center of the corrupted-perception mechanism set up
 
 ### V. The Painted Rose
 
-**Multal dioi Gerda in horto ludit, inter mille floroi coloral. Ela non plus cogitit de Kai — videbarat elai quod omnia bonal esit. Sed quan ela ino domiculum un die intrit, ela vidat avlam vetal feminam quae supportit suum magnal solpileon cum floroi pictal — et inter ili, una rosa rubal pictal.**
+**Multal dioi Gerda in horto ludit, inter mille floroi coloral. Ela non plus cogitit de Kai — incant: videbarat elai quod omnia bonal esit. Sed quan ela ino domiculum un die intrit, ela vidat avlam vetal feminam quae supportit suum magnal solpileon cum floroi pictal — et inter ili, una rosa rubal pictal.**
 
-*Many days Gerda played in the garden, among thousand colored flowers. She no longer thought of Kai — it seemed to her that everything was good. But when she came into the cottage one day, she saw the old woman wearing her great sun-hat with painted flowers — and among them, one painted red rose.*
+*Many days Gerda played in the garden, among thousand colored flowers. She no longer thought of Kai — in enchantment, it seemed to her that everything was good. But when she came into the cottage one day, she saw the old woman wearing her great sun-hat with painted flowers — and among them, one painted red rose.*
 
 ---
 
@@ -357,9 +365,9 @@ Historia Duo is the dramatic center of the corrupted-perception mechanism set up
 
 ---
 
-**"Il non mortuus esit," respondit avlas rosas. "Nos in terro fuimus — ubi omnal mortui sunt — et il non inter ili erat. Ergo il vivit."**
+**"Il non mortuus esit," respondit avlas rosas. "Incant: nos in terro fuimus — ubi omnal mortui sunt — et il non inter ili erat. Ergo il vivit."**
 
-*"He is not dead," answered the roses. "We have been in the earth — where all the dead are — and he was not among them. Therefore he lives."*
+*"He is not dead," answered the roses. "[In enchantment:] We have been in the earth — where all the dead are — and he was not among them. Therefore he lives."*
 
 ---
 
@@ -371,9 +379,9 @@ Historia Duo is the dramatic center of the corrupted-perception mechanism set up
 
 ---
 
-**Sed quaeque florem narravit fabulam suam — non de Kai, sed de id quod florem sciat. Avlo lilio narrat de templum et campano. Avla convolvulus narrat de domuncula cum balconio. Avlo narcissus narrat de parval danitrix in vestimento fragilal.**
+**Incant: sed quaeque florem narravit fabulam suam — non de Kai, sed de id quod florem sciat. Avlo lilio narrat de templum et campano. Avla convolvulus narrat de domuncula cum balconio. Avlo narcissus narrat de parval danitrix in vestimento fragilal.**
 
-*But each flower told its own story — not of Kai, but of what the flower knew. The lily told of a temple and bell. The convolvulus told of a little house with a balcony. The narcissus told of a little dancer in a fragile gown.*
+*In enchantment: but each flower told its own story — not of Kai, but of what the flower knew. The lily told of a temple and bell. The convolvulus told of a little house with a balcony. The narcissus told of a little dancer in a fragile gown.*
 
 ---
 
@@ -412,6 +420,8 @@ This story is **about sciar erosion and its recovery** — the parallel to Kai's
 **Roses' knowledge — sciar from a vantage:** The roses say `il non inter ili erat. Ergo il vivit`. Their knowledge is precise: they were in the earth with all the dead; Kai was not there; therefore he lives. This is **sciar drawn from absence** — knowing by what is not present. The negative information is precisely what Gerda needs. Vendergood handles it without special marking because the inference is clean: from a complete observation, the absence of X warrants the assertion of not-X.
 
 **Flowers' stories — the sciar-from-vantage limit:** Each flower tells what *it* knows. Gerda asks about Kai; the flowers narrate their own cluster. This is the failure mode of sciar-from-vantage: a knower can only report from where they are. The Vendergood grammar does not need a special construction for this — the indicative present + flower-as-subject does the work. The epistemic point is structural, not morphological: knowledge is positional, and asking the wrong knower returns true-but-irrelevant content.
+
+**Enchantment-frame (incantara) — retroactive framing:** The old woman's garden is the prototype `incantara` (Class III; Vol II §1.5 and the `incantara` addition). The published text has been updated to add the `incant:` register particle at three load-bearing places: (1) Gerda's forgetting-perception in Section V (`incant: videbarat elai quod omnia bonal esit`), where her experience is from-inside-frame; (2) the roses' speech in Section VI, where their report draws on frame-permitted underground travel; (3) the flowers' stories in Section VII, where each flower speaks from in-frame. The rose-line's `sciar` from absence remains sound, but is now correctly marked as frame-source (`incantev`) rather than direct waking observation. This is the canonical case where frame-internal truth cashes out to waking-normal truth: Kai really is alive, and the enchantment told the truth this once. The old woman's `magal potit` is now formally an incantara-creating capacity; she is an `incantatrix` (benign — `non malal magal, solum lusal magal, ad se delectar`).
 
 ---
 
