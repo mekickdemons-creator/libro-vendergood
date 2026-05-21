@@ -168,6 +168,7 @@ This pattern extends naturally to two additional source channels significant for
 - `memorev` — recalled; evidential from memory (*memor-* + *-ev*). The claim is based on a past experience, not current observation. Distinct from `infrev` (reasoning) and `audidev` (report).
 - `imaginev` — projected; evidential from modeling (*imagin-* + *-ev*). The claim is based on a deliberate known-false projection. Distinct from counterfactual (`-ot`), which models a premise; `imaginev` marks that the *conclusion* is drawn from a projection.
 - `somnev` — dreamt; evidential from dream-source (*somn-* + *-ev*). The claim is drawn from content experienced in a dream (a `somnara`, Class III; see the addition entry). Distinct from `memorev` (recall of waking experience) and `imaginev` (deliberate projection): `somnev` marks content received in a state where the experiencer was neither perceiving nor projecting but living a sequence with no waking authorial control. The epistemic status of the content is resolved only on waking.
+- `incantev` — enchanted; evidential from enchantment-frame source (*incant-* + *-ev*). The claim is drawn from content experienced within an `incantara` (Class III; see the addition entry) — a magical frame created by external magical action, shared with others in the frame, whose physics differs from waking-normal but is consistent within itself. Distinct from `somnev` (private dream-frame) and `imaginev` (deliberate projection): `incantev` marks content received within a shared magical frame whose correspondence with waking-normal truth must be checked separately. Frame-internal soundness does not entail waking-normal truth; sometimes it does, sometimes it does not.
 
 **Source channel summary:**
 
@@ -179,6 +180,7 @@ This pattern extends naturally to two additional source channels significant for
 | `memorev` | memory retrieval | recalls that |
 | `imaginev` | projection / modeling | projects that |
 | `somnev` | dream-source | dreamt that |
+| `incantev` | enchantment-frame source | within-frame report |
 
 **Register particles** — for marking an entire clause or passage by source channel, without applying the suffix to every verb, a small set of clause-initial particles is available:
 
@@ -187,6 +189,7 @@ This pattern extends naturally to two additional source channels significant for
 | `mnem` | from memory | opens a clause drawn from memory retrieval |
 | `imag` | as projected | opens a clause drawn from deliberate modeling |
 | `somn` | in dream | opens a clause drawn from dream-source; the clause asserts what is true within the somnara's frame |
+| `incant` | in enchantment | opens a clause drawn from enchantment-frame source; the clause asserts what is true within the incantara's frame |
 
 These particles are optional and carry no case or mood inflection. They signal to the listener/reader that the following clause should be interpreted through that source channel. Individual verbs within the clause may still carry their own mood suffix.
 
@@ -196,7 +199,9 @@ These particles are optional and carry no case or mood inflection. They signal t
 
 **Somn: avlo iter continuat, sed nullo finis venit** — *In dream: the path continues, but no end comes* (the clause is flagged as drawn from dream-frame; what is asserted is true within the somnara, not in waking reality)
 
-*The particles `mnem`, `imag`, and `somn` are extensions, not reconstructions. Their derivation is transparent: `mnem` from `mnemon` (the established memory root); `imag` from `imaginar` (the established projection root); `somn` from `somnara` (the dream noun, Vol II §2.6 and the somnara addition). They do the same work at clause level that `-ev` compound verbs do at word level.*
+**Incant: rosas in terro fuerunt, et omnal mortuos viderunt, et il non inter ili erat** — *In enchantment: the roses were in the earth, saw all the dead, and he was not among them* (the clause is flagged as drawn from an enchantment-frame; the claim is sound within the incantara — where flowers can travel underground and return with intelligence — and its correspondence with waking-normal truth is a separate question for the outside-frame observer to resolve)
+
+*The particles `mnem`, `imag`, `somn`, and `incant` are extensions, not reconstructions. Their derivation is transparent: `mnem` from `mnemon`; `imag` from `imaginar`; `somn` from `somnara`; `incant` from `incantara`. They do the same work at clause level that `-ev` compound verbs do at word level. The four together cover the principal non-direct sources of content in a reasoning agent's discourse: recall, projection, dream, enchantment.*
 
 ## Part II: Noun Declension
 

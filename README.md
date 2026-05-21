@@ -28,6 +28,7 @@ This repository is an attempt to finish what survived. Documented choices are fo
 | [`finoperalt`](additions/finoperalt.md) | one who habitually completes stranded work |
 | [`glorara`](additions/glorara.md) | glory; standing of honor (abstract feminine) |
 | [`imaginar`](additions/imaginar.md) | epistemic — to model as known-false |
+| [`incantara`](additions/incantara.md) | enchantment — shared magical frame (abstract feminine) |
 | [`iter`](additions/iter.md) | path; journey |
 | [`memorar`](additions/memorar.md) | to recall; epistemic source channel |
 | [`mnemara`](additions/mnemara.md) | memory — the faculty (abstract feminine; anchor for Class III) |
