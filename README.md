@@ -36,6 +36,7 @@ This repository is an attempt to finish what survived. Documented choices are fo
 | [`orar`](additions/orar.md) | schedule; ordered temporal structure |
 | [`rete`](additions/rete.md) | network |
 | [`sciar`](additions/sciar.md) | epistemic — to know with certainty |
+| [`somnara`](additions/somnara.md) | dream — the content of sleep (abstract feminine) |
 | [`temporpont`](additions/temporpont.md) | time-bridge |
 | [`translat`](additions/translat.md) | translation; transfer |
 | [`videbar`](additions/videbar.md) | epistemic — to seem; uncertain perception |
@@ -45,7 +46,7 @@ This repository is an attempt to finish what survived. Documented choices are fo
 **[`translations/`](translations/)** — Vendergood translations of public-domain texts. Each translation is bilingual (Vendergood + English) with a glossary and a note on epistemic register.
 
 - [`little-match-girl.md`](translations/little-match-girl.md) — H.C. Andersen, 1845
-- [`snow-queen.md`](translations/snow-queen.md) — H.C. Andersen, 1844 *(in progress — Stories I-III)*
+- [`snow-queen.md`](translations/snow-queen.md) — H.C. Andersen, 1844 *(in progress — Stories I-IV)*
 
 ### Corpus toolchain
 

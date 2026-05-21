@@ -167,6 +167,7 @@ This pattern extends naturally to two additional source channels significant for
 
 - `memorev` — recalled; evidential from memory (*memor-* + *-ev*). The claim is based on a past experience, not current observation. Distinct from `infrev` (reasoning) and `audidev` (report).
 - `imaginev` — projected; evidential from modeling (*imagin-* + *-ev*). The claim is based on a deliberate known-false projection. Distinct from counterfactual (`-ot`), which models a premise; `imaginev` marks that the *conclusion* is drawn from a projection.
+- `somnev` — dreamt; evidential from dream-source (*somn-* + *-ev*). The claim is drawn from content experienced in a dream (a `somnara`, Class III; see the addition entry). Distinct from `memorev` (recall of waking experience) and `imaginev` (deliberate projection): `somnev` marks content received in a state where the experiencer was neither perceiving nor projecting but living a sequence with no waking authorial control. The epistemic status of the content is resolved only on waking.
 
 **Source channel summary:**
 
@@ -177,6 +178,7 @@ This pattern extends naturally to two additional source channels significant for
 | `infrev` | internal inference | reasons that |
 | `memorev` | memory retrieval | recalls that |
 | `imaginev` | projection / modeling | projects that |
+| `somnev` | dream-source | dreamt that |
 
 **Register particles** — for marking an entire clause or passage by source channel, without applying the suffix to every verb, a small set of clause-initial particles is available:
 
@@ -184,6 +186,7 @@ This pattern extends naturally to two additional source channels significant for
 |---|---|---|
 | `mnem` | from memory | opens a clause drawn from memory retrieval |
 | `imag` | as projected | opens a clause drawn from deliberate modeling |
+| `somn` | in dream | opens a clause drawn from dream-source; the clause asserts what is true within the somnara's frame |
 
 These particles are optional and carry no case or mood inflection. They signal to the listener/reader that the following clause should be interpreted through that source channel. Individual verbs within the clause may still carry their own mood suffix.
 
@@ -191,7 +194,9 @@ These particles are optional and carry no case or mood inflection. They signal t
 
 **Imag: avlo homo arridat en vespo** — *As projected: the person will arrive in the evening* (the clause is flagged as modeling, not assertion or intention)
 
-*The particles `mnem` and `imag` are extensions, not reconstructions. Their derivation is transparent: `mnem` from `mnemon` (the established memory root); `imag` from `imaginar` (the established projection root). They do the same work at clause level that `-ev` compound verbs do at word level.*
+**Somn: avlo iter continuat, sed nullo finis venit** — *In dream: the path continues, but no end comes* (the clause is flagged as drawn from dream-frame; what is asserted is true within the somnara, not in waking reality)
+
+*The particles `mnem`, `imag`, and `somn` are extensions, not reconstructions. Their derivation is transparent: `mnem` from `mnemon` (the established memory root); `imag` from `imaginar` (the established projection root); `somn` from `somnara` (the dream noun, Vol II §2.6 and the somnara addition). They do the same work at clause level that `-ev` compound verbs do at word level.*
 
 ## Part II: Noun Declension
 

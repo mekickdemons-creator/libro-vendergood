@@ -415,7 +415,196 @@ This story is **about sciar erosion and its recovery** — the parallel to Kai's
 
 ---
 
+## Historia Quartal — Princeps et Princessa
+## Fourth Story — The Prince and the Princess
 
+### I. Avlo Corvo
+
+**Gerda fessal in prato residat. Avlo corvo magnal et nigral ad ela saltat. Lo aspicat avla parval puellam, et capon inclinant dicit: "Tak! Tak!"**
+
+*Tired Gerda sits in a meadow. A great black raven leaps toward her. He looks at the little girl, and bowing his head, says: "Tak! Tak!"*
+
+---
+
+**"Quare sola es, parval puella?" lo dicat. Lin humanal locit cum accentu fracto, nam ex amica sua qui in regalio vivit didicit. Amica sua corva mansueta esit.**
+
+*"Why are you alone, little girl?" he says. He speaks human language with a broken accent, for he learned it from his sweetheart who lives in the palace. His sweetheart is a tame raven.*
+
+---
+
+**Gerda lo de Kai narrat. Avlo corvo cap inclinat: "Audidev! Forsan vidit-eg lon. Sed audi-an: amica mea de juvene viro narrit qui ad princessam nostram venit."**
+
+*Gerda tells him about Kai. The raven bows his head: "Heard-of! Perhaps I have seen him. But do listen: my sweetheart told me about a young man who came to our princess."*
+
+---
+
+### II. Historia Princessae
+
+**"Avla princessa magal sapientes — omnal jurnaloi mundi legit, et inde oblivisit eos. Tanto sapientes ut decidit: 'Marito volo, sed marito qui locar potit, non qui solum stat et belal aspicat.' Et per terro proclamatio missit."**
+
+*"The princess is greatly wise — she reads all the world's newspapers, and then forgets them. So wise that she decided: 'I want a husband, but a husband who can speak, not one who only stands and looks handsome.' And she sent a proclamation throughout the land."*
+
+---
+
+**"Et viroi venerunt — multal, multal. Aurum in vestimentis portabant, plumas pavonis in pileis. Sed quan in salam thronalem intrant, ante princessam, locar non possunt. Verba eius repetent simil psittacoi; vel muti stant simil pisces ex aquo tracti. Et avla princessa lassal fiit."**
+
+*"And men came — many, many. They wore gold on their garments, peacock feathers in their hats. But when they enter the throne-hall, before the princess, they cannot speak. They repeat her words like parrots; or they stand mute like fish drawn from the water. And the princess grew weary."*
+
+---
+
+**"Tertio die, juvenal viro venit — sin equo, sin currus, sin vestimentis aurali. Pannos pauperali portabat, sarcinam in tergo, caligas usatal in pedis. Sed ocloi eius clarali erant, simil tuoi, parval puella. Capili eius longal et nigral. Et quan portas auralis vidit, dicit non timens: 'Belal — sed cum princessa locar venio.'"**
+
+*"On the third day, a young man came — without horse, without carriage, without golden garments. He wore poor clothes, a knapsack on his back, worn boots on his feet. But his eyes were bright, like yours, little girl. His hair was long and dark. And when he saw the golden gates, he said unafraid: 'Fine — but I have come to speak with the princess.'"*
+
+---
+
+**"Et locit. Et locit bene. Et avla princessa lo amavit, et lo princeps factus esit."**
+
+*"And he spoke. And he spoke well. And the princess loved him, and he was made prince."*
+
+---
+
+**Gerda manos conjungit. "Avlo Kai esit! Sciar potil! Ocloi clarali, capili longal — avlo Kai erat. Avlo corvo, ducat me ad eum!"**
+
+*Gerda joins her hands. "It was Kai! I can know it! Bright eyes, long hair — it was Kai. Raven, lead me to him!"*
+
+---
+
+**Avlo corvo capon inclinat: "Difficilal esit. Sed amica mea ino regalio vivit; ela nos ducer potit per ostios secretal, dum omnal dormiunt."**
+
+*The raven bows his head: "It is difficult. But my sweetheart lives in the palace; she can lead us through secret doors, while all sleep."*
+
+---
+
+### III. Regalio In Nocte
+
+**In nocte, avlo corvo et amica eius mansueta Gerdam per ostios servorum duxerunt. Per scalas tortuosal ascenderunt, per cameras ubi servoi dormiebant et somniabant.**
+
+*At night, the raven and his tame sweetheart led Gerda through the servants' doors. They climbed winding stairs, through chambers where servants slept and dreamt.*
+
+---
+
+**Et tunc ad corridoro venerunt ubi somnaras transeunt.**
+
+*And then they came to the corridor where dreams pass.*
+
+---
+
+**Somn: equoi umbral per aero currunt, venatores portantes. Dominoi et dominas in vestimentis pretiosal saltant, sed pedes solum non tangunt. Servoi delicat ferunt — pocoi argentali, platos aurali — sed mensa nullo est.**
+
+*In dream: shadowy horses run through the air, bearing huntsmen. Lords and ladies in precious garments dance, but their feet do not touch the ground. Servants carry dainties — silver cups, golden platters — but there is no table.*
+
+---
+
+**Omnal somnaras sunt — somnaras servorum supra, qui dum dormiunt venantur et saltant et serviunt.**
+
+*All are dreams — the dreams of the servants above, who while they sleep hunt and dance and serve.*
+
+---
+
+**Gerda timuit, sed avla corva ei dicit: "Noli timar — somnaras non vident nos. Vivunt intra mundo suo, et nos extra eo sumus. Infrev: somnara non potit videre vigilantes."**
+
+*Gerda was afraid, but the female raven says to her: "Do not fear — the dreams do not see us. They live within their own world, and we are outside it. By inference: a dream cannot see those who are awake."*
+
+---
+
+**Somnaras circum eos transierunt. Equoi nigral venatores supra collal portaverunt. Dominas auralis cum dominis saltaverunt. Servoi cum platis vacual ad mensas quae non erant ambulaverunt. Et Gerda et avlo corvo et avla corva inter omnal transieverunt, et nullo somnara eos vidit.**
+
+*Dreams passed around them. Black horses bore huntsmen toward the hills. Golden ladies danced with lords. Servants with empty platters walked toward tables that were not there. And Gerda and the raven and the female raven passed among them all, and no dream saw them.*
+
+---
+
+### IV. Lectulo Liliali
+
+**Ad cameran principalal venerunt. Et ibi, supra caule magnal aurali quae ex solo crescit, simil lilio magnal, pendebant duo lecti — unus alba, unus rubra. In albo dormit avla princessa; in rubro dormit avlo princeps.**
+
+*They came to the royal chamber. And there, on a great golden stem that grew from the ground, like a great lily, hung two beds — one white, one red. In the white slept the princess; in the red slept the prince.*
+
+---
+
+**Gerda lectulum rubrum ascendit, et faciem principis aspexit.**
+
+*Gerda climbed onto the red bed, and looked at the face of the prince.*
+
+---
+
+**Et vidit. Et sciit.**
+
+*And she saw. And she knew.*
+
+---
+
+**Non Kai erat. Capili longal — sed non Kai. Ocloi clausi — sed non Kai. Avlo princeps juvenal et bellal erat, sed alius.**
+
+*It was not Kai. The hair long — but not Kai. The eyes closed — but not Kai. The prince was young and beautiful, but other.*
+
+---
+
+**Gerda flevit. Lacrimas eius supra faciem principis cadiderunt, et lo evigilat.**
+
+*Gerda wept. Her tears fell upon the prince's face, and he awoke.*
+
+---
+
+**"Quis es?" dicat avlo princeps. "Quare ploras supra me?"**
+
+*"Who are you?" says the prince. "Why do you weep upon me?"*
+
+---
+
+### V. Donoi Regalal
+
+**Et Gerda historiam suam narravit — de Kai, de speculo fragmentis, de iter longal, de spe quae jam pereit.**
+
+*And Gerda told her story — of Kai, of the mirror fragments, of the long road, of the hope that now perished.*
+
+---
+
+**Avlo princeps evigilavit avlam princessam. Et avla princessa, ut audit, lacrimat etiam. "Parval puella," ela dicat, "te non possumus tenere — sed te dare possumus omnia quae iter tuum facilior reddent."**
+
+*The prince woke the princess. And the princess, when she hears, weeps also. "Little girl," she says, "we cannot keep you — but we can give you everything that will make your journey easier."*
+
+---
+
+**Et tunc avlo princeps performatival locat: "Dat-prat tibi currus aurali. Dat-prat tibi vestimentos forratal. Dat-prat tibi cibum et potum. Dat-prat tibi equitatores qui te tueantur. Iter tuum facilior fiat-an."**
+
+*And then the prince spoke performatively: "I performatively give you a golden carriage. I performatively give you fur-lined garments. I performatively give you food and drink. I performatively give you riders to guard you. May your journey become easier."*
+
+---
+
+**Et avla princessa avlam corvam mansuetam ad se vocavit. "Tu et marito tuo silvestro," ela dicat, "venat-an cum Gerda usque ad fines regni nostri — postea liberal estis. Donum vobis dat-prat: avlum anulo meo nuptiali. Portate id ut signum nostri amoris."**
+
+*And the princess called the tame raven to her. "You and your wild husband," she says, "do come with Gerda to the borders of our kingdom — afterward you are free. I performatively give you a gift: my wedding ring. Carry it as a sign of our love."*
+
+---
+
+**Et matutino, Gerda in currus auralis ascendit. Vestimentis forratis induta erat. Cibos et potos sufficientes habuit. Equitatores in liveriis rubris ad lateros ejus cavalcabant. Avlo corvo et avla corva supra currum volabant, comites ejus.**
+
+*And in the morning, Gerda climbed into the golden carriage. She was dressed in fur-lined garments. She had enough food and drink. Riders in red liveries rode at her sides. The raven and the female raven flew above the carriage, her companions.*
+
+---
+
+**Iter continuabat. Sed avlo Kai non hic erat.**
+
+*The journey continued. But Kai was not here.*
+
+---
+
+### Note on Epistemic Register — Historia Quartal
+
+This story exercises four grammar features for the first time in published translation:
+
+**Dream register (somnara / somn).** The corridor scene is the prototype use of the dream-register added to §1.5. The `somn:` particle opens the dream-procession passage; within it, individual verbs remain indicative (`currunt`, `saltant`, `tangunt`), but the entire scene is flagged as drawn from a frame whose reality is bounded by the somnara, not by the waking world. The female raven's explanation — `somnaras non vident nos. Vivunt intra mundo suo, et nos extra eo sumus` — names the boundary explicitly: the dreams are real entities within their frame, and Gerda and the ravens are outside it. The compression is genuine: English requires several sentences of orientation to establish this; `somn:` does it with one syllable.
+
+**Performative mood (-prat).** The prince's gift-speech is the canonical case the performative mood was designed for. Speech-as-act: the saying *is* the giving. Andersen's fairy-tale gifting in this scene is identical in form to performative speech-acts everywhere ("I name this ship Queen Mary," "I do" at a wedding). The strict reading marks each verb with `-prat`: `dat-prat tibi currus aurali`. The casual reading uses plain indicative and lets context carry the force. This passage uses the strict reading to demonstrate the mood at work.
+
+**Absolute imperative (-an).** Three uses in this story: `audi-an` (do listen — emphatic command in dialogue, raven instructing Gerda); `venat-an` (do come — princess commanding-in-grace, not requesting); `fiat-an` (may it become — optative-blessing tonality, the prince closing the gift-speech). The `-an` ending is distinguished from plain imperative by its absolute force: not a request, not advice, but a direct issuance from a position of authority or invocation. The princess is royal; the raven is the local authority; the prince is exercising royal performative force. All three contexts warrant `-an`.
+
+**Evidential at length (-ev).** The raven's narration of the princess's story is sustained reported speech — multiple paragraphs of audidev source. The pattern holds from prior stories: mark the first verb (`Audidev! Forsan vidit-eg lon`) and let context carry the rest. The grammar doesn't force per-verb evidential marking; it offers it where ambiguity threatens. The raven's account is bracketed by an opening `audidev` and the implicit understanding that everything until the perspective shifts back to Gerda is reported, not asserted.
+
+**Epistemic resolution: videbar → sciar collapse.** Gerda hears the description (`ocloi clarali, capili longal`) and her belief snaps to `sciar potil` — "I can know it." This is the first published use of modal `potil` + epistemic verb: not `sciar` (knowing) and not `videbar` (it seems), but the position-claim "I am positioned to know." Then the bed-scene resolves the position: `vidit. et sciit.` Three syllables, total resolution. The hoped-for `sciar potil` collapses into `sciit` of the wrong thing — Kai is not here. The grammar makes the disappointment exact rather than ornamental, and exact disappointment is what fairy tales need to keep their stakes legible.
+
+---
 
 | Root | Form | Meaning | First appearance |
 |------|------|---------|------------------|
@@ -557,3 +746,99 @@ This story is **about sciar erosion and its recovery** — the parallel to Kai's
 | flevit | v | wept (past of flere) | Historia Tres |
 | lacrimit | v | wept (past of lacrimar) | Historia Tres |
 | natat | v | swims | Historia Tres |
+| corvo | n (anim masc) | raven, crow | Historia Quartal |
+| corva | n (anim fem) | female raven | Historia Quartal |
+| mansueta | adj | tame | Historia Quartal |
+| silvestro | adj | wild | Historia Quartal |
+| amica | n (anim fem) | sweetheart, female beloved | Historia Quartal |
+| regalio | n (inanim) | palace, royal residence | Historia Quartal |
+| princeps | n (anim masc) | prince | Historia Quartal |
+| princessa | n (anim fem) | princess | Historia Quartal |
+| jurnalo | n (inanim) | newspaper | Historia Quartal |
+| marito | n (anim masc) | husband | Historia Quartal |
+| vestimento | n (inanim) | garment | Historia Quartal |
+| pluma | n (inanim) | feather | Historia Quartal |
+| pavono | n (anim masc) | peacock | Historia Quartal |
+| sala | n (inanim) | hall | Historia Quartal |
+| thronal | adj | of the throne | Historia Quartal |
+| psittaco | n (anim masc) | parrot | Historia Quartal |
+| piscis | n (anim) | fish | Historia Quartal |
+| muto | adj | mute | Historia Quartal |
+| juvenal | adj | young | Historia Quartal |
+| sarcina | n (inanim) | knapsack | Historia Quartal |
+| tergo | n (inanim) | back (body part) | Historia Quartal |
+| caliga | n (inanim) | boot | Historia Quartal |
+| usatal | adj | worn, used | Historia Quartal |
+| clarali | adj | bright, clear (variant of clar-) | Historia Quartal |
+| accentu | n (inanim) | accent (of speech) | Historia Quartal |
+| fracto | adj | broken | Historia Quartal |
+| sapientes | adj | wise (vowel-stem form) | Historia Quartal |
+| sapientia | n (Class III) | wisdom (abstract fem.) | Historia Quartal |
+| proclamatio | n (Class III) | proclamation | Historia Quartal |
+| ostio | n (inanim) | door | Historia Quartal |
+| secretal | adj | secret | Historia Quartal |
+| scala | n (inanim) | stair | Historia Quartal |
+| tortuosal | adj | winding, tortuous | Historia Quartal |
+| camera | n (inanim) | chamber, room | Historia Quartal |
+| servo | n (anim) | servant | Historia Quartal |
+| corridoro | n (inanim) | corridor | Historia Quartal |
+| somnara | n (Class III) | dream (content); see addition entry | Historia Quartal |
+| somnev | v (mood) | evidential from dream-source; see Vol II §1.5 | Historia Quartal |
+| somn | particle | dream-mode register marker; see Vol II §1.5 | Historia Quartal |
+| umbral | adj | shadowy | Historia Quartal |
+| venator | n (anim masc) | hunter | Historia Quartal |
+| equo | n (anim masc) | horse | Historia Quartal |
+| dominoi | n (anim masc, pl) | lords | Historia Quartal |
+| dominas | n (anim fem, pl) | ladies | Historia Quartal |
+| pretiosal | adj | precious | Historia Quartal |
+| saltat | v | dances, leaps | Historia Quartal |
+| delicat | n (inanim, pl) | dainties, delicacies | Historia Quartal |
+| poco | n (inanim) | cup | Historia Quartal |
+| argental | adj | of silver, silver-colored | Historia Quartal |
+| plato | n (inanim) | platter | Historia Quartal |
+| mensa | n (inanim) | table | Historia Quartal |
+| collo | n (inanim) | hill | Historia Quartal |
+| vacual | adj | empty | Historia Quartal |
+| vigilantes | adj/n | awake, awake ones | Historia Quartal |
+| lectulo | n (inanim) | bed | Historia Quartal |
+| liliali | adj | of a lily, lily-like | Historia Quartal |
+| caule | n (inanim) | stem, stalk | Historia Quartal |
+| alba | adj | white | Historia Quartal |
+| rubra | adj | red | Historia Quartal |
+| principal | adj | royal, principal | Historia Quartal |
+| clausi | adj | closed | Historia Quartal |
+| alius | adj | other | Historia Quartal |
+| bellal | adj | beautiful | Historia Quartal |
+| evigilat | v | awakens | Historia Quartal |
+| ploras | v | you weep | Historia Quartal |
+| difficilal | adj | difficult | Historia Quartal |
+| spe | n (Class III) | hope (kept as Latin shape; future formalization possible as `sperara`) | Historia Quartal |
+| pereit | v | perishes | Historia Quartal |
+| currus | n (inanim) | carriage | Historia Quartal |
+| aurali | adj | golden | Historia Quartal |
+| forratal | adj | fur-lined | Historia Quartal |
+| cibo | n (inanim) | food | Historia Quartal |
+| poto | n (inanim) | drink | Historia Quartal |
+| equitator | n (anim masc) | rider, postilion | Historia Quartal |
+| tueantur | v (subj) | would guard | Historia Quartal |
+| livery | n (inanim) | livery (uniform) | Historia Quartal |
+| ruber | adj | red (variant) | Historia Quartal |
+| cavalcabant | v | were riding (horseback) | Historia Quartal |
+| comites | n (anim, pl) | companions | Historia Quartal |
+| anulo | n (inanim) | ring | Historia Quartal |
+| nuptiali | adj | of marriage, nuptial | Historia Quartal |
+| signum | n (inanim) | sign | Historia Quartal |
+| amoris | n (Class III, gen) | of love (gen. of amora — future addition candidate) | Historia Quartal |
+| matutino | n (inanim) | morning | Historia Quartal |
+| latero | n (inanim) | side | Historia Quartal |
+| volabant | v | were flying | Historia Quartal |
+| regni | n (inanim, gen) | of the kingdom | Historia Quartal |
+| finis | n (inanim) | end, border | Historia Quartal |
+| postea | adv | afterward | Historia Quartal |
+| liberal | adj | free | Historia Quartal |
+| donum | n (inanim) | gift | Historia Quartal |
+| dat-prat | v (performative) | performatively gives; see Vol II §1.3 (performative extension) | Historia Quartal |
+| venat-an | v (imp. abs.) | do come (absolute imperative); see Vol II §1.1 | Historia Quartal |
+| audi-an | v (imp. abs.) | do listen | Historia Quartal |
+| fiat-an | v (imp. abs.) | may it become (optative-blessing) | Historia Quartal |
+| potil | modal aux | be in a position to (modal of `pot-`); `sciar potil` = "I can know" | Historia Quartal |
