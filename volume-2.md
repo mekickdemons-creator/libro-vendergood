@@ -338,7 +338,7 @@ Vendergood encodes spatial and relational meaning through prepositions rather th
 | Preposition | Meaning | Example |
 |---|---|---|
 | `ad` | to, toward (destination) | `ad caelo it` — goes to heaven |
-| `ino` | into, entry (Latin *intro*) | `ino gloro intrit` — entered into glory |
+| `ino` | into, entry (Latin *intro*) | `ino glorara intrit` — entered into glory |
 | `ex` | out of, from | `ex manibus laberit` — slipped from their hands |
 | `de` | from, down from | `de caelo cadit` — falls from the sky |
 
@@ -370,10 +370,79 @@ Vendergood encodes spatial and relational meaning through prepositions rather th
 
 | Conjunction | Meaning | Example |
 |---|---|---|
-| `quan` | when (sequential) | `quan stello cadit, animo ad caelo it` — when a star falls, a soul goes to heaven |
+| `quan` | when (sequential) | `quan stello cadit, animara ad caelo it` — when a star falls, a soul goes to heaven |
 | `dum` | while, during (simultaneous) | `dum ela ambulant, nivo cadit` — while she walked, snow fell |
 
 `quan` marks sequential or punctual time; `dum` marks simultaneous duration. The distinction matters when two actions overlap in time rather than follow each other — `dum` asserts they happen together, `quan` asserts one happens at the moment of the other.
+
+### 2.6 Noun Classes
+
+The article system in §2.1 inflects for three grammatical genders: animate default (masculine/generic), animate feminine, and inanimate. That is the surface — the morphology the speaker actually produces. Beneath it sits a **semantic class system** that determines which article a given noun takes. This deeper layer is what Sidis described as "more complex than a Japanese verb."
+
+**Three primary classes:**
+
+| Class | Semantic content | Article | Examples |
+|---|---|---|---|
+| **I — Animate** | Sentient beings, personified agents | `avlo` (default), `avla` (feminine) | `hom` (person), `merkant` (merchant), `puella` (girl) |
+| **II — Concrete** | Physical objects, places, made things | `ivlo` | `dom` (house), `iter` (path), `nod` (node), `faco` (match) |
+| **III — Abstract** | Faculties, concepts, states, virtues | `avla` (default feminine) | `mnemara` (memory), `veritat` (truth), `cogito` (thought) |
+
+**Why abstracts take the feminine article.** Sidis's classical sources are nearly uniform on this point. Latin *memoria, veritas, justitia, virtus, libertas, fides* — feminine. Greek *μνήμη, ἀλήθεια, δίκη, ἀρετή, ἐλευθερία, πίστις* — feminine. This is not coincidence; it is the inherited convention for naming inner faculties and abstractions in the Indo-European source languages Sidis drew from. Vendergood preserves it: **`avla mnemara`** declines on the same article paradigm as `avla puella`.
+
+**Three-way contrast in working noun phrases:**
+
+| Form | Class | Article + Noun | Translation |
+|---|---|---|---|
+| Animate masc. | I | `avlo merkanto` | the merchant |
+| Animate fem. | I | `avla puella` | the girl |
+| Concrete | II | `ivlo dom` | the house |
+| Abstract | III | `avla mnemara` | the memory |
+
+**Class is fixed by the noun, not chosen per clause.** A noun's class is part of its lexical identity, declared in its addition entry. `mnemara` is Class III wherever it appears; `dom` is Class II wherever it appears. The article follows.
+
+**Vowel-final feminine declension** (Class III nouns ending in `-a`, following the article paradigm `avla` / `avlan` / `avlai` / `avlae`):
+
+| Case | Suffix | Form | Translation |
+|---|---|---|---|
+| Nominative | (zero — root is `-a`) | **mnemara** | memory (subj.) |
+| Accusative | `-n` | **mnemaran** | memory (obj.) |
+| Dative | `-i` (→ `-ai`) | **mnemarai** | to/for memory |
+| Genitive | `-e` (→ `-ae`) | **mnemarae** | of memory |
+| Plural | + `-s` | **mnemaras / mnemarans / mnemarais / mnemaraes** | memories... |
+
+This parallels the article paradigm exactly — `-a` stem takes the case marker as a final consonant or vowel without intrusion. The labial accusative rule (§2.2) does not apply: `-a` is not labial, and the feminine paradigm uses `-n` directly rather than the masculine `-on`.
+
+**Note on `-ae` genitive and plural disambiguation.** The vowel-final feminine genitive singular ends in `-ae` (`mnemara` → `mnemarae`). This is the same surface form as Latin first-declension genitive singular *and* nominative plural (Latin *rosa* → *rosae*, ambiguous between "of the rose" and "the roses"). Vendergood resolves the collision by reserving `-s` for plurals: `mnemaras` (pl nom), `mnemarans` (pl acc), `mnemarais` (pl dat), `mnemaraes` (pl gen). Within Vendergood, `-ae` is unambiguously genitive singular. Latin-trained readers should not parse `-ae` as a plural marker; it never is.
+
+**Note on consonant-final Class III nouns.** Not every Class III abstract ends in `-a`. Roots inherited as consonant-final — `veritat` (truth), `libertat` (liberty), `voluptat` (pleasure), patterned on Latin third-declension feminines — decline by the standard case suffixes from §2.2 (`-o, -on, -i, -e`). Class membership is carried entirely by the article: **`avla veritato`** is the truth (Class III, feminine article), not the masculine `avlo veritato`. The visual cue of femininity (`-a` terminal) is present only on vowel-final stems; the grammar carries gender on the article, and the noun stem inherits the morphology of its root shape.
+
+**Policy: `-ara` is the canonical terminal for new abstract-feminine coinings.** When a new Class III noun enters the language with no inherited shape, it takes the `-ara` terminal: `mnemara` (memory), `glorara` (glory), `animara` (soul). Existing `-o`-ending abstracts that predate this convention — `cogito` (thought) is the prominent case — retain their form and reclassify as Class III with the feminine article (`avla cogito`). The rationale is recognition cost: `cogito` is anchored to *cogito ergo sum* and to the canonical worked sentences in the cogitar entry; renaming it would purchase consistency at the price of legibility. The rule going forward: **new abstract-feminine coinings take `-ara`; legacy `-o` abstracts stay and take the feminine article.**
+
+**Class assignments for existing additions** *(reference table; canonical class lives in each addition file):*
+
+| Word | Class | Notes |
+|---|---|---|
+| `mnemara` | III | the faculty of memory (new — this section) |
+| `mnemon` | I | agent: one who carries memory |
+| `fidifer` | I | agent: trust-bearer |
+| `finoperalt` | I | agent: one who completes stranded work |
+| `temporpont` | II | a bridge across time (structure) |
+| `iter` | II | a path |
+| `rete` | II | a network |
+| `nod` | II | a node |
+| `faco` | II | a match (object) |
+| `alterfin` | III | the completion of another's work |
+| `deliber` | III | a weighing; deliberation |
+| `translat` | III | a transfer; translation |
+| `orar` | III | a schedule; ordered temporal structure |
+| `sciar`, `cogitar`, `videbar`, `imaginar`, `memorar` | — | verbs (no class — class is a noun feature) |
+
+**Open extension: collective and instrumental classes.** The three-class system here is the load-bearing minimum. Sidis's "more complex than a Japanese verb" description points to further refinement, and natural candidates exist:
+
+- **Collective/mass** — `nivo` (snow), `aquo` (water), `rete` (network). Currently Class II, but they share behavior (no individuated plural, partitive constructions) that may warrant a class of their own.
+- **Instrumental/tool** — `faco` (match), `gladio` (sword), `clavo` (key). Currently Class II, but instruments arguably pattern with their wielders rather than with inert objects.
+
+These are left open. Future additions may justify pulling them out of Class II; until corpus pressure demands the split, all non-animate concrete nouns remain Class II.
 
 ## Part III: Pronoun System
 

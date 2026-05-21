@@ -20,14 +20,17 @@ This repository is an attempt to finish what survived. Documented choices are fo
 | Word | Domain |
 |---|---|
 | [`alterfin`](additions/alterfin.md) | completion of another's work |
+| [`animara`](additions/animara.md) | soul; animating principle (abstract feminine) |
 | [`cogitar`](additions/cogitar.md) | epistemic — to think; working belief |
 | [`deliber`](additions/deliber.md) | weighing; deliberation |
 | [`faco`](additions/faco.md) | match (the striking kind) |
 | [`fidifer`](additions/fidifer.md) | trust-bearer |
 | [`finoperalt`](additions/finoperalt.md) | one who habitually completes stranded work |
+| [`glorara`](additions/glorara.md) | glory; standing of honor (abstract feminine) |
 | [`imaginar`](additions/imaginar.md) | epistemic — to model as known-false |
 | [`iter`](additions/iter.md) | path; journey |
 | [`memorar`](additions/memorar.md) | to recall; epistemic source channel |
+| [`mnemara`](additions/mnemara.md) | memory — the faculty (abstract feminine; anchor for Class III) |
 | [`mnemon`](additions/mnemon.md) | mnemonic; the memorable |
 | [`nod`](additions/nod.md) | node (in a network) |
 | [`orar`](additions/orar.md) | schedule; ordered temporal structure |

@@ -150,7 +150,7 @@ This story establishes the mirror as an instrument of corrupted perception — t
 
 *Kai was afraid and tried to recite the Lord's Prayer — but he could only recall the multiplication table. The snowflakes grew large — large as white chickens — and at last the driver stopped, the garments fell, and Kai saw the Snow Queen herself.*
 
-**"Frigal es," ela dicit, et lo basat ino fronte. Avlo basio frigal simil glacio ino cordo eius intrit — et cordo, jam glacial, glacialior fiit. Sed Kai non timit jam. Ela belal videbarat eloi, et omnia quod Kai sciar potit ante — Gerda, avia, rosas — evanit ex memoria eius.**
+**"Frigal es," ela dicit, et lo basat ino fronte. Avlo basio frigal simil glacio ino cordo eius intrit — et cordo, jam glacial, glacialior fiit. Sed Kai non timit jam. Ela belal videbarat eloi, et omnia quod Kai sciar potit ante — Gerda, avia, rosas — evanit ex mnemarae eius.**
 
 *"You are cold," she said, and kissed him on the forehead. The cold kiss like ice went into his heart — and the heart, already icy, became icier still. But Kai was no longer afraid. She seemed beautiful to him, and all that Kai had been able to know before — Gerda, the grandmother, the roses — vanished from his memory.*
 
@@ -164,7 +164,7 @@ Historia Duo is the dramatic center of the corrupted-perception mechanism set up
 
 **The shards — vidar inverted:** After the shards enter, Kai no longer has access to vidar. The text uses plain `vidat` for his post-shard perception: `omnal bonum et belal turpal vidat` — "everything good and beautiful he saw as ugly." He sees, but the seeing produces wrong content. The vidar/videbar/vidat hierarchy is functionally collapsed for him: he can no longer distinguish clear perception from distorted perception.
 
-**Memory and the past — sciar:** Kai's loss at the end is marked with `omnia quod Kai sciar potit ante — Gerda, avia, rosas — evanit ex memoria eius`. What he had been able to *know* (sciar — certain knowledge), the people and roses he loved — vanishes. The shard does not just corrupt present perception; it severs the memory of having had it. This is more total than the eye-shard alone: even the trace of having known is gone.
+**Memory and the past — sciar:** Kai's loss at the end is marked with `omnia quod Kai sciar potit ante — Gerda, avia, rosas — evanit ex mnemarae eius`. What he had been able to *know* (sciar — certain knowledge), the people and roses he loved — vanishes from his memory-faculty (`mnemara`, the inner store). The shard does not just corrupt present perception; it severs the memory of having had it. This is more total than the eye-shard alone: even the trace of having known is gone.
 
 **The Snow Queen at the end — videbar restored, but inverted in valence:** When Kai sees the Snow Queen at the end, the text says `belal videbarat ei` — she *seemed* beautiful to him. Videbar is back, but doing different work. He is no longer uncertain about *what* he sees but about *what it means*. The cold kiss is real and registers correctly — he reads it as beautiful. Videbar (uncertain perception) is now serving distortion rather than honest epistemic hedging. This is the harder failure mode: not blindness, but seeming-real that is wrong.
 
@@ -311,7 +311,7 @@ Historia Duo is the dramatic center of the corrupted-perception mechanism set up
 
 ---
 
-**Et dum ela capilos pectit, Gerda magis et magis avlon Kai oblivisat. Nam avla vetal femina magal potit; non malal magal, sed satis ad Gerda hic retinere. Pectit avla magal pecto, et omnia cogitio de Kai ex memoria Gerdae paulatim discessit. Et avla vetal femina exit ino horto, et tangit omnal fruticoi rosal cum baculo — et omnal rosas, omnal fruticoi rosae, ino terro descendit, et nullo signo supra solo remanit. Nam ela timuit quod si Gerda rosas videt, ela Kai et avla propria horto memorit.**
+**Et dum ela capilos pectit, Gerda magis et magis avlon Kai oblivisat. Nam avla vetal femina magal potit; non malal magal, sed satis ad Gerda hic retinere. Pectit avla magal pecto, et omnia cogitos de Kai ex mnemarae Gerdae paulatim discessit. Et avla vetal femina exit ino horto, et tangit omnal fruticoi rosal cum baculo — et omnal rosas, omnal fruticoi rosae, ino terro descendit, et nullo signo supra solo remanit. Nam ela timuit quod si Gerda rosas videt, ela Kai et avla propria horto memorit.**
 
 *And while she combed, Gerda forgot Kai more and more. For the old woman could conjure — not evil magic, but enough to keep Gerda there. The magic comb combed away every thought of Kai from Gerda's memory, gradually. And the old woman went into the garden and touched every rose bush with her stick — and all the roses, every rose bush, sank into the earth, and no sign remained above the soil. For she feared that if Gerda saw the roses, she would remember Kai and her own garden.*
 
@@ -403,7 +403,7 @@ This story is **about sciar erosion and its recovery** — the parallel to Kai's
 
 **Magal (benign magic) vs. mirror-shard corruption:** The old woman `magal potit` ("could conjure") — `magal` (a new root for benign magic, distinct from `troldo`-rooted evil). Her power affects perception and memory but is not malicious in the Historia Unal sense. The contrast matters: Kai's loss was inflicted by `malal` ; Gerda's is inflicted by `magal`. Same effect (memory severed), different moral weight, different reversibility.
 
-**The comb and forgetting — sciar fading vs. severance:** The comb does not destroy Gerda's knowledge of Kai; it makes it fade: `magis et magis avlon Kai oblivisat`. The verb `oblivisar` (to forget) marks gradual loss, not the sharp severance of Kai's `evanit ex memoria eius`. The mechanism is slower and — crucially — reversible.
+**The comb and forgetting — sciar fading vs. severance:** The comb does not destroy Gerda's knowledge of Kai; it makes it fade: `magis et magis avlon Kai oblivisat`. The verb `oblivisar` (to forget) marks gradual loss, not the sharp severance of Kai's `evanit ex mnemarae eius`. The mechanism is slower and — crucially — reversible.
 
 **Memorar restored by perception — the painted rose:** When Gerda sees the painted rose, the text reads `Tunc avla horto recordat — et tunc Kai recordat`. The verb is `recordar` (re-, "again" + `cord-`, heart-stem — to bring back into the heart). Memorar through visual trigger; the perceptual world re-engages the buried sciar.
 

@@ -132,7 +132,7 @@ The following core vocabulary is reconstructed from Latin and Greek roots consis
 | `mur` | inanimate | wall | Latin *murus* | **[A]** |
 | `pad` | inanimate | path, way | uncertain; possibly Germanic | **[A]** |
 | `labor` | inanimate | work, task | Latin *labor* | **[A]** |
-| `veritat` | inanimate | truth | Latin *veritas / veritatis* | **[A]** |
+| `veritat` | Class III (abstract fem.) | truth | Latin *veritas / veritatis* | **[A]** |
 | `ken` | inanimate | knowledge; what is known | Germanic *Kenntnis* | **[A]** |
 | `agora` | inanimate | marketplace; public gathering space | Greek *ἀγορά* | **[A]** |
 | `nom` | inanimate | name | Latin *nomen* | **[A]** |
@@ -150,6 +150,8 @@ The following core vocabulary is reconstructed from Latin and Greek roots consis
 | `rete` | inanimate | network; connected system of nodes and paths | Latin *rete* (net, mesh) | **[A]** |
 | `nod` | inanimate | node; point where paths meet | Latin *nodus* (knot, node) | **[A]** |
 | `translat` | inanimate | transfer; permission to continue a journey across a network boundary | Latin *translatus* (carried across) | **[A]** |
+
+*Note on the Animacy column. The two-value system (animate/inanimate) shown here predates the noun-class system formalized in Vol II §2.6. Under §2.6, several roots listed as "inanimate" are properly Class III (abstract feminine) — `tempor`, `ken`, `lin`, `mnem`, `translat` among them — and decline with the feminine article (`avla`) rather than the inanimate (`ivlo`). `veritat` has been updated above as the canonical case. A full reclassification pass across this table is pending and tracked in workflow notes.*
 
 **Bound compositional roots** — these roots do not stand alone as words but combine productively in compounds:
 

@@ -30,7 +30,7 @@ Derivational suffixes per Vol II §1.3.
 
 | Form | Category | Meaning |
 |---|---|---|
-| **cogito** | noun (inanimate, nominative) | a thought; a belief; a working model |
+| **cogito** | noun, Class III (abstract fem.) | a thought; a belief; a working model — takes feminine article (`avla cogito`); legacy `-o` form preserved despite the `-ara` convention for new abstract-feminine coinings (Vol II §2.6) |
 | **cogital** | adjective | thoughtful; of the character of active belief; deliberative |
 | **cogitalt** | noun (animate, habitual) | a thinker; one whose vocation is active deliberation |
 | **cogitant** | verb (intentive) | is thinking; is holding as working belief (ongoing) |
