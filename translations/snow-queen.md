@@ -757,6 +757,175 @@ This story is the **first maturity test of the unified-incantara hypothesis**, a
 
 ---
 
+## Historia Sexta — Lapponal Femina et Finnal Femina
+## Sixth Story — The Lapp Woman and the Finn Woman
+
+*Danish: Sjette Historie. Lappekonen og Finnekonen*
+
+---
+
+### I. Adventus in Lapponia
+
+**Avlo reno cum Gerda in tergo per nives infinital cucurrit. Vento frigal ex borea sufflit, et stelloi supra arboroi solal noctal lucent. Gerda in dorso reno se tenit, et caligas forratal eius non sufficiebant — pedibus frigior fiebat, et manibus etiam.**
+
+*The reindeer ran with Gerda on his back through endless snows. A cold wind blew from the north, and the stars above the trees were the only lights of the night. Gerda held herself on the reindeer's back, and her fur-lined boots were not enough — her feet grew colder, and her hands too.*
+
+---
+
+**Et tandem ad parval tabernam venerunt — tan parval ut tegumento ad terro fere tangebat. Janua non erat, solum corium suspensum. Avlo reno cap inclinat et per corium intrit, Gerda post eum.**
+
+*And at last they came to a small hut — so small that the roof nearly touched the ground. There was no door, only a hide hung up. The reindeer bowed his head and went in through the hide, Gerda after him.*
+
+---
+
+**Intra, Lapponal femina parval piscis supra lampado parval coquit. Lo vetal et nigral et benignal erat. Quan Gerdam vidit, manus suos extendit et Gerdam ad lampado duxit. "Frigal es, parval puella. Calefac-an te."**
+
+*Inside, the Lapp woman was cooking small fish over an oil lamp. She was old and dark and kind. When she saw Gerda, she stretched out her hands and led Gerda to the lamp. "You are cold, little girl. Do warm yourself."*
+
+---
+
+**Et avlo reno historiam Gerdae et Kai narravit — voce sua renal, quod Lapponal femina intellegit, nam in terro renorum diu vivit. Gerda interim ad lampado se calefit, et manus eius color rubrum recuperit.**
+
+*And the reindeer told the story of Gerda and Kai — in his reindeer-voice, which the Lapp woman understood, for she had long lived in the land of reindeer. Gerda meanwhile warmed herself at the lamp, and her hands recovered their red color.*
+
+---
+
+**"Ah," dicit Lapponal femina, quan reno finivit, "vos longal iter ante vos habet. Adhuc centum milial supra in Finnia est. Ibi Regina Glacial habitat in dioi hieme, et nocte ino caelo flammoi albal et verolal currunt. Ignat non multal sciat — sed Finnal femina plus sciat. Ad ela vos ire necesat."**
+
+*"Ah," said the Lapp woman when the reindeer had finished, "you have a long road still before you. A hundred more miles up in Finland. There the Snow Queen dwells in the winter days, and at night flames white and green run through the sky. I do not know much — but the Finn woman knows more. You must go to her."*
+
+---
+
+**Et nam pergamenum non habit — tan pauperal erat — ela piscis sicco capit, et cum stilo parval verboi paucal supra eum scribit. Hoc esit epistola ad Finnal femina. "Hoc ela legar potit," dicit Lapponal femina. "Tradat-an ei id."**
+
+*And because she had no parchment — so poor she was — she took a dried codfish, and with a small stylus wrote a few words upon it. This was a letter to the Finn woman. "She can read this," said the Lapp woman. "Do give it to her."*
+
+---
+
+**Gerda Lapponal feminam amplexit, et avlo reno piscis epistolal in dentibus capit, et iterum ino noctem nival exierunt.**
+
+*Gerda embraced the Lapp woman, and the reindeer took the codfish-letter in his teeth, and again they went out into the snowy night.*
+
+---
+
+### II. Taberna Finnal Femine
+
+**Plus profundal ad boream cucurrerunt, per nives altal et per silvas nullal — nam ibi arboroi non plus crescunt. Auroras boreales supra eos in caelo flammavit, verolal et purpural et rubal, et Gerda eos vidat et videbarat elai quod mundus magal totum esit.**
+
+*Deeper north they ran, through deep snows and through no forests — for there trees no longer grow. The northern lights flamed above them in the sky, green and purple and red, and Gerda saw them and it seemed to her that the world was wholly magic.*
+
+---
+
+**Et tandem ad alial tabernam venerunt — etiam parvior quan Lapponal femine. Cuminus non erat. Fumo per ostium exibat quan aperabat, et calor intus tan magnal erat ut Gerda statim vestimentos forratal demerre debit.**
+
+*And at last they came to another hut — even smaller than the Lapp woman's. There was no chimney. Smoke came out through the doorway when it was opened, and the heat inside was so great that Gerda had to take off her fur-lined garments at once.*
+
+---
+
+**Finnal femina parval et obscural erat — capili nigral, ocloi nigral, manus parval. In opero suo sedebat, et quan avlo reno intrit, lo aspexit sin verbo. Reno piscis epistolal ei tradit.**
+
+*The Finn woman was small and dark — dark hair, dark eyes, small hands. She sat at her work, and when the reindeer entered, she looked at him without a word. The reindeer gave her the codfish-letter.*
+
+---
+
+**Ela id legit. Tunc iterum legit. Tunc tertio legit — donec verboi omnal in mnemarae eius esit. Et tunc, parsimonial, piscis ino ollo coquente jecit, nam piscis cibo etiam erat. Nihilum perdere voluit.**
+
+*She read it. Then read it again. Then read it a third time — until the words were all in her memory. And then, frugally, she threw the codfish into the cooking pot, for the codfish was also food. She wished to lose nothing.*
+
+---
+
+**Avlo reno tunc locit pro Gerda: "Tu, qui tan sapientes es — tu, qui ventoi cum filo ligar potit — da-an Gerdae fortitudinem viroi duodecim, ut Reginam Glacial vincere potit, et Kai liberar potit!"**
+
+*The reindeer then spoke for Gerda: "You, who are so wise — you, who can bind the winds with thread — do give Gerda the strength of twelve men, that she may defeat the Snow Queen, and free Kai!"*
+
+---
+
+### III. Incantara Shamanal
+
+**Finnal femina nihilum respondit. Ela ad cameram parval interiorem it, et ibi runas suas et instrumentos shamanal aspexit. Et ino incantara shamanal intrit.**
+
+*The Finn woman answered nothing. She went to a small inner chamber, and there looked at her runes and shamanic instruments. And entered into shamanic enchantment.*
+
+---
+
+**Incant: Kai in regalio Regine Glacial est. Fragmento ino oclo eius adhuc est, et fragmento ino cordo eius adhuc est. Proca haec fragmentoi, il in frigal mundo gaudat — nives et glacio pro il jam veral et bonal sunt. Regina Glacial lo tractat simil filium proprium. Il non timit, non lacrimat, non Gerdam recordat.**
+
+*In enchantment: Kai is in the Snow Queen's palace. The shard in his eye is still there, and the shard in his heart is still there. Because of these shards, he rejoices in the cold — cold for him is now true and good. The Snow Queen treats him like her own son. He does not fear, does not weep, does not remember Gerda.*
+
+---
+
+**Incant: il ino sala glacial ludit — fragmentoi glacial ino formoi mutat, simil enigmo. Si nomen unum certal ex fragmentoi potit formar, Regina Glacial lo liberat. Sed nomen quod il quaerat, il non novit. Cordo glacial nomen non potit cogitar.**
+
+*In enchantment: he plays in an icy hall — he moves ice-fragments into shapes, like a puzzle. If he can form one certain name from the fragments, the Snow Queen will free him. But the name he is seeking, he does not know. An icy heart cannot think a name.*
+
+---
+
+**Finnal femina ex incantara exit. Et ad avlo reno locit, quietal, sin Gerda audire eam totaliter potit — sed Gerda postea avlon reno interrogit, et omnal didicit.**
+
+*The Finn woman came out of the enchantment. And spoke to the reindeer, quietly, without Gerda being able to hear her entirely — but Gerda afterward questioned the reindeer, and learned everything.*
+
+---
+
+**"Fortitudinem viroi duodecim Gerdae dar non possum," dicit Finnal femina. Et hoc non in incantara dicit — sed in lumino vigilantal, plenal, sciat. "Nam ela jam plus fortitudinem habet quan duodecim viroi simul. Vide-an ela: ela ex urbo solal venit, sin calceoi, per fluvo et per horto magal et per regalio et per silvo et per nives. Quis hoc facere potit cum solal fortitudine corporal? Nem."**
+
+*"I cannot give Gerda the strength of twelve men," said the Finn woman. And this she did not say in enchantment — but in plain waking light, full, in knowing. "For she already has more strength than twelve men together. Do see her: she has come alone from the city, without shoes, through river and through magic garden and through palace and through forest and through snows. Who could do this with bodily strength alone? No one."*
+
+---
+
+**"Fortitudo eius in cordo est. In gratia inocens. In capacitate amar. Si cum hoc Kai attingere non potit, nem ei plus dar potit. Hoc est sciar mea: vis eius jam sufficiental magnal est."**
+
+*"Her strength is in the heart. In innocent grace. In the capacity to love. If with this she cannot reach Kai, no one can give her more. This is my knowing: her power is already sufficiently great."*
+
+---
+
+### IV. Limite Horti Regine Glacial
+
+**Avlo reno tunc Gerdam de taberna Finnal femine extra duxit, et iterum ad boream cucurrit. Sed non longe — nam mox ad limite venerunt ubi nec arboro nec frutico crescit. Solum unum fruticum rubal cum bacis rubal ibi stat, ultimum vivente ante regnum frigal Regine Glacial.**
+
+*The reindeer then led Gerda out of the Finn woman's hut, and again ran to the north. But not far — for soon they came to the border where neither tree nor bush grows. Only one red bush with red berries stood there, the last living thing before the cold kingdom of the Snow Queen.*
+
+---
+
+**Avlo reno stat. Lo non potit ulterior. "Hinc terro frigal propria Regine Glacial incipit," dicit. "Renal corporo meo ibi non duraret. Tu solal ire necesat."**
+
+*The reindeer stopped. He could go no further. "From here begins the Snow Queen's own cold land," he said. "My reindeer-body would not last there. You must go alone."*
+
+---
+
+**Et lo lacrimit, et Gerdam in fronte basat, et amplexit eam cum collo suo magnal. Gerda caligas suas exuit — pedibus calidior in nivibus quan ino calceoi laceratal foret — et nives sin caligas calcit.**
+
+*And he wept, and kissed Gerda on the forehead, and embraced her with his great neck. Gerda took off her boots — her feet would be warmer in the snow than in torn boots — and trod the snow barefoot.*
+
+---
+
+**Porto-prat te hic, et dimitto-prat te hic. Ultra ire non possum.**
+
+*Performatively I bring you here, and performatively I release you here. Beyond I cannot go.*
+
+---
+
+**Gerda ad boream se vertit, et per nives sola ambulavit. Auroras boreales supra eam flammant, verolal et purpural et rubal, et caelo ipsa lumin esit. Et regalio Regine Glacial ante ela in distantia surrexit, glacial et belal et terribilal.**
+
+*Gerda turned to the north, and walked alone through the snows. The northern lights flamed above her, green and purple and red, and the sky itself was light. And the Snow Queen's palace rose before her in the distance, icy and beautiful and terrible.*
+
+---
+
+### Note on Epistemic Register — Historia Sexta
+
+This story is the **second maturity test of the unified-incantara hypothesis**, and it sharpens what was learned in Story V. Two species of `incantara` now exist in the corpus — `incantara horti` (Story III, the old woman's flower-garden) and `incantara shamanal` (here, the Finn woman's divination). The genus survives; the species are differentiated by adjective, not by new register.
+
+**Incantara shamanal vs. incantara horti — same genus, different valence.** Both are deliberate magical frames; both warrant the `incant:` register particle for frame-source content; both produce content that is *frame-true* without being directly *waking-observed*. What differs is the relationship between the frame and the waking world. The old woman's `incantara horti` was a closed environment — Gerda was held *inside* the frame, and the frame's truths (the flowers' stories, the underground rose-knowledge) were available *to her* only while she remained in it. The Finn woman's `incantara shamanal` is an open frame — she enters it, observes the distant world (Kai at the palace, fragments still embedded, the puzzle of the name), and brings the report *out* of the frame back to her listeners. The shamanic frame is a *channel* to elsewhere; the garden frame is a *bounded place*. Both are `incantara`. The adjective carries the distinction.
+
+**The Finn woman's two registers in adjacent sentences.** The structural innovation Story VI requires — and demonstrates is already available — is the *intra-character register shift*: the same speaker, in adjacent sentences, moves from `incant:` content to plain indicative wisdom and the grammar marks each clearly. Her report on Kai (`Kai in regalio... fragmento ino oclo eius adhuc est`) opens with `incant:` because it is drawn from the shamanic frame; her diagnosis of Gerda (`Fortitudinem viroi duodecim Gerdae dar non possum... fortitudo eius in cordo est`) is plain indicative because it is her waking moral perception. The contrast is the story's load-bearing move: the Finn woman's *waking wisdom* about Gerda's strength is *the more authoritative claim*, precisely because it is *not* framed as supernatural knowledge. The grammar makes the asymmetry exact. Andersen's tale relies on the reader sensing this in English; Vendergood marks it morphologically.
+
+**Why the wisdom-about-Gerda is *not* incant.** The temptation to mark the Finn woman's whole monologue as `incant:` content — she is a shamanic figure, she is the one who knows things others don't — would collapse the very distinction the grammar exists to make. Wisdom about a person who stands before you, derived from observing what they have done, is plain perception and ordinary inference. It is `sciar`. The `incantara` is reserved for content drawn from a *frame* (a deliberate magical environment); the Finn woman's pronouncement about Gerda's strength is drawn from *the world*. The grammar refuses to honor the shamanic figure with register marking she has not earned in the local utterance. This is the unified-incantara hypothesis at its strictest: register-marking tracks *the source channel of the current claim*, not *the speaker's general standing*.
+
+**Reindeer's farewell — performative limit, not enchantment.** The reindeer's `porto-prat te hic, et dimitto-prat te hic` uses the performative suffix `-prat` for the explicit handoff: the speech act *is* the act of bringing-and-releasing. This is the second use of `-prat` in the corpus (after the prince's gift-speech in Story IV), and it confirms the suffix's range: not only royal benediction, but also creaturely limit-declaration. The reindeer is performatively naming the boundary of his contract with Gerda. He weeps and embraces her in ordinary indicative; he marks his explicit *bringing* and *releasing* with `-prat`. No `incant:` — the reindeer's speech is not enchantment, even though it occurs at a magical boundary. The frame-line between waking and Snow-Queen-cold is geographic and physical; it does not transform his words into frame-content.
+
+**Epistemic stack at the end.** Gerda continues barefoot, alone, through visible northern lights, toward a visible palace. All indicative, all `vidat` and `ambulat` — no register, no hedging. The story has stripped her down to direct perception and direct action. Whatever happens next will be waking-world resolution of the corrupted-perception arc set up in Historia Unal. The grammar is quiet here because the narrative is quiet here: nothing is being framed, nothing is being conjured, nothing is being layered. The girl walks. The lights burn. The palace stands. The work the grammar did in earlier stories — marking the layers — clears the page for the unmarked confrontation to come.
+
+---
+
 | Root | Form | Meaning | First appearance |
 |------|------|---------|------------------|
 | speculo | n (inanim) | mirror | Historia Unal |
@@ -1055,3 +1224,142 @@ This story is the **first maturity test of the unified-incantara hypothesis**, a
 | regiones | n (inanim, pl) | regions | Historia Quintal |
 | vix | adv | barely | Historia Quintal |
 | lucet | v | shines | Historia Quintal |
+| infinital | adj | endless, infinite | Historia Sexta |
+| sufflit | v | blows | Historia Sexta |
+| stello | n (inanim) | star | Historia Sexta |
+| noctal | adj | of the night, nightly (from Latin *nocto-*) | Historia Sexta |
+| dorso | n (inanim) | back (body part; alt. of tergo) | Historia Sexta |
+| tenit | v | holds | Historia Sexta |
+| vento | n (inanim) | wind | Historia Sexta |
+| taberna | n (inanim) | hut, small dwelling | Historia Sexta |
+| corium | n (inanim) | hide, leather | Historia Sexta |
+| suspensum | adj | hung up, suspended | Historia Sexta |
+| cap | n (inanim) | head | Historia Sexta |
+| inclinat | v | bows, inclines | Historia Sexta |
+| intrit | v | enters | Historia Sexta |
+| Lapponal | adj | Lapp, of Lapland | Historia Sexta |
+| vetal | adj | old | Historia Sexta |
+| nigral | adj | dark, black | Historia Sexta |
+| benignal | adj | kind, benign | Historia Sexta |
+| extendit | v | stretches out | Historia Sexta |
+| duxit | v | led (past of ducere) | Historia Sexta |
+| calefac-an | v (imp. abs.) | do warm | Historia Sexta |
+| calefit | v | warms (intr.), warms oneself | Historia Sexta |
+| narravit | v | told (past of narrare) | Historia Sexta |
+| renal | adj | of reindeer, reindeer- | Historia Sexta |
+| intellegit | v | understands | Historia Sexta |
+| interim | adv | meanwhile | Historia Sexta |
+| recuperit | v | recovers | Historia Sexta |
+| longal | adj | long | Historia Sexta |
+| adhuc | adv | still, yet | Historia Sexta |
+| multal | adj | much, many | Historia Sexta |
+| necesat | v | is necessary, must | Historia Sexta |
+| habitat | v | dwells, lives in | Historia Sexta |
+| dio | n (inanim) | day | Historia Sexta |
+| flammo | n (inanim) | flame | Historia Sexta |
+| flammat | v | blazes, flames | Historia Sexta |
+| Nem | pronoun | no one | Historia Sexta |
+| pergamenum | n (inanim) | parchment | Historia Sexta |
+| pauperal | adj | poor | Historia Sexta |
+| sicco | adj | dried | Historia Sexta |
+| stilo | n (inanim) | stylus | Historia Sexta |
+| verbo | n (inanim) | word | Historia Sexta |
+| paucal | adj | few | Historia Sexta |
+| scribit | v | writes | Historia Sexta |
+| epistola | n (inanim) | letter | Historia Sexta |
+| legar | v | to read | Historia Sexta |
+| tradat-an | v (imp. abs.) | do hand over, do deliver | Historia Sexta |
+| tradit | v | hands over | Historia Sexta |
+| epistolal | adj | of the letter, letter- | Historia Sexta |
+| dente | n (inanim) | tooth | Historia Sexta |
+| profundal | adj | deep | Historia Sexta |
+| nullal | adj | none, no | Historia Sexta |
+| crescit | v | grows | Historia Sexta |
+| purpural | adj | purple | Historia Sexta |
+| mundus | n (inanim) | world | Historia Sexta |
+| totum | adj | whole, total | Historia Sexta |
+| historiam | n (inanim) | story (acc. of historia) | Historia Sexta |
+| urbo | n (inanim) | city | Historia Sexta |
+| silvo | n (inanim) | forest | Historia Sexta |
+| parvior | adj | smaller (comparative of parval) | Historia Sexta |
+| cuminus | n (inanim) | chimney | Historia Sexta |
+| calor | n (inanim) | heat | Historia Sexta |
+| aperit | v | opens | Historia Sexta |
+| demerre | v | to take off, to remove | Historia Sexta |
+| debit | v | had to, was obligated | Historia Sexta |
+| capili | n (inanim, pl) | hair | Historia Sexta |
+| manus | n (inanim) | hand | Historia Sexta |
+| opero | n (inanim) | work, labor | Historia Sexta |
+| sedebat | v | was sitting | Historia Sexta |
+| aspexit | v | looked at (past) | Historia Sexta |
+| tertio | adv | a third time | Historia Sexta |
+| donec | conj | until | Historia Sexta |
+| parsimonial | adv | frugally | Historia Sexta |
+| ollo | n (inanim) | pot | Historia Sexta |
+| jecit | v | threw (past of iacere) | Historia Sexta |
+| perdere | v | to lose | Historia Sexta |
+| locit | v | spoke | Historia Sexta |
+| filo | n (inanim) | thread | Historia Sexta |
+| ligar | v | to bind | Historia Sexta |
+| da-an | v (imp. abs.) | do give | Historia Sexta |
+| fortitudine | n (Class III) | strength | Historia Sexta |
+| vir | n (anim masc) | man | Historia Sexta |
+| duodecim | num | twelve | Historia Sexta |
+| vincere | v | to defeat, to conquer | Historia Sexta |
+| liberar | v | to free | Historia Sexta |
+| respondit | v | answered (past) | Historia Sexta |
+| interiorem | adj | inner, interior | Historia Sexta |
+| runa | n (inanim) | rune | Historia Sexta |
+| instrumento | n (inanim) | instrument | Historia Sexta |
+| shamanal | adj | shamanic | Historia Sexta |
+| proca | prep | because of | Historia Sexta |
+| gaudat | v | rejoices | Historia Sexta |
+| veral | adj | true | Historia Sexta |
+| bonal | adj | good | Historia Sexta |
+| tractat | v | treats | Historia Sexta |
+| simil | prep | like, as | Historia Sexta |
+| filium | n (anim masc) | son | Historia Sexta |
+| proprium | adj | own | Historia Sexta |
+| formo | n (inanim) | shape, form | Historia Sexta |
+| enigmo | n (inanim) | puzzle, riddle (from Latin *aenigma*); used for Kai's ice-shard arrangement task at the Snow Queen's palace | Historia Sexta |
+| nomen | n (inanim) | name | Historia Sexta |
+| unum | num | one | Historia Sexta |
+| formar | v | to form | Historia Sexta |
+| quaerat | v | seeks | Historia Sexta |
+| novit | v | knows (perfect of nosse) | Historia Sexta |
+| totaliter | adv | entirely, totally | Historia Sexta |
+| interrogit | v | questions, interrogates | Historia Sexta |
+| didicit | v | learned (past of discere) | Historia Sexta |
+| simul | adv | together, at once | Historia Sexta |
+| vide-an | v (imp. abs.) | do see, do look | Historia Sexta |
+| corporal | adj | bodily | Historia Sexta |
+| gratia | n (Class III) | grace | Historia Sexta |
+| inocens | adj | innocent | Historia Sexta |
+| capacitate | n (Class III) | capacity | Historia Sexta |
+| amar | v | to love | Historia Sexta |
+| attingere | v | to reach, to attain | Historia Sexta |
+| vis | n (Class III) | power, force | Historia Sexta |
+| sufficiental | adj | sufficient (invariant; used adverbially) | Historia Sexta |
+| mox | adv | soon | Historia Sexta |
+| limite | n (inanim) | border, limit | Historia Sexta |
+| baco | n (inanim) | berry | Historia Sexta |
+| stat | v | stands | Historia Sexta |
+| ultimum | adj | last | Historia Sexta |
+| vivente | adj/n | living, living thing | Historia Sexta |
+| ulterior | adj | further | Historia Sexta |
+| hinc | adv | from here | Historia Sexta |
+| incipit | v | begins | Historia Sexta |
+| corporo | n (inanim) | body | Historia Sexta |
+| duraret | v (subjunctive) | would last (root `dur-` + subj.) | Historia Sexta |
+| exuit | v | took off (clothing) | Historia Sexta |
+| calidior | adj | warmer (comparative) | Historia Sexta |
+| laceratal | adj | torn | Historia Sexta |
+| porto-prat | v (performative) | performatively bring, performatively carry | Historia Sexta |
+| dimitto-prat | v (performative) | performatively release | Historia Sexta |
+| ultra | prep | beyond | Historia Sexta |
+| vertit | v | turns | Historia Sexta |
+| ambulavit | v | walked (past of ambulare) | Historia Sexta |
+| lumin | n (inanim) | light | Historia Sexta |
+| surrexit | v | rose (past of surgere) | Historia Sexta |
+| distantia | n (Class III) | distance | Historia Sexta |
+| terribilal | adj | terrible | Historia Sexta |
