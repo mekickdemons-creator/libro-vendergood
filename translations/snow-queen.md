@@ -685,7 +685,7 @@ This story exercises four grammar features for the first time in published trans
 
 ---
 
-**Et avla parval latrona Gerdam ad caveam duxit, et avlas columbas Gerdam aspexerunt, et una columba dicit: "Vidat-evi Kai. Volat-evi cum Regina Glacial in trahae eius, supra silvam, ad terro borealal."**
+**Et avla parval latrona Gerdam ad caveam duxit, et avlas columbas Gerdam aspexerunt, et una columba dicit: "Vidit Kai. Volit cum Regina Glacial in trahae eius, supra silvam, ad terro borealal."**
 
 *And the little robber girl led Gerda to the cage, and the doves looked at her, and one dove said: "I saw Kai. He flew with the Snow Queen in her sleigh, over the forest, to the northern land."*
 
@@ -699,7 +699,7 @@ This story exercises four grammar features for the first time in published trans
 
 ### IV. Avlo Reno et Lapponia
 
-**Gerda lacrimat ut audit, et avlo reno captivus oculos aperuit. "Lapponia me natalis est," dicit, voce profundal et tristal. "Ibi nivos non finiuntur, et auroras boreales caelo pingunt. Liberat-ot ego, te portar-ot illuc velocissimal."**
+**Gerda lacrimat ut audit, et avlo reno captivus oculos aperuit. "Lapponia me natalis est," dicit, voce profundal et tristal. "Ibi nivos non finiuntur, et auroras boreales caelo pingunt. Liberot ego, te portot illuc velocissimal."**
 
 *Gerda wept as she heard, and the captive reindeer opened his eyes. "Lapland is my birthplace," he said, in a deep and sorrowful voice. "There the snows do not end, and the northern auroras paint the sky. If I were freed, I would carry you there most swiftly."*
 
@@ -725,7 +725,7 @@ This story exercises four grammar features for the first time in published trans
 
 ---
 
-**"Vade-an cum reno ad boream. Et Kai vivit-it, eum invenies-ant. Et eum invenies-it, mecum non plus videbas — sed bene esit. Mea vita aliam viam habet."**
+**"Vade-an cum reno ad boream. Et Kai vivit, eum invenant. Et eum invenit, mecum non plus videbas — sed bene esit. Mea vita aliam viam habet."**
 
 *"Do go with the reindeer to the north. And if Kai lives, you will find him. And if you find him, you will see me no more — but it is well. My life takes another way."*
 
@@ -745,13 +745,13 @@ This story is the **first maturity test of the unified-incantara hypothesis**, a
 
 **Animal speech — not enchantment, just genre baseline.** The doves and the reindeer speak. In Historia Tres, animal-like speech (talking flowers) was marked as `incantara` because the old woman *conjured* the talking-flower frame deliberately. Here, no enchanter, no spell, no deliberately-altered frame. The doves were captured wild from the forest and they speak; the reindeer is captive and he speaks. This is fairy-tale baseline physics. Vendergood's `incantara` register applies where there is a *deliberate magical frame*; the genre-baseline talking animals don't need register marking. This is the unified-incantara hypothesis surviving its first real test — the register is narrow enough to track *what's actually magical* rather than *anything that departs from waking-physics*. The robber lair is dangerous, but it is not enchanted.
 
-**The doves' testimony — evidential chain at work.** `Vidat-evi Kai. Volat-evi cum Regina Glacial in trahae eius` — the doves report direct observation, marked with the indicative-plus-evidential compound `-at-evi`. From Gerda's perspective, the report itself is `audidev` (external evidential). Two evidential layers stack cleanly: source-speaker's direct observation, listener's received report. The grammar supports this without dedicated syntax; the `-ev` suffix carries the chain. Gerda's downstream reasoning about where Kai is depends on report-grade evidence — Lapland, Finland, beyond — and the grammar marks the dependency at every step. This is one of the design properties Vendergood was built for, finally exercised at length.
+**The doves' testimony — evidential chain at the discourse level.** `Vidit Kai. Volit cum Regina Glacial in trahae eius` — the doves report past observation in plain indicative from their own perspective. They saw Kai; they say so; the verb-level mood is indicative. The evidential chain operates at the *discourse* level, not the morphological one: from Gerda's perspective, the entire quoted speech of the doves is `audidev` (external evidential) — she didn't see Kai, she heard report that he was seen. Two layers stack cleanly without per-verb stacking inside the reported speech: source-speaker's direct observation in their own indicative, listener's received report carried by the framing of the whole quotation. The original draft used the malformed compound `vidat-evi`, attempting to layer indicative + evidential at the verb; the verification pass corrected to plain indicative inside the quote and let the quotation-frame carry the report-grade evidential force. Gerda's downstream reasoning about where Kai is depends on report-grade evidence — Lapland, Finland, beyond — and the grammar marks the dependency at the boundary of the quote, not inside it.
 
 **Bound knowledge — handled lexically, not morphologically.** The doves know but cannot act: `sumus catenatae`. The reindeer knows but cannot move: `captivus`. The structural state of *knower without enaction* is poignant but not grammatically novel — `sciat sed non aktat potil` (knows but cannot act) covers it. No new mood, no new particle. The poignancy lives in the prose; the language is built to *carry* poignancy, not to *replicate* it morphologically. This was the most tempting place to coin a new register, and resisting that temptation is the right call. Marking bound knowledge structurally would have made the prose more grammatical and less moving.
 
-**Counterfactual chain — first strict use in published translation.** The reindeer's `Liberat-ot ego, te portar-ot illuc velocissimal` is the first sustained use of the strict double-`-ot` counterfactual conditional in a published story. Both clauses carry the counterfactual suffix: the antecedent (`liberat-ot ego` — were I freed) and the consequent (`te portar-ot` — I would carry you). Andersen's text is one of the cleanest counterfactual conditionals in the *Snow Queen* — the reindeer reasoning from a known-false premise (he is not free) to its consequence (carrying Gerda north). Story IV's deontic methodology Strategy A used `-ot` only on the consequence, leaving the antecedent indicative; Story V exercises the strict chain on both, demonstrating the cleaner form for cases where the premise is explicitly hypothesized rather than implicitly carried.
+**Counterfactual chain — first strict use in published translation.** The reindeer's `Liberot ego, te portot illuc velocissimal` is the first sustained use of the strict double-`-ot` counterfactual conditional in a published story. Both clauses carry the counterfactual suffix attached directly to the root (no indicative `-at` intermediate): the antecedent (`liberot ego` — were I freed) and the consequent (`te portot` — I would carry you). Andersen's text is one of the cleanest counterfactual conditionals in the *Snow Queen* — the reindeer reasoning from a known-false premise (he is not free) to its consequence (carrying Gerda north). Story IV's deontic methodology Strategy A used `-ot` only on the consequence, leaving the antecedent indicative; Story V exercises the strict chain on both, demonstrating the cleaner form for cases where the premise is explicitly hypothesized rather than implicitly carried. The original draft stacked indicative + counterfactual (`liberat-ot`, `portar-ot`); the verification pass corrected to root + `-ot` per §1.1 (counterfactual replaces, not stacks).
 
-**The robber girl's farewell — uncertainty + intentive.** `Kai vivit-it, eum invenies-ant` — *if Kai lives, you will find him*. Subjunctive `-it` on the antecedent (uncertainty about Kai's state, not known-falsehood); intentive `-ant` on the consequent (committed pursuit, not mere prediction). This is a different conditional structure from the reindeer's counterfactual: hope-grade rather than known-false. Marks the difference between *reasoning from what isn't* and *committing despite what isn't yet known*. The robber girl gives Gerda no false certainty; she gives her a structurally-marked pledge to pursue regardless.
+**The robber girl's farewell — uncertainty + intentive.** `Kai vivit, eum invenant` — *if Kai lives, you will find him*. Subjunctive `vivit` (`viv-` root + `-it` subjunctive) on the antecedent — uncertainty about Kai's state, not known-falsehood; intentive `invenant` (`inven-` root + `-ant` intentive) on the consequent — committed pursuit, not mere prediction. This is a different conditional structure from the reindeer's counterfactual: hope-grade rather than known-false. Marks the difference between *reasoning from what isn't* and *committing despite what isn't yet known*. The robber girl gives Gerda no false certainty; she gives her a structurally-marked pledge to pursue regardless. The original draft hyphenated the mood suffixes redundantly (`vivit-it`, `invenies-ant`) — the verification pass corrected to single suffix per verb, since each suffix already carries the mood without doubling.
 
 **The maturity signal.** At twenty-two additions, eleven active moods, four source channels, and five abstract-feminine `-ara` nouns, with the source-channel system extended through `incantev`, Vendergood reaches the point where a new fairy-tale chapter doesn't surface a new structural gap. The language is now mature enough to *do work* without requiring extension. That's the project's first real maturity signal — the corpus producing translation rather than producing rule-revisions.
 
@@ -1030,8 +1030,8 @@ This story is the **first maturity test of the unified-incantara hypothesis**, a
 | cornum | n (inanim) | horn | Historia Quintal |
 | catenatal | adj | chained | Historia Quintal |
 | silvestral | adj | wild, of the forest (variant of silvestro) | Historia Quintal |
-| vidat-evi | v (compound) | saw-and-reports (indicative + evidential layered) | Historia Quintal |
-| volat-evi | v (compound) | flew-and-reports | Historia Quintal |
+| vidit | v (past indicative) | saw (used in doves' speech — indicative from speaker's POV; the report-frame around the whole quote carries the audidev for the listener) | Historia Quintal |
+| volit | v (past indicative) | flew | Historia Quintal |
 | Regina Glacial | n phrase | the Snow Queen (lit. "Icy Queen") | Historia Quintal |
 | trahae | n (inanim) | sleigh | Historia Quintal |
 | borealal | adj | northern | Historia Quintal |
@@ -1044,12 +1044,12 @@ This story is the **first maturity test of the unified-incantara hypothesis**, a
 | auroras boreales | n phrase | northern lights, aurora borealis | Historia Quintal |
 | pingar | v | paints | Historia Quintal |
 | velocissimal | adj | most swiftly (superlative of veloc-) | Historia Quintal |
-| liberat-ot | v (counterfactual) | were freed (counterfactual antecedent) | Historia Quintal |
-| portar-ot | v (counterfactual) | would carry (counterfactual consequent) | Historia Quintal |
+| liberot | v (counterfactual) | were freed (counterfactual antecedent; root `liber-` + `-ot`) | Historia Quintal |
+| portot | v (counterfactual) | would carry (counterfactual consequent; root `port-` + `-ot`) | Historia Quintal |
 | secar | v | cuts | Historia Quintal |
 | calceo | n (inanim) | shoe, boot | Historia Quintal |
-| vivit-it | v (subjunctive) | if he lives | Historia Quintal |
-| invenies-ant | v (intentive) | you will find (committed pursuit) | Historia Quintal |
+| vivit | v (subjunctive) | if he lives (root `viv-` + `-it` subjunctive) | Historia Quintal |
+| invenant | v (intentive) | you will find (committed pursuit; root `inven-` + `-ant`) | Historia Quintal |
 | amplexar | v | embraces | Historia Quintal |
 | nives | n (inanim, pl) | snows | Historia Quintal |
 | regiones | n (inanim, pl) | regions | Historia Quintal |
