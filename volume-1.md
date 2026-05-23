@@ -48,7 +48,7 @@ Vendergood distinguished eight verb moods. Six are standard in classical and con
 
 *Some sources render Sidis's mood as 'forceable' rather than 'strongeable.' Both terms appear in the record. We adopt 'strongeable' as closest to the original. The concept is consistent: action that is not freely chosen, performed under external compulsion.*
 
-*The reconstruction extends Sidis's eight moods to twelve, documented in Volume II. The four extensions fill genuine epistemic gaps and bring the mood count into alignment with the base-12 numeral system Sidis himself chose.*
+*The reconstruction retains seven of Sidis's eight moods and extends them with four additions, producing eleven active moods documented in Volume II. The eighth mood — the strongeable (`-ust`) — is archived rather than carried into active grammar; see Vol II §1.1 archival note for the rationale. Sidis's attestation is preserved here and in the `akt` root entry below.*
 
 **Gender and Article System**
 
@@ -174,7 +174,7 @@ The following core vocabulary is reconstructed from Latin and Greek roots consis
 | `vol` | will, want; have the will to | **volkvit** — desires | Latin *volo* | **[A]** |
 | `trad` | trade, exchange | **tradalt** — habitually trades | Latin *tradere* | **[A]** |
 | `konstruk` | build, construct | **konstrukant** — will build | Latin *construere* | **[A]** |
-| `akt` | act, do | **aktatust** — acts under compulsion | Latin *actus* | **[A]** |
+| `akt` | act, do | **aktatust** — acts under compulsion *(attested form; the strongeable mood is archived in active grammar, see Vol II §1.1)* | Latin *actus* | **[A]** |
 | `fug` | flee | **fugat** — has fled | Latin *fugere* | **[A]** |
 | `gard` | guard, defend | **gardar** — to guard | Germanic *guard* | **[A]** |
 | `nom` | name (as verb) | **nomeprat** — hereby names | Latin *nominare* | **[A]** |
