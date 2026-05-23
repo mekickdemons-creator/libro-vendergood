@@ -616,6 +616,147 @@ This story exercises four grammar features for the first time in published trans
 
 ---
 
+## Historia Quintal — Avla Parval Latrona
+## Fifth Story — The Little Robber Girl
+
+### I. Insidiae in Silvo
+
+**Currus aurali per silvo magnal et obscural transit. Equitatores Gerdam custodiebant, sed silvo profundal multal periculas celabat. Et subito, latrones de inter arboroi insilierunt — viros et feminas et puerali, omnes nigral et asperal, cum cultroi et baculoi.**
+
+*The golden carriage traveled through a great dark forest. The riders guarded Gerda, but the deep forest concealed many dangers. And suddenly, robbers leapt from between the trees — men and women and children, all dark and rough, with knives and clubs.*
+
+---
+
+**Equitatores defendere conati sunt, sed multi erant latrones. Currum capuerunt, equitatores fugaverunt vel ceciderunt, et Gerdam ex curru extraxerunt.**
+
+*The riders tried to defend, but the robbers were many. They took the carriage, drove off or killed the riders, and pulled Gerda from the carriage.*
+
+---
+
+**Avla vetal latrona — femina magnal cum barba aliquantum et oculi nigral — Gerdam aspexit. "Pinguis et tenerina!" ela exclamavit. "Edenda erit! Carnem optimal!" Et cultrum suum extraxit.**
+
+*The old robber woman — a large woman with somewhat of a beard and dark eyes — looked at Gerda. "Plump and tender!" she exclaimed. "She must be eaten! The best meat!" And she drew her knife.*
+
+---
+
+**Sed avla parval latrona — filia ejus, puella feral et asperal cum capilis nigris, statura Gerdae sed fortior — saliit ad matrem et matrem in aurem mordit.**
+
+*But the little robber girl — her daughter, a wild rough girl with dark hair, of Gerda's height but stronger — leapt at her mother and bit her on the ear.*
+
+---
+
+**"Nean! Non eda-an! Mea esit! Mecum dormiet et caligas suas mihi dabit!" Et avla vetal latrona, ridens et tussiens (nam mos eius esit ut filia sua ila mordent), Gerdam dimisit.**
+
+*"No! Do not eat her! She is mine! She shall sleep with me and give me her boots!" And the old robber woman, laughing and coughing (for it was her custom that her daughter bite her thus), let Gerda go.*
+
+---
+
+### II. Spelunca Latronum
+
+**Latrones Gerdam ad speluncam suam duxerunt — magnal cavernam in monte, plenam fumo et lampadis incertis. Ibi multi alii latrones cibum coquebant et vinum bibebant et ridebant cum cantibus turpalis.**
+
+*The robbers took Gerda to their lair — a great cavern in the mountain, full of smoke and uncertain lamps. There many other robbers cooked food and drank wine and laughed with rough songs.*
+
+---
+
+**Avla parval latrona Gerdam in angulo suo posuit. "Hic dormies. Nemo te tangit dum dormio juxta te. Et si quis tentat, ego illum mordo aut pulso." Et cultrum suum monstravit, longal et acutal, et Gerda timuit.**
+
+*The little robber girl placed Gerda in her own corner. "Here you will sleep. No one will touch you while I sleep beside you. And if anyone tries, I will bite him or strike him." And she showed her knife, long and sharp, and Gerda was afraid.*
+
+---
+
+**Sed avla parval latrona ridit. "Non te ego occido, parval inopal — interesalal es. Numquam vidit puellam aurali ut tu. Habebis mecum mansionem, et videbimus quid facere de te."**
+
+*But the little robber girl laughed. "I will not kill you, little fool — you are interesting. I have never seen a golden girl like you. You will stay with me, and we shall see what to do with you."*
+
+---
+
+### III. Avlas Columbas Locut
+
+**In angulo speluncae, avlas columbas in cavea aerial vivebant, alas plicatas, oculos vigilantes. Et reno magnal, captivus, ad palum vinctum cum catena ad cornum eius, prope dormiebat.**
+
+*In a corner of the cavern, doves lived in a cage high above, wings folded, eyes watching. And a great reindeer, captive, was tethered to a post by a chain to his horn, sleeping nearby.*
+
+---
+
+**"Avlas columbas meas sunt — silvestral, captuoi de silvo. Sciunt locar simil hominis, sed solum nocte. Asculta-an."**
+
+*"The doves are mine — wild, captured from the forest. They know how to speak like a human, but only at night. Do listen."*
+
+---
+
+**Et avla parval latrona Gerdam ad caveam duxit, et avlas columbas Gerdam aspexerunt, et una columba dicit: "Vidat-evi Kai. Volat-evi cum Regina Glacial in trahae eius, supra silvam, ad terro borealal."**
+
+*And the little robber girl led Gerda to the cage, and the doves looked at her, and one dove said: "I saw Kai. He flew with the Snow Queen in her sleigh, over the forest, to the northern land."*
+
+---
+
+**"Et Regina Glacial," continuat avla altera columba, "trahae suae direxit ad Lapponia, ubi nivos sunt sempal, et postea ad Finnia, ubi vetal feminae magicae habitant. Et postea — nos non plus videt. Sumus catenatae."**
+
+*"And the Snow Queen," continued another dove, "directed her sleigh toward Lapland, where snows lie always, and then to Finland, where old magical women dwell. And then — we no longer see. We are chained."*
+
+---
+
+### IV. Avlo Reno et Lapponia
+
+**Gerda lacrimat ut audit, et avlo reno captivus oculos aperuit. "Lapponia me natalis est," dicit, voce profundal et tristal. "Ibi nivos non finiuntur, et auroras boreales caelo pingunt. Liberat-ot ego, te portar-ot illuc velocissimal."**
+
+*Gerda wept as she heard, and the captive reindeer opened his eyes. "Lapland is my birthplace," he said, in a deep and sorrowful voice. "There the snows do not end, and the northern auroras paint the sky. If I were freed, I would carry you there most swiftly."*
+
+---
+
+**Avla parval latrona ad eos venit. "Quid dicit avlo reno?" rogavit Gerdam. Et Gerda omnia narravit — de Kai, de Regina Glacial, de Lapponia.**
+
+*The little robber girl came to them. "What is the reindeer saying?" she asked Gerda. And Gerda told everything — of Kai, of the Snow Queen, of Lapland.*
+
+---
+
+### V. Liberatio
+
+**Avla parval latrona diu cogitat. Et matutino, ela cum cultro suo ad catena reno venit, et catenam secuit. "Liberal es," ela dicit. "Et Gerdam ad Lapponia portas-an."**
+
+*The little robber girl thought for a long time. And in the morning, she came to the reindeer's chain with her knife, and cut the chain. "You are free," she said. "And do carry Gerda to Lapland."*
+
+---
+
+**Et avlas columbas etiam liberavit, sed avlas columbas in silvo volaverunt et non rediverunt. Et Gerdae dedit calceos forrati, et vestimentum, et cibum.**
+
+*And she also freed the doves, but the doves flew into the forest and did not return. And she gave Gerda fur-lined boots, and a garment, and food.*
+
+---
+
+**"Vade-an cum reno ad boream. Et Kai vivit-it, eum invenies-ant. Et eum invenies-it, mecum non plus videbas — sed bene esit. Mea vita aliam viam habet."**
+
+*"Do go with the reindeer to the north. And if Kai lives, you will find him. And if you find him, you will see me no more — but it is well. My life takes another way."*
+
+---
+
+**Et Gerda avlam parval latronam amplexit, et lacrimavit, et supra reno ascendit. Et reno cum Gerda in tergo ad boream cucurrit, per silvas et per nives, ad regiones ubi sol vix lucet.**
+
+*And Gerda embraced the little robber girl, and wept, and climbed onto the reindeer. And the reindeer ran with Gerda on his back to the north, through forests and through snows, to regions where the sun barely shines.*
+
+---
+
+### Note on Epistemic Register — Historia Quintal
+
+This story is the **first maturity test of the unified-incantara hypothesis**, and the hypothesis holds. No new register is coined; no new grammatical machinery is needed. Story V translates cleanly using only what's already in the language — twenty-two additions, eleven active moods, four source channels, the `-ara` abstract-feminine cluster. That's the result, and it's load-bearing for the design.
+
+**Feral knowing — sciar without deliberation, not a new register.** The robber girl's instant read of Gerda — `interesalal es, numquam vidit puellam aurali ut tu` — looked at first like potential new register territory: a kind of knowing that operates without the deliberative scaffolding the courtly princess in Story IV used. But it isn't a register; it's `sciar` (certain knowledge) applied reflexively rather than after weighing. The grammar handles it with plain indicative; the *reflexive vs. deliberative* distinction lives in the surrounding context (who the speaker is, what positional authority she holds), not in the morphology. Vendergood resists adding a register here because the distinction isn't buried in natural language either — *intuition* vs. *reflection* is marked routinely in English by adverbs and surrounding context. Coining a new register would have been morphological hoarding.
+
+**Animal speech — not enchantment, just genre baseline.** The doves and the reindeer speak. In Historia Tres, animal-like speech (talking flowers) was marked as `incantara` because the old woman *conjured* the talking-flower frame deliberately. Here, no enchanter, no spell, no deliberately-altered frame. The doves were captured wild from the forest and they speak; the reindeer is captive and he speaks. This is fairy-tale baseline physics. Vendergood's `incantara` register applies where there is a *deliberate magical frame*; the genre-baseline talking animals don't need register marking. This is the unified-incantara hypothesis surviving its first real test — the register is narrow enough to track *what's actually magical* rather than *anything that departs from waking-physics*. The robber lair is dangerous, but it is not enchanted.
+
+**The doves' testimony — evidential chain at work.** `Vidat-evi Kai. Volat-evi cum Regina Glacial in trahae eius` — the doves report direct observation, marked with the indicative-plus-evidential compound `-at-evi`. From Gerda's perspective, the report itself is `audidev` (external evidential). Two evidential layers stack cleanly: source-speaker's direct observation, listener's received report. The grammar supports this without dedicated syntax; the `-ev` suffix carries the chain. Gerda's downstream reasoning about where Kai is depends on report-grade evidence — Lapland, Finland, beyond — and the grammar marks the dependency at every step. This is one of the design properties Vendergood was built for, finally exercised at length.
+
+**Bound knowledge — handled lexically, not morphologically.** The doves know but cannot act: `sumus catenatae`. The reindeer knows but cannot move: `captivus`. The structural state of *knower without enaction* is poignant but not grammatically novel — `sciat sed non aktat potil` (knows but cannot act) covers it. No new mood, no new particle. The poignancy lives in the prose; the language is built to *carry* poignancy, not to *replicate* it morphologically. This was the most tempting place to coin a new register, and resisting that temptation is the right call. Marking bound knowledge structurally would have made the prose more grammatical and less moving.
+
+**Counterfactual chain — first strict use in published translation.** The reindeer's `Liberat-ot ego, te portar-ot illuc velocissimal` is the first sustained use of the strict double-`-ot` counterfactual conditional in a published story. Both clauses carry the counterfactual suffix: the antecedent (`liberat-ot ego` — were I freed) and the consequent (`te portar-ot` — I would carry you). Andersen's text is one of the cleanest counterfactual conditionals in the *Snow Queen* — the reindeer reasoning from a known-false premise (he is not free) to its consequence (carrying Gerda north). Story IV's deontic methodology Strategy A used `-ot` only on the consequence, leaving the antecedent indicative; Story V exercises the strict chain on both, demonstrating the cleaner form for cases where the premise is explicitly hypothesized rather than implicitly carried.
+
+**The robber girl's farewell — uncertainty + intentive.** `Kai vivit-it, eum invenies-ant` — *if Kai lives, you will find him*. Subjunctive `-it` on the antecedent (uncertainty about Kai's state, not known-falsehood); intentive `-ant` on the consequent (committed pursuit, not mere prediction). This is a different conditional structure from the reindeer's counterfactual: hope-grade rather than known-false. Marks the difference between *reasoning from what isn't* and *committing despite what isn't yet known*. The robber girl gives Gerda no false certainty; she gives her a structurally-marked pledge to pursue regardless.
+
+**The maturity signal.** At twenty-two additions, eleven active moods, four source channels, and five abstract-feminine `-ara` nouns, with the source-channel system extended through `incantev`, Vendergood reaches the point where a new fairy-tale chapter doesn't surface a new structural gap. The language is now mature enough to *do work* without requiring extension. That's the project's first real maturity signal — the corpus producing translation rather than producing rule-revisions.
+
+---
+
 | Root | Form | Meaning | First appearance |
 |------|------|---------|------------------|
 | speculo | n (inanim) | mirror | Historia Unal |
@@ -852,3 +993,65 @@ This story exercises four grammar features for the first time in published trans
 | audi-an | v (imp. abs.) | do listen | Historia Quartal |
 | fiat-an | v (imp. abs.) | may it become (optative-blessing) | Historia Quartal |
 | potil | modal aux | be in a position to (modal of `pot-`); `sciar potil` = "I can know" | Historia Quartal |
+| latro | n (anim masc) | robber | Historia Quintal |
+| latrona | n (anim fem) | robber woman | Historia Quintal |
+| parval latrona | n phrase | little robber girl | Historia Quintal |
+| insidiae | n (inanim, pl) | ambush | Historia Quintal |
+| obscural | adj | dark, obscure | Historia Quintal |
+| periculas | n (inanim, pl) | dangers | Historia Quintal |
+| asperal | adj | rough | Historia Quintal |
+| cultro / cultrum | n (inanim) | knife | Historia Quintal |
+| mordit | v | bites | Historia Quintal |
+| feral | adj | wild, feral | Historia Quintal |
+| spelunca | n (inanim) | lair, den | Historia Quintal |
+| caverno | n (inanim) | cavern | Historia Quintal |
+| monte | n (inanim) | mountain | Historia Quintal |
+| fumo | n (inanim) | smoke | Historia Quintal |
+| lampado | n (inanim) | lamp | Historia Quintal |
+| coquar | v | cooks | Historia Quintal |
+| vino | n (inanim) | wine | Historia Quintal |
+| bibar | v | drinks | Historia Quintal |
+| cantibo | n (inanim) | song | Historia Quintal |
+| turpalal | adj | rough, ugly (variant of turp-) | Historia Quintal |
+| acutal | adj | sharp | Historia Quintal |
+| interesalal | adj | interesting | Historia Quintal |
+| inopal | adj | foolish, simple | Historia Quintal |
+| mansionem | n (inanim) | dwelling, stay | Historia Quintal |
+| columba | n (anim fem) | dove | Historia Quintal |
+| cavea | n (inanim) | cage | Historia Quintal |
+| aerial | adj | airy, high-up | Historia Quintal |
+| ala | n (inanim) | wing | Historia Quintal |
+| plicatal | adj | folded | Historia Quintal |
+| reno | n (anim masc) | reindeer | Historia Quintal |
+| captivo | adj/n | captive | Historia Quintal |
+| palo | n (inanim) | post | Historia Quintal |
+| vinctal | adj | tied, tethered | Historia Quintal |
+| catena | n (inanim) | chain | Historia Quintal |
+| cornum | n (inanim) | horn | Historia Quintal |
+| catenatal | adj | chained | Historia Quintal |
+| silvestral | adj | wild, of the forest (variant of silvestro) | Historia Quintal |
+| vidat-evi | v (compound) | saw-and-reports (indicative + evidential layered) | Historia Quintal |
+| volat-evi | v (compound) | flew-and-reports | Historia Quintal |
+| Regina Glacial | n phrase | the Snow Queen (lit. "Icy Queen") | Historia Quintal |
+| trahae | n (inanim) | sleigh | Historia Quintal |
+| borealal | adj | northern | Historia Quintal |
+| boream | n (inanim) | the north | Historia Quintal |
+| Lapponia | n (proper) | Lapland | Historia Quintal |
+| Finnia | n (proper) | Finland | Historia Quintal |
+| magicae | adj | magical | Historia Quintal |
+| sempal | adv | always | Historia Quintal |
+| natalis | n/adj | birthplace; natal | Historia Quintal |
+| auroras boreales | n phrase | northern lights, aurora borealis | Historia Quintal |
+| pingar | v | paints | Historia Quintal |
+| velocissimal | adj | most swiftly (superlative of veloc-) | Historia Quintal |
+| liberat-ot | v (counterfactual) | were freed (counterfactual antecedent) | Historia Quintal |
+| portar-ot | v (counterfactual) | would carry (counterfactual consequent) | Historia Quintal |
+| secar | v | cuts | Historia Quintal |
+| calceo | n (inanim) | shoe, boot | Historia Quintal |
+| vivit-it | v (subjunctive) | if he lives | Historia Quintal |
+| invenies-ant | v (intentive) | you will find (committed pursuit) | Historia Quintal |
+| amplexar | v | embraces | Historia Quintal |
+| nives | n (inanim, pl) | snows | Historia Quintal |
+| regiones | n (inanim, pl) | regions | Historia Quintal |
+| vix | adv | barely | Historia Quintal |
+| lucet | v | shines | Historia Quintal |
