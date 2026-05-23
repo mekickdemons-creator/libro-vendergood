@@ -880,7 +880,7 @@ This story is the **first maturity test of the unified-incantara hypothesis**, a
 
 ### IV. Limite Horti Regine Glacial
 
-**Avlo reno tunc Gerdam de taberna Finnal femine extra duxit, et iterum ad boream cucurrit. Sed non longe — nam mox ad limite venerunt ubi nec arboro nec frutico crescit. Solum unum fruticum rubal cum bacis rubal ibi stat, ultimum vivente ante regnum frigal Regine Glacial.**
+**Avlo reno tunc Gerdam de taberna Finnal femine extra duxit, et iterum ad boream cucurrit. Sed non longe — nam mox ad limite venerunt ubi nec arboro nec frutico crescit. Solum unum fruticum rubal cum bacoi rubal ibi stat, ultimum vivente ante regnum frigal Regine Glacial.**
 
 *The reindeer then led Gerda out of the Finn woman's hut, and again ran to the north. But not far — for soon they came to the border where neither tree nor bush grows. Only one red bush with red berries stood there, the last living thing before the cold kingdom of the Snow Queen.*
 
@@ -1363,3 +1363,325 @@ This story is the **second maturity test of the unified-incantara hypothesis**, 
 | surrexit | v | rose (past of surgere) | Historia Sexta |
 | distantia | n (Class III) | distance | Historia Sexta |
 | terribilal | adj | terrible | Historia Sexta |
+
+---
+
+## Historia Septima — Quid Accidit in Regalio Regine Glacial, et Quid Postea Accidit
+## Seventh Story — What Happened in the Snow Queen's Palace, and What Happened Afterwards
+
+*Danish: Syvende Historie. Hvad der skete i Sneedronningens Slot, og hvad der siden skete*
+
+---
+
+### I. Floccoi et Halito
+
+**Regalio Regine Glacial ex glacio puro factum erat. Muroi, fenestrae, portae — omnal glacial, omnal lucental, omnal acutal. Sed ante portas, exercitus nivis ipse Reginam custodibat — non veroi floccoi sed sentinelloi, formoi monstral mutabilal.**
+
+*The Snow Queen's palace was made of pure ice. Walls, windows, gates — all icy, all gleaming, all sharp. But before the gates, the army of the snow itself guarded the Queen — not real snowflakes but sentinels, shapes shifting in monstrous forms.*
+
+---
+
+**Quan Gerda appropinquit, floccoi simil draconoi et serpentoi et magnal ursoi mutaverunt — ad ela ruerunt, eam dilacerare voluntes. Gerda non habebat hastam, non clypeum, non militem. Solal stat, parval et inermal in nive infinital.**
+
+*When Gerda approached, the flakes changed into the shapes of dragons and serpents and great bears — they rushed at her, wanting to tear her apart. Gerda had no spear, no shield, no soldier. She stood alone, small and unarmed in endless snow.*
+
+---
+
+**Et Gerda oratio sual orit — verboi quae ela ab avla matre infanto didicit. Et halito eius ino aero frigal ad nuboi parval albal solidificit, et nuboi ino angeloi mutaverunt — angeloi cum cassidoi et hastoi et clypeoi, parval sed magnal numero.**
+
+*And Gerda prayed her prayer — words she had learned from her grandmother as a child. And her breath in the cold air solidified into small white clouds, and the clouds changed into angels — angels with helmets and spears and shields, small but great in number.*
+
+---
+
+**Et angeloi floccoi hostal traspatserunt — hastoi suoi ino corporoi monstral nivis penetraverunt, et floccoi in pulvero ceciderunt. Et Gerda per portas ino regalio liberal intrit, et angeloi cum ela ino salam intraverunt et eam circum stetiverunt.**
+
+*And the angels pierced the hostile flakes — their spears penetrated the monstrous snow-bodies, and the flakes fell into dust. And Gerda passed freely through the gates into the palace, and the angels entered the hall with her and stood around her.*
+
+---
+
+### II. Salae Vacual et Speculo Rationis
+
+**Salae palatii ingental erant — centum, fortasse plus — omnal glacial, omnal vacual, omnal lucental ab aurora boreal quae per muroi translucental pingit. Gaudio non ibi erat. Risus non ibi erat. Solum frigo et splendor et silentio.**
+
+*The palace halls were enormous — a hundred, perhaps more — all icy, all empty, all glowing from the aurora borealis which painted through the translucent walls. There was no joy there. There was no laughter there. Only cold and brilliance and silence.*
+
+---
+
+**Regina Glacial non ibi erat. Ela ad montoi ignal volit, ut volcanoi albare — nives suas supra Etnam et Vesuvium spargere, et quaeere quos hominoi ibi habitantal infantoi furare potit.**
+
+*The Snow Queen was not there. She had flown to the fiery mountains, to whiten the volcanoes — to scatter her snows over Etna and Vesuvius, and to seek which of the children of the people living there she might steal.*
+
+---
+
+**Et in centro salae magnal, supra lago glacial speculoque planar, Kai sedit.**
+
+*And in the center of the great hall, upon an icy lake flat as a mirror, Kai sat.*
+
+---
+
+**Lo pene nigral erat ex frigo, sed frigo non sentibat — fragmentoi glacial ino cordo et ino oclo non lo sinebant. Lo cum fragmentoi glacial planal acutal ludebat — ino formoi mutabilal ea componens.**
+
+*He was nearly black from the cold, but he did not feel the cold — the shards of ice in his heart and in his eye did not let him. He played with flat sharp ice-shards — composing them into changeable shapes.*
+
+---
+
+**Hoc ludum "speculo rationis" Regina vocavit. Fragmentoi ad nomen unum certal componare conabatur — et si verbum confecerit, lo dominus sui ipsius foret, et Regina ei mundum totum donot, et calceoi argental.**
+
+*This game the Queen had called "the mirror of reason." He tried to compose the fragments into one certain name — and if he should complete the word, he would be his own master, and the Queen would give him the whole world, and silver skates.*
+
+---
+
+**Sed verbum quod il quaerit — nomen quod cordo glacial cogitar non potit — il invenire non potuit. Sedit et movit et iterum movit, et fragmentoi positionoi suas mutaverunt sed verbum non confecerunt.**
+
+*But the word he sought — the name an icy heart cannot think — he could not find. He sat and moved and moved again, and the shards changed their positions but did not complete the word.*
+
+---
+
+### III. Lacrimoi Calidoi
+
+**Et tunc Gerda ino salam intrit.**
+
+*And then Gerda entered into the hall.*
+
+---
+
+**Lo eam non recognoscit. Lo immobil sedit, frigal, fragmentoi tenens. Gerda lo aspexit — Kai eius, Kai amicus, Kai parval — nigral et frigal et alienal. Cor Gerdae fractum esit.**
+
+*He did not recognize her. He sat motionless, cold, holding the shards. Gerda looked at him — her Kai, her friend, her little Kai — black and cold and strange. Gerda's heart broke.*
+
+---
+
+**Et ela ad lo cucurrit, et eum amplexit, et lacrimat lacrimoi calidal calidal — lacrimoi quae sicut igne ardent, nam ex corde plenal amore venerunt.**
+
+*And she ran to him, and embraced him, and wept hot hot tears — tears that burn like fire, for they came from a heart full of love.*
+
+---
+
+**Lacrimoi suoi ino corpus eius ceciderunt, et per vestes eius transierunt, et ino pectus eius pervenerunt, et fragmentum glacial ino cordo eius dissolverunt.**
+
+*Her tears fell upon his body, and passed through his clothes, and reached his chest, and dissolved the ice-shard in his heart.*
+
+---
+
+**Et Kai eam aspexit. Et ocloi eius vivescere coeperunt. Et lo etiam lacrimat — et lacrimoi eius fragmentum parvior ex oclo suo lavaverunt.**
+
+*And Kai looked at her. And his eyes began to come alive. And he too wept — and his tears washed the smaller fragment from his eye.*
+
+---
+
+**"Gerda!" lo dicit. "Gerda parval mea! Ubi tu fuisti tan diu? Et ego — ubi ego fui?" Et lo circum se aspexit. "Quan frigal est! Quan vacual et magnal!" Et ad Gerdam adhaesit, et ela ad lo ridit et lacrimat simul.**
+
+*"Gerda!" he said. "My little Gerda! Where have you been so long? And I — where have I been?" And he looked around himself. "How cold it is! How empty and great!" And he clung to Gerda, and she laughed and wept upon him at once.*
+
+---
+
+### IV. Aeternitas
+
+**Et fragmentoi glacial — quae ante Kai jacebant, mutal et passival — saltare coeperunt. De gaudio saltaverunt. Et lassal, dum saltant, in terro ceciderunt — et in cadendo, formoi suas ipsoi composuerunt.**
+
+*And the ice-shards — which lay before Kai, mute and passive — began to dance. For joy they danced. And tired, as they danced, they fell to the ground — and in falling, they composed their own shapes.*
+
+---
+
+**Et verbum quod Kai conficere non potit, fragmentoi ipsoi confecerunt: AETERNITAS.**
+
+*And the word which Kai could not complete, the shards themselves completed: ETERNITY.*
+
+---
+
+**Et hoc verbum dominium Kai supra se ipsum donit, et libertatem ex regno frigal, et — secundum promissum — calceoi argental quoque. Sed Kai calceoi non quaerit. Lo Gerdam quaerit, et Gerdam jam invenit.**
+
+*And this word gave Kai mastery over himself, and freedom from the cold kingdom, and — according to the promise — silver skates also. But Kai did not seek skates. He sought Gerda, and Gerda he had now found.*
+
+---
+
+### V. Iter Domum
+
+**Manibus junctis, Kai et Gerda ex regalio exierunt. Et quan ex portis exierunt, vento frigal non plus erat — ver iam advenit, etiam ad terro boreal Regine Glacial.**
+
+*With joined hands, Kai and Gerda went out from the palace. And when they went out from the gates, the cold wind was no more — spring had now come, even to the northern land of the Snow Queen.*
+
+---
+
+**Ad fruticum rubal cum bacoi rubal — ubi avlo reno eos exspectit — pervenerunt. Et reno gaudit, et alia renal femina cum lo erat, plena lacte calidal pro Kai et Gerda.**
+
+*They came to the red bush with red berries — where the reindeer waited for them. And the reindeer rejoiced, and another reindeer-female was with him, full of warm milk for Kai and Gerda.*
+
+---
+
+**Et renoi eos ad tabernam Finnal femine portaverunt, et tunc ad tabernam Lapponal femine, et utraque salutavit eos cum gaudio et cibo et verboi benignoi. Et Finnal femina dicit Gerdae: "Hoc est sciar mea, nunc demonstratal: vis tua sufficiental erat. Domum redibis cum eo quem quaerebas."**
+
+*And the reindeer carried them to the Finn woman's hut, and then to the Lapp woman's hut, and each greeted them with joy and food and kind words. And the Finn woman said to Gerda: "This is my knowing, now demonstrated: your strength was sufficient. You shall return home with him whom you sought."*
+
+---
+
+**Et inde, ad meridiem proficiscentes, ad silvo magnal pervenerunt — silvo latronum, ubi avla parval latrona habitebat. Sed silvo non plus tan obscural erat. Verno folioi noval crescebant, et avoi cantabant.**
+
+*And thence, journeying southward, they came to the great forest — the forest of the robbers, where the little robber girl lived. But the forest was no longer so dark. In spring new leaves were growing, and birds sang.*
+
+---
+
+**Et avla parval latrona equital per silvo cum equo aural — non plus latrona, sed eques sola, exploratorix mundi. Avla vetal latrona, mater eius, jam mortal erat. Avla parval latrona Gerdam et Kai vidit et exclamit:**
+
+*And the little robber girl rode through the forest with a golden horse — no longer a robber, but a lone rider, an explorer of the world. The old robber woman, her mother, was now dead. The little robber girl saw Gerda and Kai and exclaimed:*
+
+---
+
+**"Tu! Vagatrix! Et hoc estit Kai? Bene fecisti — eum invenisti! Et ego — ego jam mundum video. Avlas columbas dimisi, equum cepi, et viam meam ipsa invenio."**
+
+*"You! Wanderer! And is this Kai? Well done — you found him! And I — I now see the world. The doves I released, a horse I took, and my own way I find."*
+
+---
+
+**Et de aliis narrit — de columbis silvestral quae ad nidoi suoi rediverunt; de princeps et princessa, qui in peregrinatione ad terras alial iverunt; de avlo corvo silvae quod jam mortal erat, et avla corva eius quae cum cingulo nigral mortem eius lugat.**
+
+*And she told of others — of the wild doves who had returned to their nests; of the prince and princess, who had gone on pilgrimage to foreign kingdoms; of the male crow who was now dead, and his female crow who with a black band mourned his death.*
+
+---
+
+**Gerda et Kai eam amplexerunt, et inde proficiscentes, ad urbom suam pervenerunt.**
+
+*Gerda and Kai embraced her, and journeying on, came to their own city.*
+
+---
+
+### VI. Avla Mater et Aestas
+
+**Per portas urbis intraverunt — portas eas quas Gerda ante longal tempore exiverat, parval et inscial. Et ad domum eorum venerunt, et per scalas ascenderunt, et omnal in domo simil erat ut ante — horologium dicens "tic-tac," manus moventes — sed quan ipsi per ostium intraverunt, animadverterunt quod ipsi mutati erant.**
+
+*Through the gates of the city they entered — those gates which Gerda had long ago departed, small and unknowing. And to their house they came, and up the stairs they climbed, and everything in the house was as before — the clock saying "tick-tock," the hands moving — but when they themselves entered through the door, they noticed that they themselves had changed.*
+
+---
+
+**Adulti erant. Pueri non plus. Sed in cordibus suos pueri adhuc — et hoc magnissimal mirabilal donum erat ex itinere: corpus crescit, sed cor parval manere potit.**
+
+*They were adults. No longer children. But in their hearts still children — and this was the greatest wondrous gift from the journey: the body grows, but the heart can remain small.*
+
+---
+
+**Avla mater eorum — quae numquam credit eos amissal esse totaliter, quamquam annoi multoi transierunt — sedebat ut antea ad fenestram, in sole legens ex libro suo. Et sol illuminit verboi quos legebat: "Si non efficimini sicut parvuli, non intrabitis in regnum coeli."**
+
+*Their grandmother — who had never believed them to be wholly lost, though many years had passed — sat as before at the window, in the sun reading from her book. And the sun illuminated the words she was reading: "Unless you become like little children, you shall not enter the kingdom of heaven."*
+
+---
+
+**Et Kai et Gerda alterutrum aspexerunt, et carmen vetal intellegerunt — verbo non solum sed sensum:**
+
+**Rosoi crescunt in vallibus,**
+**Ubi puerum Christum invenimus.**
+
+*And Kai and Gerda looked at each other, and understood the old song — not only the words but the meaning:*
+
+***Roses bloom in the valleys,
+Where we find the Christ child.***
+
+---
+
+**Et tunc sederunt junctis manibus, et aestas calidal et benignal extra erat. Et ipsi adulti — sed in corde pueri — sederunt in luce aestatis, sicut annoi elapsal non fuissent.**
+
+*And then they sat with joined hands, and outside was warm and kind summer. And they themselves grown — but in heart children — sat in the summer light, as if the years gone had not been.*
+
+---
+
+**Et finit Historia.**
+
+*And the Story ends.*
+
+---
+
+### Note on Epistemic Register — Historia Septima
+
+This story is the climax of the seven, and it is the **third and final test of the unified-incantara hypothesis**. The hypothesis holds at its strictest. Story VII contains more *magical events* than any prior story — the snowflake army, the breath-angels, the ice-puzzle, the heart-thaw, the shards dancing into ETERNITAS, the spring arriving at the northern border the moment Kai is free — and yet the story uses *less* register-marking than any of the middle three. The grammar is quiet because nothing is being **framed**. There is no enchanter standing back to set up the scene, no `incantara horti`, no `incantara shamanal`. The miracles happen in waking light, observed directly, narrated in indicative. The unified-incantara hypothesis tracks *deliberate magical frames*; it does not track *miracles, transformations, or supernatural events occurring in the open*. Story VII is the boundary case, and the grammar refuses to expand the register's scope to cover it.
+
+**The breath-angels — miracle in waking light, not a frame.** When Gerda prays and her breath solidifies into angels, this is the most overtly supernatural event in the entire tale outside the magic mirror of Historia Unal. The temptation to mark her prayer or the angels' appearance with a new register — `pray:`, `mirac:`, anything — would have been a major coining. The unified-incantara discipline blocks it. The angels arrive in the open, observed directly by Gerda, fighting visible enemies in visible snow. There is no frame; no one *sets up* an enchanted environment; the prayer is not an `incantara` but an *act* in the waking world, and what follows is a *response* to that act. The grammar narrates the response in plain indicative (`halito eius... ino angeloi mutaverunt`) and trusts the reader to see what is happening. This is the most disciplined moment in the corpus: the grammar declines to honor a miracle with register marking because register marking is not what miracles are *for*. It is what *frames* are for.
+
+**The shards dancing — miracle, not enchantment.** The same logic governs the ice-shards' spontaneous composition of AETERNITAS. The shards do what Kai could not do, and they do it because his heart has thawed. The event is causally magical and morally meaningful, but it is not a *frame*. No one steps back; no one stages the scene; no one *enters* an altered state of perception. The shards simply dance. The grammar narrates in indicative. AETERNITAS appears in the line as a foreign word — a *result*, not a *frame-content* — and the surrounding clauses (`hoc verbum dominium Kai supra se ipsum donit...`) describe its effects in plain consequence-of-event form. No `incant:`. The discipline is exact.
+
+**The Queen's "speculo rationis" — named frame, used unmarked.** Kai's ice-puzzle is the Queen's deliberate creation; she has named it "the mirror of reason"; it is in principle exactly the kind of deliberate magical frame that warrants `incantara` marking. And yet the narration of Kai's play with the puzzle uses plain indicative throughout (`fragmentoi ad nomen unum certal componare conabatur`). Why? Because the *frame* is the Queen's; the *experiencer* is Kai; and the narrator is reporting Kai's failure to complete the puzzle, not the puzzle's frame-content. There is no frame-source content here — the puzzle has nothing to *report*. It is an *object* the Queen made, working as an object. The grammar marks frames whose *content* is being conveyed; it does not mark every magical object in the room. This sharpens the hypothesis: `incantara` register applies to **frame-source utterances**, not to frame-source *objects*. The Queen's puzzle is the former kind only when something inside the frame is being spoken-from. Kai's silent struggle to complete the word is just a boy failing at a task. The task is magical; the narration is not.
+
+**Why no `frigara`.** Story VI flagged the open question of whether *cold-as-substance* wants its own Class III abstract feminine noun. Story VII pressed on it: the Snow Queen's palace is **made** of cold, Kai's frozen state **is** cold, the kingdom **is** cold, and at the moment of the heart-thaw the cold itself **lifts**. The drafter found in every case that the adjective-anchored construction sufficed: `regalio glacial`, `regno frigal`, `vento frigal`, `lago glacial speculoque planar`, `terro boreal`. Even the climactic moment — *the cold left him* — surfaced naturally as `frigo non sentibat... frigo lifted` shaped through `frigal` adjective and the implicit subject of "the wind was no more." The strain Story VI worried about never materialized. **The unified-incantara hypothesis's twin in the noun system holds**: do not coin a new abstract feminine for a state already carried by an adjective unless a translation scene resists the adjective. Vendergood does not need `frigara`. The deferred question closes by attrition, the right way.
+
+**`Sciar mea` — pattern confirmed, ready for Vol II.** The Finn woman uses `Hoc est sciar mea` a second time in Story VII, in parallel structural position to Story VI — at the threshold between the frame-source incantara content and the waking-world claim about Gerda. This is now two independent instances of the same construction: the infinitive `sciar` functioning as a Class III abstract feminine substantive ("a knowing") with a Latin possessive (`mea` agreeing in feminine). The pattern is productive across the language and is no longer a single-witness curiosity. The construction belongs in Vol II §2.6 as a documented derivational pattern: *any infinitive of an epistemic verb can function as a Class III abstract feminine substantive*, opening `cogitar mea` ("a thinking of mine," a working belief), `videbar mea` ("a seeming of mine," a sense or hunch), `imaginar mea` ("an imagining of mine," a stipulation). This is a genuine grammar expansion earned by the corpus; it is the first new structural pattern Snow Queen has surfaced since Story VI, and it surfaced by emerging twice rather than being designed.
+
+**The hymn — quoted, indicative, untouched.** *Rosoi crescunt in vallibus, ubi puerum Christum invenimus.* The closing hymn is rendered in plain indicative, with the proper noun *Christum* preserved unchanged. It is quoted speech (Gerda and Kai *understand* — `intellegerunt` — the song), not an `incantara`. The hymn is the moral center of the tale and the language refuses to dress it. Andersen's Danish does the same: no liturgical register, just the line and its meaning. Vendergood follows.
+
+**What the seven stories together demonstrate.** Across seven stories, the source-channel system has been exercised in every direction: deliberate enchanted frames (`incantara horti`, `incantara shamanal`), reported memory (`mnem:`), counterfactual imagination (`imag:`, `imaginev`), dream-content (`somn:`, `somnev`), and the unmarked indicative confrontation that closes the tale. The four `-ara` abstract feminines (mnemara, glorara, animara, somnara, incantara) carry the principal altered-frame phenomena without proliferating. The eleven active moods carry the temporal-aspectual range without `strongeable`. Twenty-two additions are sufficient for a complete fairy-tale translation. The grammar is **finished enough to work** — the Snow Queen reached its end without forcing a single new structural extension. That is the project's final maturity signal.
+
+---
+
+| Root | Form | Meaning | First appearance |
+|------|------|---------|------------------|
+| magnal | adj | great, large | Historia Septima |
+| frigal | adj | cold | Historia Septima |
+| frigo | n (inanim) | cold (as substance/state) | Historia Septima |
+| gaudio | n (inanim) | joy | Historia Septima |
+| alienal | adj | strange, alien | Historia Septima |
+| mutabilal | adj | changeable | Historia Septima |
+| certal | adj | certain | Historia Septima |
+| lassal | adj | tired | Historia Septima |
+| noval | adj | new | Historia Septima |
+| mortal | adj | dead | Historia Septima |
+| inscial | adj | unknowing | Historia Septima |
+| demonstratal | adj | demonstrated | Historia Septima |
+| ingental | adj | enormous | Historia Septima |
+| hostal | adj | hostile | Historia Septima |
+| monstral | adj | monstrous | Historia Septima |
+| immobil | adj | motionless | Historia Septima |
+| floccoi | n (inanim pl) | snowflakes | Historia Septima |
+| sentinello | n (anim masc) | sentinel, guard | Historia Septima |
+| draco | n (anim masc) | dragon | Historia Septima |
+| serpento | n (anim masc) | serpent | Historia Septima |
+| urso | n (anim masc) | bear | Historia Septima |
+| dilacerare | v (inf) | to tear apart | Historia Septima |
+| hasta | n (Class III) | spear | Historia Septima |
+| clypeo | n (inanim) | shield | Historia Septima |
+| inermal | adj | unarmed | Historia Septima |
+| oratio | n (Class III) | prayer | Historia Septima |
+| halito | n (inanim) | breath | Historia Septima |
+| solidificit | v | solidified | Historia Septima |
+| cassido | n (inanim) | helmet | Historia Septima |
+| traspatserunt | v (past pl) | pierced through | Historia Septima |
+| pulvero | n (inanim) | dust | Historia Septima |
+| translucental | adj | translucent | Historia Septima |
+| splendor | n (Class III) | brilliance | Historia Septima |
+| silentio | n (inanim) | silence | Historia Septima |
+| volcano | n (inanim) | volcano | Historia Septima |
+| montoi ignal | n phrase | fiery mountains | Historia Septima |
+| albare | v (inf) | to whiten | Historia Septima |
+| furare | v (inf) | to steal | Historia Septima |
+| lago | n (inanim) | lake | Historia Septima |
+| planar | adj | flat | Historia Septima |
+| pectus | n (inanim) | chest | Historia Septima |
+| dissolverunt | v (past pl) | dissolved | Historia Septima |
+| vivescere | v (inf) | to come alive | Historia Septima |
+| lavaverunt | v (past pl) | washed | Historia Septima |
+| mutal | adj | mute | Historia Septima |
+| passival | adj | passive | Historia Septima |
+| componere | v (inf) | to compose, arrange | Historia Septima |
+| aeternitas | n (Class III) | eternity | Historia Septima |
+| dominium | n (inanim) | mastery, dominion | Historia Septima |
+| libertas | n (Class III) | freedom | Historia Septima |
+| calceoi argental | n phrase | silver skates | Historia Septima |
+| renal femina | n phrase | female reindeer | Historia Septima |
+| lacte | n (inanim) | milk | Historia Septima |
+| utraque | pron | each (of two) | Historia Septima |
+| equital | v | rides (a horse) | Historia Septima |
+| eques | n (anim masc/fem) | rider, knight | Historia Septima |
+| exploratorix | n (anim fem) | (female) explorer | Historia Septima |
+| nidoi | n (inanim pl) | nests | Historia Septima |
+| peregrinatio | n (Class III) | pilgrimage | Historia Septima |
+| terras alial | n phrase | other lands, foreign lands | Historia Septima |
+| cingulo | n (inanim) | band, belt | Historia Septima |
+| lugat | v | mourns | Historia Septima |
+| horologium | n (inanim) | clock | Historia Septima |
+| ostium | n (inanim) | door | Historia Septima |
+| animadverterunt | v (past pl) | noticed | Historia Septima |
+| adulti | n (anim pl) | adults | Historia Septima |
+| mirabilal | adj | wondrous, marvelous | Historia Septima |
+| amissal | adj | lost (perfect passive) | Historia Septima |
+| parvuli | n (anim pl) | little children | Historia Septima |
+| regnum coeli | n phrase | kingdom of heaven | Historia Septima |
+| valloi | n (inanim pl) | valleys | Historia Septima |
+| Christum | n (proper, anim masc) | Christ | Historia Septima |
+| elapsal | adj | gone by, elapsed | Historia Septima |
+| finit | v | ends | Historia Septima |
