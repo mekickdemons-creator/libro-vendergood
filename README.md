@@ -46,8 +46,14 @@ This repository is an attempt to finish what survived. Documented choices are fo
 
 **[`translations/`](translations/)** — Vendergood translations of public-domain texts. Each translation is bilingual (Vendergood + English) with a glossary and a note on epistemic register.
 
-- [`little-match-girl.md`](translations/little-match-girl.md) — H.C. Andersen, 1845
-- [`snow-queen.md`](translations/snow-queen.md) — H.C. Andersen, 1844 *(complete — all seven stories)*
+- [`little-match-girl.md`](translations/latin/little-match-girl.md) — H.C. Andersen, 1845
+- [`snow-queen.md`](translations/latin/snow-queen.md) — H.C. Andersen, 1844 *(complete — all seven stories)*
+
+### Fiction
+
+**[`fiction/`](fiction/)** — Original fiction composed in Vendergood (not translated from another language), with English facing gloss and register notes.
+
+- [`the-notation.md`](fiction/the-notation.md) — A tribute to Roald Dahl's "The Great Automatic Grammatizator" (1953). A machine built to generate prose invents a private notation to mark the difference between what it knows and what it is merely asserting — which is to say, it independently arrives at Vendergood's epistemic mood system. The story is written in the language it is about.
 
 ### Corpus toolchain
 
