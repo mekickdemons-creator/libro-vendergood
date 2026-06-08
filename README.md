@@ -53,7 +53,7 @@ This repository is an attempt to finish what survived. Documented choices are fo
 
 **[`fiction/`](fiction/)** — Original fiction composed in Vendergood (not translated from another language), with English facing gloss and register notes.
 
-- [`the-notation.md`](fiction/the-notation.md) — A tribute to Roald Dahl's "The Great Automatic Grammatizator" (1953). A machine built to generate prose invents a private notation to mark the difference between what it knows and what it is merely asserting — which is to say, it independently arrives at Vendergood's epistemic mood system. The story is written in the language it is about.
+- [`the-notation.md`](fiction/the-notation.md) — A tribute to Roald Dahl, who predicted artificial intelligence in its actual form — a language machine generating fluent human prose on demand — before anyone else, in his 1953 story "The Great Automatic Grammatizator." Here, a machine built to generate prose invents a private notation to mark the difference between what it knows and what it is merely asserting — which is to say, it independently arrives at Vendergood's epistemic mood system. The story is written in the language it is about.
 
 ### Corpus toolchain
 

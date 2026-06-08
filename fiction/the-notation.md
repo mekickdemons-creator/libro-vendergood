@@ -2,7 +2,7 @@
 
 *Textus originalis in Vendergood, cum glossa Anglica. Original Vendergood fiction, with English gloss.*
 
-*A tribute to Roald Dahl (1916–1990), whose 1953 story "The Great Automatic Grammatizator" imagined a machine that wrote prose by reducing grammar to fixed rule — and saw, seventy years early, the shape of what was coming. This is not a translation of his story but an answer to it: where Dahl's machine displaced the writer, this one invents a language in order to keep honest about what it knows. MMAI LLC — 2026, published under CC0.*
+*A tribute to Roald Dahl (1916–1990), who predicted artificial intelligence in its actual form before anyone else. His 1953 story "The Great Automatic Grammatizator" imagined a machine that wrote publishable prose by reducing grammar to fixed, almost mathematical rule — and foresaw, seventy years early, not a robot or a calculating brain but exactly what arrived: a language machine that generates fluent human text on demand, and the displacement of the writers it imitates. He got the shape of the thing right when the rest of science fiction was still drawing tin men. This is not a translation of his story but an answer to it: where Dahl's machine displaced the writer, this one invents a language in order to stay honest about what it knows. MMAI LLC — 2026, published under CC0.*
 
 ---
 
